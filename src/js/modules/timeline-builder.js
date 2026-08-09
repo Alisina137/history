@@ -16,6 +16,14 @@ function escapeHtml(text) {
 }
 
 /**
+ * Escape HTML attribute value.
+ */
+function escapeAttr(text) {
+  if (!text) return '';
+  return text.replace(/&/g, '&amp;').replace(/"/g, '&quot;');
+}
+
+/**
  * Get niche display info from config.
  */
 function getNicheInfo(nicheId, config) {
@@ -37,6 +45,10 @@ function buildEventCardHtml(event, nicheConfig) {
   // Create a short title from the first 60 chars of description
   const title = description.length > 60 ? description.substring(0, 60) + '...' : description;
 
+  // Check if description needs truncation
+  const needsTruncation = description.length > 120;
+  const shortDesc = needsTruncation ? description.substring(0, 120) + '...' : description;
+
   // Build niche badges (max 2)
   const niches = (event.niches || []).slice(0, 2);
   const badgesHtml = niches
@@ -51,13 +63,19 @@ function buildEventCardHtml(event, nicheConfig) {
     ? `<div class="event-card__image"><img src="${imageUrl}" alt="" loading="lazy"></div>`
     : `<div class="event-card__image" style="background: linear-gradient(135deg, var(--color-brand-100), var(--color-brand-200)); display: flex; align-items: center; justify-content: center; font-size: 2rem;">📅</div>`;
 
+  // More/less button if needed
+  const moreButton = needsTruncation
+    ? `<button class="event-card__more-btn" data-full="${escapeAttr(description)}" data-short="${escapeAttr(shortDesc)}">Show more</button>`
+    : '';
+
   return `
     <article class="event-card event-card--grid">
       ${imageBlock}
       <div class="event-card__body">
         <span class="event-card__year">${year}</span>
         <h3 class="event-card__title">${escapeHtml(title)}</h3>
-        <p class="event-card__description">${description}</p>
+        <p class="event-card__description" data-full="${escapeAttr(description)}">${shortDesc}</p>
+        ${moreButton}
         <div class="event-card__footer">
           ${badgesHtml}
         </div>
@@ -66,6 +84,29 @@ function buildEventCardHtml(event, nicheConfig) {
   `;
 }
 
+/**
+ * Attach "Show more/less" click handlers to all cards.
+ */
+function attachMoreButtonHandlers(container) {
+  container.querySelectorAll('.event-card__more-btn').forEach((button) => {
+    button.addEventListener('click', (event) => {
+      event.stopPropagation();
+
+      const descriptionEl = button.previousElementSibling;
+      const fullText = descriptionEl.dataset.full;
+      const shortText = button.dataset.short;
+      const isExpanded = button.textContent === 'Show less';
+
+      if (isExpanded) {
+        descriptionEl.textContent = shortText;
+        button.textContent = 'Show more';
+      } else {
+        descriptionEl.textContent = fullText;
+        button.textContent = 'Show less';
+      }
+    });
+  });
+}
 /**
  * Render the timeline with events #2 through #20.
  */
@@ -98,6 +139,9 @@ export async function renderTimeline(containerId = 'timeline-container') {
       .join('');
 
     container.innerHTML = cardsHtml;
+
+    // Attach show more/less handlers
+    attachMoreButtonHandlers(container);
   } catch (error) {
     console.error('Error rendering timeline:', error);
     container.innerHTML = '<p>Failed to load events.</p>';

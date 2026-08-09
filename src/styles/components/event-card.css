@@ -215,3 +215,21 @@
     grid-template-columns: repeat(3, 1fr);
   }
 }
+/* Show More / Show Less Button */
+.event-card__more-btn {
+  display: inline-block;
+  background: none;
+  border: none;
+  color: var(--color-brand-600);
+  font-size: var(--text-xs);
+  font-weight: var(--font-medium);
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: var(--space-3);
+  transition: color var(--transition-fast);
+}
+
+.event-card__more-btn:hover {
+  color: var(--color-brand-800);
+  text-decoration: underline;
+}
