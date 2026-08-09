@@ -20,9 +20,13 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@eslint/js": "^10.8.1",
-    "eslint": "^9.x.x",
+    "@eslint/js": "^9.39.5",
+    "eslint": "^9.39.5",
     "live-server": "^1.x.x",
     "prettier": "^3.x.x"
+  },
+  "dependencies": {
+    "date-fns": "^4.4.0",
+    "modern-normalize": "^3.0.1"
   }
 }
