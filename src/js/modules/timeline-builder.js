@@ -34,8 +34,11 @@ function buildEventCardHtml(event, nicheConfig) {
   const description = escapeHtml(event.description);
   const imageUrl = event.image_url || '';
 
-  // Build niche badges (max 3)
-  const niches = (event.niches || []).slice(0, 3);
+  // Create a short title from the first 60 chars of description
+  const title = description.length > 60 ? description.substring(0, 60) + '...' : description;
+
+  // Build niche badges (max 2)
+  const niches = (event.niches || []).slice(0, 2);
   const badgesHtml = niches
     .map((nicheId) => {
       const info = getNicheInfo(nicheId, nicheConfig);
@@ -43,21 +46,22 @@ function buildEventCardHtml(event, nicheConfig) {
     })
     .join(' ');
 
-  // Thumbnail
+  // Image block with fallback
   const imageBlock = imageUrl
     ? `<div class="event-card__image"><img src="${imageUrl}" alt="" loading="lazy"></div>`
-    : `<div class="event-card__image" style="background: var(--color-neutral-100); display: flex; align-items: center; justify-content: center; font-size: 1.5rem;">📅</div>`;
+    : `<div class="event-card__image" style="background: linear-gradient(135deg, var(--color-brand-100), var(--color-brand-200)); display: flex; align-items: center; justify-content: center; font-size: 2rem;">📅</div>`;
 
   return `
-    <article class="event-card">
-      <span class="event-card__year">${year}</span>
-      <div class="event-card__content">
+    <article class="event-card event-card--grid">
+      ${imageBlock}
+      <div class="event-card__body">
+        <span class="event-card__year">${year}</span>
+        <h3 class="event-card__title">${escapeHtml(title)}</h3>
         <p class="event-card__description">${description}</p>
         <div class="event-card__footer">
           ${badgesHtml}
         </div>
       </div>
-      ${imageBlock}
     </article>
   `;
 }
@@ -68,6 +72,8 @@ function buildEventCardHtml(event, nicheConfig) {
 export async function renderTimeline(containerId = 'timeline-container') {
   const container = document.getElementById(containerId);
   if (!container) return;
+
+  container.className = 'event-cards-grid';
 
   try {
     const [eventsData, nicheConfig] = await Promise.all([loadEvents(), loadNicheConfig()]);
