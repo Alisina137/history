@@ -19,6 +19,7 @@ export default [
         console: 'readonly',
         localStorage: 'readonly',
         fetch: 'readonly',
+        URLSearchParams: 'readonly',
       },
     },
   },
