@@ -72,23 +72,3 @@ export async function buildMergedFeed() {
     return [];
   }
 }
-
-// Temporary test — remove after verification
-async function test() {
-  // Set some fake favorites in localStorage
-  localStorage.setItem(
-    'favoriteNiches',
-    JSON.stringify(['space-exploration', 'firsts-in-history'])
-  );
-
-  const feed = await buildMergedFeed();
-  console.log('Merged feed events:', feed.length);
-  console.log('Top 3:');
-  feed.slice(0, 3).forEach((e, i) => {
-    console.log(`  ${i + 1}. [${e.global_score}] ${e.year}: ${e.description.substring(0, 60)}...`);
-    console.log(`     Niches: ${e.niches.join(', ')}`);
-  });
-
-  // Clear test data
-  localStorage.removeItem('favoriteNiches');
-}

@@ -1,5 +1,6 @@
 import { getFavorites, initFavoriteButtons } from './modules/favorites-manager.js';
 import { renderQuickJump } from './modules/quick-jump-builder.js';
+import { renderMergedTimeline } from './modules/merged-timeline-builder.js';
 
 async function initFavoritesPage() {
   const favorites = getFavorites();
@@ -15,8 +16,8 @@ async function initFavoritesPage() {
     emptySection.style.display = 'none';
     contentSection.style.display = 'block';
 
-    // Render quick-jump row
     await renderQuickJump();
+    await renderMergedTimeline();
   }
 
   initFavoriteButtons();
