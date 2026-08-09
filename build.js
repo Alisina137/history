@@ -19,6 +19,120 @@ const SRC_DIR = join(__dirname, 'src');
 const DIST_DIR = join(__dirname, 'dist');
 
 /**
+ * Build "On This Day" pages for historical dates.
+ */
+function buildHistoricalDatePages(config, dates) {
+  console.log(`  Building historical date pages for ${dates.length} dates...`);
+  let totalPages = 0;
+
+  const dateDir = join(DIST_DIR, 'on-this-day');
+  mkdirSync(dateDir, { recursive: true });
+
+  for (const date of dates) {
+    const dateStr = `2026-${date.label}`;
+    const eventsPath = join(DATA_DIR, `events_${dateStr}.json`);
+
+    if (!existsSync(eventsPath)) {
+      continue;
+    }
+
+    try {
+      const raw = readFileSync(eventsPath, 'utf-8');
+      const data = JSON.parse(raw);
+      const events = data.events || [];
+
+      if (events.length === 0) continue;
+
+      const dateHtml = buildDatePage(date.label, date.month, date.day, events);
+      if (dateHtml) {
+        writeFileSync(join(dateDir, `${date.label}.html`), dateHtml);
+        totalPages++;
+      }
+    } catch (err) {
+      console.error(`    Error processing date ${dateStr}: ${err.message}`);
+    }
+  }
+
+  console.log(`  Generated ${totalPages} historical date pages.`);
+  return totalPages;
+}
+
+/**
+ * Build a generic "On This Day" page for a specific date.
+ */
+function buildDatePage(dateLabel, month, day, events) {
+  const top20 = events.slice(0, 20);
+
+  if (top20.length === 0) {
+    return null;
+  }
+
+  const heroEvent = renderEventCard(top20[0], true);
+  const timelineEvents = top20
+    .slice(1)
+    .map((e) => renderEventCard(e, false))
+    .join('\n');
+
+  // Format the date for display
+  const monthNames = [
+    'January',
+    'February',
+    'March',
+    'April',
+    'May',
+    'June',
+    'July',
+    'August',
+    'September',
+    'October',
+    'November',
+    'December',
+  ];
+  const displayDate = `${monthNames[month - 1]} ${day}`;
+
+  // OG tags
+  const ogTitle = `What Happened on ${displayDate} — Today in History`;
+  const ogDesc = top20[0]
+    ? `${top20[0].year}: ${top20[0].description.substring(0, 120)}...`
+    : `Discover historical events that happened on ${displayDate}.`;
+  const ogImage = top20[0] && top20[0].image_url ? top20[0].image_url : '';
+  const ogUrl = `https://today-in-history.pages.dev/on-this-day/${dateLabel}.html`;
+  const ogTags = generateOgTags(ogTitle, ogDesc, ogImage, ogUrl);
+
+  const html = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>${escapeHtml(ogTitle)}</title>
+  <meta name="description" content="${escapeAttr(ogDesc)}">
+  ${ogTags}
+  <link rel="stylesheet" href="/styles/main.css">
+</head>
+<body>
+  ${renderHeader()}
+  <main class="container">
+    <section class="section">
+      <a href="/index.html" class="btn btn-ghost btn-sm" style="margin-bottom: 16px;">← Back to Today</a>
+      <h1 class="section__title">What Happened on ${displayDate}</h1>
+      <p class="section__subtitle">${top20.length} historical events on ${displayDate}.</p>
+      ${heroEvent}
+    </section>
+    <section class="section">
+      <h2 class="section__title">More Events on ${displayDate}</h2>
+      <div class="timeline">
+        ${timelineEvents}
+      </div>
+    </section>
+  </main>
+  ${renderFooter()}
+</body>
+</html>`;
+
+  return html;
+}
+
+/**
  * Build niche pages for specific dates.
  * Loads events from data/events_YYYY-MM-DD.json for each date.
  */
@@ -502,6 +616,7 @@ function build() {
   // Build historical pages
   const dates = getDatesToGenerate();
   buildHistoricalNichePages(nicheGroups, config, dates);
+  buildHistoricalDatePages(config, dates);
 
   console.log('Build complete!');
 }
