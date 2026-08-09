@@ -8,6 +8,17 @@
       name="description"
       content="Explore historical events that happened today, filtered by your passions. Stunning AI-generated visuals every day."
     />
+    <meta property="og:title" content="Today in History" />
+    <meta
+      property="og:description"
+      content="Discover what happened today in history. Explore events by your passions."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Today in History" />
+    <meta name="twitter:description" content="Discover what happened today in history." />
+    <meta name="twitter:image" content="" />
     <link rel="stylesheet" href="styles/main.css" />
   </head>
   <body>
@@ -34,7 +45,10 @@
       <!-- Section 1: Hero Event -->
       <section class="section" id="hero-section">
         <div id="hero-container">
-          <p>Loading today's top event...</p>
+          <div class="skeleton skeleton--image"></div>
+          <div class="skeleton skeleton--heading"></div>
+          <div class="skeleton skeleton--text"></div>
+          <div class="skeleton skeleton--text skeleton--text-short"></div>
         </div>
       </section>
 
@@ -42,7 +56,9 @@
       <section class="section" id="timeline-section">
         <h2 class="section__title">More Events Today</h2>
         <div class="timeline" id="timeline-container">
-          <p>Loading events...</p>
+          <div class="skeleton skeleton--card"></div>
+          <div class="skeleton skeleton--card"></div>
+          <div class="skeleton skeleton--card"></div>
         </div>
       </section>
 
@@ -51,7 +67,12 @@
         <h2 class="section__title">Explore by Your Passion</h2>
         <p class="section__subtitle">Choose a niche and discover what happened today.</p>
         <div class="niche-grid" id="niche-grid-container">
-          <p>Loading niches...</p>
+          <div class="skeleton skeleton--card"></div>
+          <div class="skeleton skeleton--card"></div>
+          <div class="skeleton skeleton--card"></div>
+          <div class="skeleton skeleton--card"></div>
+          <div class="skeleton skeleton--card"></div>
+          <div class="skeleton skeleton--card"></div>
         </div>
       </section>
     </main>

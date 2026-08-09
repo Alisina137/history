@@ -84,8 +84,44 @@ export async function renderHero(containerId = 'hero-container') {
     const topEvent = events[0];
     const heroHtml = buildHeroHtml(topEvent, nicheConfig);
     container.innerHTML = heroHtml;
+
+    // Update Open Graph meta tags for social sharing
+    updateMetaTags(topEvent);
   } catch (error) {
     console.error('Error rendering hero:', error);
     container.innerHTML = "<p>Failed to load today's top event.</p>";
   }
+}
+
+/**
+ * Update Open Graph and Twitter meta tags for the top event.
+ */
+function updateMetaTags(event) {
+  const description = event.description
+    ? event.description.substring(0, 160)
+    : 'Discover what happened today in history.';
+
+  setMetaTag('og:title', `Today in History: ${event.year}`);
+  setMetaTag('og:description', description);
+  setMetaTag('twitter:title', `Today in History: ${event.year}`);
+  setMetaTag('twitter:description', description);
+
+  if (event.image_url) {
+    setMetaTag('og:image', event.image_url);
+    setMetaTag('twitter:image', event.image_url);
+    setMetaTag('twitter:card', 'summary_large_image');
+  }
+}
+
+/**
+ * Helper: set or create a meta tag.
+ */
+function setMetaTag(property, content) {
+  let tag = document.querySelector(`meta[property="${property}"]`);
+  if (!tag) {
+    tag = document.createElement('meta');
+    tag.setAttribute('property', property);
+    document.head.appendChild(tag);
+  }
+  tag.setAttribute('content', content);
 }
