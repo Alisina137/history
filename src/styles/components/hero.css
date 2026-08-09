@@ -1,0 +1,60 @@
+/* =============================================
+   Hero Section Styles
+   ============================================= */
+
+/* Dark overlay for hero image readability */
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.7) 0%,
+    rgba(0, 0, 0, 0.3) 50%,
+    rgba(0, 0, 0, 0.1) 100%
+  );
+}
+
+/* Ensure hero body text is white and on top */
+.event-card--hero .event-card__body {
+  position: relative;
+  z-index: 2;
+  color: var(--color-neutral-0);
+}
+
+.event-card--hero .event-card__year {
+  color: var(--color-neutral-0);
+  opacity: 0.9;
+}
+
+.event-card--hero .event-card__description {
+  color: var(--color-neutral-0);
+  font-size: var(--text-lg);
+  max-width: 700px;
+}
+
+/* Hero image container needs position relative for overlay */
+.event-card--hero .event-card__image {
+  position: relative;
+}
+
+/* Hero badge styling */
+.event-card--hero .badge {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: var(--color-neutral-0);
+  backdrop-filter: blur(4px);
+}
+
+/* Mobile adjustments */
+@media (max-width: 767px) {
+  .event-card--hero .event-card__image {
+    height: 300px;
+  }
+
+  .event-card--hero .event-card__body {
+    padding: var(--space-4);
+  }
+
+  .event-card--hero .event-card__description {
+    font-size: var(--text-base);
+  }
+}
