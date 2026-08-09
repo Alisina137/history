@@ -3,6 +3,7 @@ Daily Pipeline Orchestrator
 Runs the full pipeline: fetch → enrich → tag → score → image → output.
 """
 
+from output import save_events_json, save_niche_summaries
 import sys
 import time
 from datetime import datetime, timezone
@@ -60,6 +61,11 @@ def run_pipeline(month=None, day=None, year=None, enrich_limit=None):
     print("\n[Stage 5/5] Generating AI hero image...")
     events = generate_hero_for_top_event(events)
 
+    # ---- Save Output ----
+    print("\nSaving output...")
+    save_events_json(events)
+    save_niche_summaries(events)
+
     # ---- Summary ----
     elapsed = time.time() - start_time
     print("\n" + "=" * 60)
@@ -86,7 +92,7 @@ if __name__ == "__main__":
 
     # Run pipeline with enrichment limited to 100 events for speed
     # Remove enrich_limit to process all events
-    events = run_pipeline(month=month, day=day, enrich_limit=100)
+    events = run_pipeline(month=month, day=day, enrich_limit=20)
 
     # Print niche distribution
     print("\n--- Niche Distribution ---")

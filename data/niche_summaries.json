@@ -1,0 +1,130 @@
+{
+  "art-architecture": {
+    "top_event": {
+      "year": 2024,
+      "description": "Voepass Linhas Aéreas Flight 2283 crashes near Vinhedo, São Paulo, killing all 62 people on board.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/PS-VPB_ATR_72-500_Voepass_SBSV_%28cropped%29.jpg/330px-PS-VPB_ATR_72-500_Voepass_SBSV_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 32
+  },
+  "music-history": {
+    "top_event": {
+      "year": 2021,
+      "description": "The Tampere light rail officially starts operating.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/H%C3%A4meenkatu_tram_3.jpg/330px-H%C3%A4meenkatu_tram_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 38
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 2014,
+      "description": "Michael Brown, an 18-year-old African American male in Ferguson, Missouri, is shot and killed by a Ferguson police officer after reportedly assaulting the officer and attempting to steal his weapon, sparking protests and unrest in the city.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ferguson%2C_Missouri_infobox_montage_1.png/330px-Ferguson%2C_Missouri_infobox_montage_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 21
+  },
+  "true-crime": {
+    "top_event": {
+      "year": 2014,
+      "description": "Michael Brown, an 18-year-old African American male in Ferguson, Missouri, is shot and killed by a Ferguson police officer after reportedly assaulting the officer and attempting to steal his weapon, sparking protests and unrest in the city.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ferguson%2C_Missouri_infobox_montage_1.png/330px-Ferguson%2C_Missouri_infobox_montage_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 9
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 1999,
+      "description": "Russian president Boris Yeltsin fires his prime minister, Sergei Stepashin, and for the fourth time fires his entire cabinet.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boris_Yeltsin_%283x4_cropped%29.jpg/330px-Boris_Yeltsin_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 14
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 1995,
+      "description": "Aviateca Flight 901 crashes into the San Vicente volcano in El Salvador, killing all 65 people on board.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MIAMI_MARCH_1995_AVIATECA_BOEING_737_N125GU.jpg/330px-MIAMI_MARCH_1995_AVIATECA_BOEING_737_N125GU.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 1
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1974,
+      "description": "As a direct result of the Watergate scandal, Richard Nixon becomes the first president of the United States to resign from office. Vice President Gerald Ford becomes president.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Watergate_complex.jpg/330px-Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 19
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1973,
+      "description": "Mars 7 is launched from the USSR.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mars_6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "count": 1
+  },
+  "wars-battles": {
+    "top_event": {
+      "year": 1971,
+      "description": "The Troubles: In Northern Ireland, the British authorities launch Operation Demetrius. The operation involves the mass arrest and internment without trial of individuals suspected of being affiliated with the Irish Republican Army (PIRA). Mass riots follow, and thousands of people flee or are forced out of their homes.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Map_of_Ireland%27s_capitals.png/330px-Map_of_Ireland%27s_capitals.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 25
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 1971,
+      "description": "The Troubles: In Northern Ireland, the British authorities launch Operation Demetrius. The operation involves the mass arrest and internment without trial of individuals suspected of being affiliated with the Irish Republican Army (PIRA). Mass riots follow, and thousands of people flee or are forced out of their homes.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Map_of_Ireland%27s_capitals.png/330px-Map_of_Ireland%27s_capitals.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 47
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 2012,
+      "description": "Shannon Eastin becomes the first woman to officiate an NFL game.",
+      "image_url": ""
+    },
+    "count": 8
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 2012,
+      "description": "Shannon Eastin becomes the first woman to officiate an NFL game.",
+      "image_url": ""
+    },
+    "count": 6
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 1969,
+      "description": "Tate–LaBianca murders: Followers of Charles Manson murder pregnant actress Sharon Tate (wife of Roman Polanski), coffee heiress Abigail Folger, Polish actor Wojciech Frykowski, men's hairstylist Jay Sebring and recent high-school graduate Steven Parent.",
+      "image_url": ""
+    },
+    "count": 56
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1936,
+      "description": "Summer Olympics: Jesse Owens wins his fourth gold medal at the games.",
+      "image_url": ""
+    },
+    "count": 44
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1854,
+      "description": "American Transcendentalist philosopher Henry David Thoreau publishes his memoir Walden.",
+      "image_url": ""
+    },
+    "count": 138
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 2014,
+      "description": "Arthur G. Cohen, American businessman and philanthropist, co-founded Arlen Realty and Development Corporation (born 1930)",
+      "image_url": ""
+    },
+    "count": 9
+  }
+}
