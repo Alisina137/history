@@ -18,6 +18,13 @@ const DATA_DIR = join(__dirname, 'data');
 const SRC_DIR = join(__dirname, 'src');
 const DIST_DIR = join(__dirname, 'dist');
 
+/**
+ * Generate JSON-LD structured data script tag.
+ */
+function generateJsonLd(data) {
+  return `<script type="application/ld+json">\n${JSON.stringify(data, null, 2)}\n</script>`;
+}
+
 function generateCanonicalTag(url) {
   return `<link rel="canonical" href="${escapeAttr(url)}">`;
 }
@@ -112,6 +119,23 @@ function buildDatePage(dateLabel, month, day, events) {
   <meta name="description" content="${escapeAttr(ogDesc)}">
   ${ogTags}
   ${generateCanonicalTag(`https://today-in-history.pages.dev/on-this-day/${dateLabel}.html`)}
+    ${generateJsonLd({
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name: `What Happened on ${displayDate}`,
+      description: ogDesc,
+      url: ogUrl,
+      itemListElement: top20.slice(0, 10).map((event, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        item: {
+          '@type': 'Event',
+          name: event.description.substring(0, 100),
+          startDate: String(event.year),
+          url: event.wikipedia_url || '',
+        },
+      })),
+    })}
   <link rel="stylesheet" href="/styles/main.css">
 </head>
 <body>
@@ -425,6 +449,19 @@ function buildHomepage(events, nicheSummaries, config) {
   <meta name="description" content="${escapeAttr(ogDesc)}">
   ${ogTags}
   ${generateCanonicalTag('https://today-in-history.pages.dev/')}
+    ${generateJsonLd({
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: 'Today in History',
+      url: 'https://today-in-history.pages.dev',
+      description:
+        'Discover what happened today in history. Explore events by your passions with AI-generated visuals.',
+      potentialAction: {
+        '@type': 'SearchAction',
+        target: 'https://today-in-history.pages.dev/search?q={search_term_string}',
+        'query-input': 'required name=search_term_string',
+      },
+    })}
   <link rel="stylesheet" href="/styles/main.css">
 </head>
 <body>
@@ -488,6 +525,19 @@ function buildNichePage(nicheId, nicheEvents, config) {
   <meta name="description" content="${escapeAttr(ogDesc)}">
     ${ogTags}
   ${generateCanonicalTag(`https://today-in-history.pages.dev/niche/${nicheId}/`)}
+    ${generateJsonLd({
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      name: `Today in ${name} — Today in History`,
+      description: ogDesc,
+      url: ogUrl,
+      hasPart: top20.slice(0, 10).map((event) => ({
+        '@type': 'Event',
+        name: event.description.substring(0, 100),
+        startDate: String(event.year),
+        url: event.wikipedia_url || '',
+      })),
+    })}
   <link rel="stylesheet" href="/styles/main.css">
 </head>
 <body>
