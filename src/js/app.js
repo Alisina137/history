@@ -1,1 +1,1 @@
-console.log("Today in History — App loaded successfully.");
+console.log('Today in History — App loaded successfully.');
