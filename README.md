@@ -38,3 +38,4 @@ npm install
 
 # Install pipeline dependencies
 pip install -r requirements.txt
+```
