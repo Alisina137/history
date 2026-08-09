@@ -4,6 +4,7 @@
 
 import { renderHero } from './modules/hero-builder.js';
 import { renderTimeline } from './modules/timeline-builder.js';
+import { renderNicheGrid } from './modules/niche-grid-builder.js';
 
 /**
  * Initialize the application when the DOM is ready.
@@ -11,11 +12,10 @@ import { renderTimeline } from './modules/timeline-builder.js';
 function init() {
   console.log('Today in History — Initializing...');
 
-  // Render hero section
+  // Render all sections
   renderHero();
-
-  // Render timeline
   renderTimeline();
+  renderNicheGrid();
 }
 
 // Wait for DOM to be ready
