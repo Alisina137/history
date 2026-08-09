@@ -9,7 +9,8 @@
     "build": "node build.js",
     "lint": "eslint src/js/**/*.js",
     "format": "prettier --write .",
-    "prepare": "husky"
+    "prepare": "husky",
+    "check-env": "node scripts/check-env.js"
   },
   "lint-staged": {
     "*.js": [
