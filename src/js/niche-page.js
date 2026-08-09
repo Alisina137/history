@@ -6,6 +6,7 @@
 import { renderNicheHero } from './modules/niche-hero-builder.js';
 import { renderNicheEventList } from './modules/niche-event-list.js';
 import { initFavoriteButtons } from './modules/favorites-manager.js';
+import { renderRelatedNiches } from './modules/related-niches.js';
 
 /**
  * Extract niche ID from the URL.
@@ -52,6 +53,9 @@ async function renderNichePage() {
 
   // Render event list with expand/collapse
   await renderNicheEventList(nicheEvents);
+
+  // Render related niches
+  await renderRelatedNiches(nicheId);
 
   // Initialize favorites
   initFavoriteButtons();
