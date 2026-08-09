@@ -18,6 +18,10 @@ const DATA_DIR = join(__dirname, 'data');
 const SRC_DIR = join(__dirname, 'src');
 const DIST_DIR = join(__dirname, 'dist');
 
+function generateCanonicalTag(url) {
+  return `<link rel="canonical" href="${escapeAttr(url)}">`;
+}
+
 /**
  * Build "On This Day" pages for historical dates.
  */
@@ -107,6 +111,7 @@ function buildDatePage(dateLabel, month, day, events) {
   <title>${escapeHtml(ogTitle)}</title>
   <meta name="description" content="${escapeAttr(ogDesc)}">
   ${ogTags}
+  ${generateCanonicalTag(`https://today-in-history.pages.dev/on-this-day/${dateLabel}.html`)}
   <link rel="stylesheet" href="/styles/main.css">
 </head>
 <body>
@@ -419,6 +424,7 @@ function buildHomepage(events, nicheSummaries, config) {
   <title>Today in History — Discover What Happened Today</title>
   <meta name="description" content="${escapeAttr(ogDesc)}">
   ${ogTags}
+  ${generateCanonicalTag('https://today-in-history.pages.dev/')}
   <link rel="stylesheet" href="/styles/main.css">
 </head>
 <body>
@@ -480,7 +486,8 @@ function buildNichePage(nicheId, nicheEvents, config) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${escapeHtml(name)} — Today in History</title>
   <meta name="description" content="${escapeAttr(ogDesc)}">
-  ${ogTags}
+    ${ogTags}
+  ${generateCanonicalTag(`https://today-in-history.pages.dev/niche/${nicheId}/`)}
   <link rel="stylesheet" href="/styles/main.css">
 </head>
 <body>
@@ -521,6 +528,7 @@ function buildFavoritesPage() {
   <title>Your Favorites — Today in History</title>
   <meta name="description" content="${escapeAttr(ogDesc)}">
   ${ogTags}
+  ${generateCanonicalTag('https://today-in-history.pages.dev/favorites.html')}
   <link rel="stylesheet" href="/styles/main.css">
 </head>
 <body>
@@ -595,6 +603,12 @@ function build() {
 
   console.log('  Copying assets...');
   copyAssets();
+  // Copy robots.txt
+  const robotsSrc = join(SRC_DIR, 'robots.txt');
+  if (existsSync(robotsSrc)) {
+    copyFileSync(robotsSrc, join(DIST_DIR, 'robots.txt'));
+    console.log('  Copied robots.txt');
+  }
 
   console.log('  Building homepage...');
   const homepageHtml = buildHomepage(events, nicheSummaries, config);
