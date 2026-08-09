@@ -6,11 +6,114 @@
 import { readFileSync, writeFileSync, mkdirSync, copyFileSync, existsSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { execSync } from 'child_process';
+
+/**
+ * Run the Python pipeline for a specific date.
+ * Returns true if successful.
+ */
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = join(__dirname, 'data');
 const SRC_DIR = join(__dirname, 'src');
 const DIST_DIR = join(__dirname, 'dist');
+
+/**
+ * Build niche pages for specific dates.
+ * Loads events from data/events_YYYY-MM-DD.json for each date.
+ */
+function buildHistoricalNichePages(nicheGroups, config, dates) {
+  console.log(`  Building historical niche pages for ${dates.length} dates...`);
+  let totalPages = 0;
+
+  for (const date of dates) {
+    const dateStr = `2026-${date.label}`; // Use current year
+    const eventsPath = join(DATA_DIR, `events_${dateStr}.json`);
+
+    if (!existsSync(eventsPath)) {
+      // Try running pipeline for this date
+      const success = runPipelineForDate(date.month, date.day);
+      if (!success) continue;
+    }
+
+    // Verify file exists after pipeline run
+    if (!existsSync(eventsPath)) continue;
+
+    try {
+      const raw = readFileSync(eventsPath, 'utf-8');
+      const data = JSON.parse(raw);
+      const dateNicheGroups = data.niches || {};
+
+      for (const [nicheId, nicheEvents] of Object.entries(dateNicheGroups)) {
+        if (nicheEvents.length === 0) continue;
+
+        const nicheDir = join(DIST_DIR, 'niche', nicheId);
+        mkdirSync(nicheDir, { recursive: true });
+
+        const nicheHtml = buildNichePage(nicheId, nicheEvents, config);
+        writeFileSync(join(nicheDir, `${date.label}.html`), nicheHtml);
+        totalPages++;
+      }
+    } catch (err) {
+      console.error(`    Error processing ${dateStr}: ${err.message}`);
+    }
+  }
+
+  console.log(`  Generated ${totalPages} historical niche pages.`);
+  return totalPages;
+}
+
+function runPipelineForDate(month, day) {
+  try {
+    console.log(`    Running pipeline for ${month}/${day}...`);
+    execSync(`python pipeline/main.py ${month} ${day}`, {
+      cwd: __dirname,
+      stdio: 'pipe',
+      timeout: 120000, // 2 minute timeout
+    });
+    return true;
+  } catch (error) {
+    console.error(`    Pipeline failed for ${month}/${day}: ${error.message}`);
+    return false;
+  }
+}
+
+/**
+ * Get a list of dates to generate pages for.
+ * MVP: current month dates. Expand later to full year.
+ */
+function getDatesToGenerate() {
+  const now = new Date();
+  const year = now.getFullYear();
+  const month = now.getMonth() + 1; // JavaScript months are 0-indexed
+  const daysInMonth = new Date(year, month, 0).getDate();
+
+  const dates = [];
+  for (let day = 1; day <= daysInMonth; day++) {
+    dates.push({
+      month: month,
+      day: day,
+      label: `${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`,
+    });
+  }
+
+  // Always include some historically significant dates
+  const significantDates = [
+    { month: 7, day: 4, label: '07-04' }, // US Independence Day
+    { month: 7, day: 20, label: '07-20' }, // Moon landing
+    { month: 12, day: 25, label: '12-25' }, // Christmas
+    { month: 1, day: 1, label: '01-01' }, // New Year
+    { month: 11, day: 11, label: '11-11' }, // Armistice Day
+  ];
+
+  for (const sd of significantDates) {
+    if (!dates.find((d) => d.month === sd.month && d.day === sd.day)) {
+      dates.push(sd);
+    }
+  }
+
+  return dates;
+}
 
 function loadEvents() {
   const eventsPath = join(DATA_DIR, 'events.json');
@@ -383,18 +486,22 @@ function build() {
   const homepageHtml = buildHomepage(events, nicheSummaries, config);
   writeFileSync(join(DIST_DIR, 'index.html'), homepageHtml);
 
-  console.log('  Building niche pages...');
+  console.log("  Building today's niche pages...");
   for (const [nicheId, nicheEvents] of Object.entries(nicheGroups)) {
-    const nicheDir = join(DIST_DIR, 'niche');
+    const nicheDir = join(DIST_DIR, 'niche', nicheId);
     mkdirSync(nicheDir, { recursive: true });
     const nicheHtml = buildNichePage(nicheId, nicheEvents, config);
-    writeFileSync(join(nicheDir, `${nicheId}.html`), nicheHtml);
+    writeFileSync(join(nicheDir, 'index.html'), nicheHtml);
   }
   console.log(`  Built ${Object.keys(nicheGroups).length} niche pages.`);
 
   console.log('  Building favorites page...');
   const favoritesHtml = buildFavoritesPage();
   writeFileSync(join(DIST_DIR, 'favorites.html'), favoritesHtml);
+
+  // Build historical pages
+  const dates = getDatesToGenerate();
+  buildHistoricalNichePages(nicheGroups, config, dates);
 
   console.log('Build complete!');
 }
