@@ -111,10 +111,10 @@ export async function renderMergedTimeline() {
 
     const nicheConfig = await loadNicheConfig();
 
-    // Render hero (first event)
+    // Render hero
     heroContainer.innerHTML = buildHeroHtml(mergedEvents[0], nicheConfig);
 
-    // Render timeline (events 2-20)
+    // Render timeline
     const remainingEvents = mergedEvents.slice(1);
     if (remainingEvents.length > 0) {
       const cardsHtml = remainingEvents
@@ -124,8 +124,45 @@ export async function renderMergedTimeline() {
     } else {
       timelineContainer.innerHTML = '';
     }
+
+    // Update OG meta tags
+    updateMetaTags(mergedEvents);
   } catch (error) {
     console.error('Error rendering merged timeline:', error);
     heroContainer.innerHTML = '<p>Failed to load your personalized timeline.</p>';
   }
+}
+
+/**
+ * Update Open Graph meta tags for the merged feed.
+ */
+function updateMetaTags(events) {
+  const count = events.length;
+  const topEvent = events[0];
+
+  const title = `Your Personalized Timeline (${count} events) — Today in History`;
+  const description = topEvent
+    ? topEvent.description.substring(0, 160)
+    : 'Your personalized timeline of historical events.';
+
+  setMetaTag('og:title', title);
+  setMetaTag('og:description', description);
+  setMetaTag('twitter:title', title);
+  setMetaTag('twitter:description', description);
+
+  if (topEvent && topEvent.image_url) {
+    setMetaTag('og:image', topEvent.image_url);
+    setMetaTag('twitter:image', topEvent.image_url);
+    setMetaTag('twitter:card', 'summary_large_image');
+  }
+}
+
+function setMetaTag(property, content) {
+  let tag = document.querySelector(`meta[property="${property}"]`);
+  if (!tag) {
+    tag = document.createElement('meta');
+    tag.setAttribute('property', property);
+    document.head.appendChild(tag);
+  }
+  tag.setAttribute('content', content);
 }
