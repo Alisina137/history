@@ -56,9 +56,15 @@ function buildHeroHtml(event, nicheConfig) {
       <div class="event-card__body">
         <span class="event-card__year">${year}</span>
         <p class="event-card__description">${description}</p>
-        <div class="event-card__footer">
-          ${badgesHtml}
-        </div>
+       <div class="event-card__footer" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+  <div>${badgesHtml}</div>
+  <button class="share-btn share-hero-btn" 
+          data-title="${escapeHtml(description).substring(0, 80)}" 
+          data-text="${escapeHtml(description).substring(0, 120)}">
+    <span class="share-btn__icon">↗</span>
+    Share
+  </button>
+</div>
       </div>
     </article>
   `;
@@ -84,6 +90,16 @@ export async function renderHero(containerId = 'hero-container') {
     const topEvent = events[0];
     const heroHtml = buildHeroHtml(topEvent, nicheConfig);
     container.innerHTML = heroHtml;
+
+    // Attach share handler
+    const shareBtn = container.querySelector('.share-hero-btn');
+    if (shareBtn) {
+      shareBtn.addEventListener('click', async (e) => {
+        e.stopPropagation();
+        const { sharePage } = await import('./share-utils.js');
+        sharePage(shareBtn.dataset.title, shareBtn.dataset.text);
+      });
+    }
 
     // Update Open Graph meta tags for social sharing
     updateMetaTags(topEvent);
