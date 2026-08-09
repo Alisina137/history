@@ -4,6 +4,7 @@
  */
 
 import { loadEvents, loadNicheConfig } from './data-loader.js';
+import { isFavorited } from './favorites-manager.js';
 
 /**
  * Escape HTML to prevent XSS.
@@ -21,29 +22,25 @@ function escapeHtml(text) {
 function buildNicheCardHtml(nicheId, nicheConfig, summary) {
   const niche = nicheConfig.niches.find((n) => n.id === nicheId);
 
-  // Default values if niche not found in config
   const name = niche ? niche.name : nicheId.replace(/-/g, ' ');
   const icon = niche ? niche.icon : '📅';
   const count = summary ? summary.count : 0;
   const topEvent = summary ? summary.top_event : null;
 
-  // Teaser text
   let teaser = 'No events today for this niche.';
   if (topEvent) {
     const desc = escapeHtml(topEvent.description);
     teaser = desc.length > 80 ? desc.substring(0, 80) + '...' : desc;
   }
 
-  // Background image from top event
   const bgImage = topEvent && topEvent.image_url ? topEvent.image_url : '';
   const bgStyle = bgImage
     ? `style="background-image: url('${bgImage}'); background-size: cover; background-position: center; opacity: 0.15;"`
     : 'style="background: linear-gradient(135deg, #3b82f6, #60a5fa); opacity: 0.1;"';
 
-  // Check if this niche is favorited
-  const isFavorited = isNicheFavorited(nicheId);
-  const heartClass = isFavorited ? 'niche-card__favorite--active' : '';
-  const heartIcon = isFavorited ? '♥' : '♡';
+  const favorited = isFavorited(nicheId);
+  const heartClass = favorited ? 'niche-card__favorite--active' : '';
+  const heartIcon = favorited ? '♥' : '♡';
 
   return `
     <div class="niche-card" data-niche="${escapeHtml(nicheId)}">
@@ -58,7 +55,7 @@ function buildNicheCardHtml(nicheId, nicheConfig, summary) {
           <span class="niche-card__count">+${count} events</span>
           <button class="niche-card__favorite ${heartClass}" 
                   data-niche="${escapeHtml(nicheId)}" 
-                  aria-label="${isFavorited ? 'Remove from' : 'Add to'} favorites">
+                  aria-label="${favorited ? 'Remove from' : 'Add to'} favorites">
             ${heartIcon}
           </button>
         </div>
@@ -67,22 +64,6 @@ function buildNicheCardHtml(nicheId, nicheConfig, summary) {
   `;
 }
 
-/**
- * Check if a niche is in the user's favorites.
- */
-function isNicheFavorited(nicheId) {
-  try {
-    const favorites = JSON.parse(localStorage.getItem('favoriteNiches') || '[]');
-    return favorites.includes(nicheId);
-  } catch {
-    return false;
-  }
-}
-
-/**
- * Get niche summaries from events data.
- * Groups events by niche and calculates count + top event per niche.
- */
 function buildNicheSummaries(eventsData) {
   const nicheGroups = eventsData.niches || {};
   const summaries = {};
@@ -104,9 +85,6 @@ function buildNicheSummaries(eventsData) {
   return summaries;
 }
 
-/**
- * Render the niche card grid.
- */
 export async function renderNicheGrid(containerId = 'niche-grid-container') {
   const container = document.getElementById(containerId);
   if (!container) return;
@@ -121,10 +99,8 @@ export async function renderNicheGrid(containerId = 'niche-grid-container') {
       return;
     }
 
-    // Build summaries from events data
     const summaries = buildNicheSummaries(eventsData);
 
-    // Render all 30 niche cards
     const cardsHtml = allNiches
       .map((niche) => {
         const summary = summaries[niche.id] || { count: 0, top_event: null };
@@ -133,8 +109,6 @@ export async function renderNicheGrid(containerId = 'niche-grid-container') {
       .join('');
 
     container.innerHTML = cardsHtml;
-
-    // Attach click handlers to cards (navigate to niche page)
     attachNicheCardHandlers();
   } catch (error) {
     console.error('Error rendering niche grid:', error);
@@ -142,15 +116,9 @@ export async function renderNicheGrid(containerId = 'niche-grid-container') {
   }
 }
 
-/**
- * Attach click handlers to niche cards.
- * Clicking a card navigates to the niche page.
- * Clicking the favorite button toggles favorite status.
- */
 function attachNicheCardHandlers() {
   document.querySelectorAll('.niche-card').forEach((card) => {
     card.addEventListener('click', (event) => {
-      // Don't navigate if the favorite button was clicked
       if (event.target.closest('.niche-card__favorite')) {
         return;
       }
@@ -159,15 +127,6 @@ function attachNicheCardHandlers() {
       if (nicheId) {
         window.location.href = `/niche/${nicheId}.html`;
       }
-    });
-  });
-
-  // Favorite button handlers (basic toggle for now, full logic in Task 5.5)
-  document.querySelectorAll('.niche-card__favorite').forEach((button) => {
-    button.addEventListener('click', (event) => {
-      event.stopPropagation();
-      // Will be fully implemented in Task 5.5
-      console.log('Favorite toggled:', button.dataset.niche);
     });
   });
 }
