@@ -118,8 +118,10 @@ function updateFavoriteButtons() {
 function updateAllUI() {
   updateFavoriteButtons();
   updateFavoritesCount();
-}
 
+  // Dispatch custom event so other pages can react
+  document.dispatchEvent(new CustomEvent('favoritesUpdated'));
+}
 /**
  * Attach click handlers to all favorite buttons on the page.
  */
@@ -140,3 +142,13 @@ export function initFavoriteButtons() {
   // Update UI on page load
   updateAllUI();
 }
+
+/**
+ * Listen for localStorage changes from other tabs.
+ * Updates UI when favorites change in another tab.
+ */
+window.addEventListener('storage', (event) => {
+  if (event.key === STORAGE_KEY) {
+    updateAllUI();
+  }
+});

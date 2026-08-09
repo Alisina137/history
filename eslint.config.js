@@ -20,6 +20,7 @@ export default [
         localStorage: 'readonly',
         fetch: 'readonly',
         URLSearchParams: 'readonly',
+        CustomEvent: 'readonly',
       },
     },
   },
