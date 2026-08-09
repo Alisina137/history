@@ -1,0 +1,12 @@
+{
+  "name": "history",
+  "version": "1.0.0",
+  "description": "A personalized \"Today in History\" platform that lets users explore the past through their own passions, with a stunning AI-generated visual every single day.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
