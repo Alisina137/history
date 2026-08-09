@@ -10,7 +10,8 @@
     "lint": "eslint src/js/**/*.js",
     "format": "prettier --write .",
     "prepare": "husky",
-    "check-env": "node scripts/check-env.js"
+    "check-env": "node scripts/check-env.js",
+    "sitemap": "node scripts/generate-sitemap.js"
   },
   "lint-staged": {
     "*.js": [

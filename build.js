@@ -618,6 +618,10 @@ function build() {
   buildHistoricalNichePages(nicheGroups, config, dates);
   buildHistoricalDatePages(config, dates);
 
+  // Generate sitemap
+  console.log('  Generating sitemap...');
+  execSync('node scripts/generate-sitemap.js', { cwd: __dirname, stdio: 'pipe' });
+
   console.log('Build complete!');
 }
 
