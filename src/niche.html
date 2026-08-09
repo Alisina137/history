@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Niche — Today in History</title>
+    <meta name="description" content="Explore historical events filtered by your passion." />
+    <link rel="stylesheet" href="styles/main.css" />
+  </head>
+  <body>
+    <!-- Header / Navigation -->
+    <header class="header">
+      <div class="header__inner">
+        <a href="/" class="header__logo">
+          <span class="header__logo-icon">📅</span>
+          <span>Today in History</span>
+        </a>
+        <nav class="header__nav">
+          <a href="/" class="header__nav-link">Home</a>
+          <a href="/favorites.html" class="header__favorites header__nav-link">
+            <span>♥</span>
+            <span class="header__favorites-count" id="favorites-count"></span>
+            <span class="hide-mobile">Favorites</span>
+          </a>
+        </nav>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container">
+      <!-- Back Link & Breadcrumb -->
+      <section class="section" style="padding-bottom: 0">
+        <a href="/" class="btn btn-ghost btn-sm">← Back to All Niches</a>
+      </section>
+
+      <!-- Niche Header -->
+      <section class="section" id="niche-header-section">
+        <div id="niche-header-container">
+          <div class="skeleton skeleton--heading"></div>
+          <div class="skeleton skeleton--text skeleton--text-short"></div>
+        </div>
+      </section>
+
+      <!-- Niche Hero Event -->
+      <section class="section" id="niche-hero-section">
+        <div id="niche-hero-container">
+          <div class="skeleton skeleton--image"></div>
+          <div class="skeleton skeleton--text"></div>
+        </div>
+      </section>
+
+      <!-- Niche Event List -->
+      <section class="section" id="niche-events-section">
+        <h2 class="section__title">All Events Today</h2>
+        <div class="timeline" id="niche-events-container">
+          <div class="skeleton skeleton--card"></div>
+          <div class="skeleton skeleton--card"></div>
+          <div class="skeleton skeleton--card"></div>
+        </div>
+      </section>
+
+      <!-- Related Niches -->
+      <section class="section" id="related-niches-section">
+        <h2 class="section__title">You Might Also Like</h2>
+        <div class="niche-grid" id="related-niches-container">
+          <div class="skeleton skeleton--card"></div>
+          <div class="skeleton skeleton--card"></div>
+          <div class="skeleton skeleton--card"></div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="footer__inner">
+        <div class="footer__brand">📅 Today in History</div>
+        <p class="footer__text">Explore the past through your passions. A new story every day.</p>
+        <p class="footer__bottom">&copy; 2026 Today in History. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <script type="module" src="js/niche-page.js"></script>
+  </body>
+</html>
