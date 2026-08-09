@@ -6,6 +6,7 @@
 @import './base/tokens.css';
 @import './base/reset.css';
 @import './base/global.css';
+@import './base/responsive.css';
 
 /* Components */
 @import './components/buttons.css';
