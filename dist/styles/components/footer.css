@@ -1,0 +1,56 @@
+/* =============================================
+   Footer Component
+   ============================================= */
+
+.footer {
+  background-color: var(--color-neutral-900);
+  color: var(--color-neutral-400);
+  padding: var(--space-12) 0 var(--space-8);
+  margin-top: var(--space-16);
+}
+
+.footer__inner {
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding: 0 var(--space-4);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-4);
+  text-align: center;
+}
+
+.footer__brand {
+  font-size: var(--text-lg);
+  font-weight: var(--font-bold);
+  color: var(--color-neutral-0);
+}
+
+.footer__text {
+  font-size: var(--text-sm);
+  color: var(--color-neutral-500);
+  max-width: 500px;
+}
+
+.footer__links {
+  display: flex;
+  gap: var(--space-4);
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.footer__link {
+  font-size: var(--text-sm);
+  color: var(--color-neutral-400);
+  transition: color var(--transition-fast);
+}
+
+.footer__link:hover {
+  color: var(--color-neutral-0);
+}
+
+.footer__bottom {
+  font-size: var(--text-xs);
+  color: var(--color-neutral-600);
+  margin-top: var(--space-4);
+}

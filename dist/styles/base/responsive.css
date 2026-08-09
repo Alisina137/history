@@ -1,0 +1,107 @@
+/* =============================================
+   Responsive Utilities
+   ============================================= */
+
+/* Mobile-first breakpoints:
+   sm: 480px
+   md: 768px
+   lg: 1024px
+   xl: 1200px
+*/
+
+/* ---- Hide/Show Utilities ---- */
+
+.hide-mobile {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .hide-mobile {
+    display: initial;
+  }
+
+  .hide-desktop {
+    display: none;
+  }
+}
+
+/* ---- Text Alignment ---- */
+
+@media (max-width: 767px) {
+  .text-center-mobile {
+    text-align: center;
+  }
+
+  .text-left-mobile {
+    text-align: left;
+  }
+}
+
+@media (min-width: 768px) {
+  .text-center-desktop {
+    text-align: center;
+  }
+}
+
+/* ---- Spacing Utilities ---- */
+
+@media (max-width: 767px) {
+  .mb-0-mobile {
+    margin-bottom: 0;
+  }
+
+  .mb-2-mobile {
+    margin-bottom: var(--space-2);
+  }
+
+  .mb-4-mobile {
+    margin-bottom: var(--space-4);
+  }
+
+  .p-2-mobile {
+    padding: var(--space-2);
+  }
+
+  .p-4-mobile {
+    padding: var(--space-4);
+  }
+}
+
+/* ---- Container Padding ---- */
+
+@media (max-width: 767px) {
+  .container {
+    padding-left: var(--space-3);
+    padding-right: var(--space-3);
+  }
+}
+
+/* ---- Responsive Images ---- */
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ---- Hero Image Height Adjustments ---- */
+
+@media (max-width: 767px) {
+  .event-card--hero .event-card__image {
+    height: 240px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .event-card--hero .event-card__image {
+    height: 320px;
+  }
+}
+
+/* ---- Niche Grid: Always at least 2 columns ---- */
+
+@media (max-width: 360px) {
+  .niche-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-2);
+  }
+}

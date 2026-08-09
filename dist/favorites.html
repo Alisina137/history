@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Favorites — Today in History</title>
+  <meta name="description" content="Your personalized timeline of historical events.">
+  <link rel="stylesheet" href="/styles/main.css">
+</head>
+<body>
+  
+  <header class="header">
+    <div class="header__inner">
+      <a href="/index.html" class="header__logo">
+        <span class="header__logo-icon">📅</span>
+        <span>Today in History</span>
+      </a>
+      <nav class="header__nav">
+        <a href="/index.html" class="header__nav-link header__nav-link--active">Home</a>
+        <a href="/favorites.html" class="header__favorites header__nav-link">
+          ♥
+          <span class="header__favorites-count" id="favorites-count"></span>
+          <span class="hide-mobile">Favorites</span>
+        </a>
+      </nav>
+    </div>
+  </header>
+  <main class="container">
+    <section class="section">
+      <h2 class="section__title">Your Favorites</h2>
+      <p class="section__subtitle">Your personalized timeline based on your favorite niches.</p>
+      <div id="favorites-empty" style="display: none;">
+        <p>You haven't favorited any niches yet.</p>
+        <a href="/index.html" class="btn btn-primary">Explore Niches</a>
+      </div>
+      <div id="favorites-content">
+        <div id="favorite-niches-row" class="niche-grid"></div>
+        <div id="favorites-timeline" class="timeline"></div>
+      </div>
+    </section>
+  </main>
+  
+  <footer class="footer">
+    <div class="footer__inner">
+      <div class="footer__brand">📅 Today in History</div>
+      <p class="footer__text">Explore the past through your passions. A new story every day.</p>
+      <p class="footer__bottom">&copy; 2026 Today in History. All rights reserved.</p>
+    </div>
+  </footer>
+  <script src="/js/app.js"></script>
+  <script src="/js/favorites.js"></script>
+</body>
+</html>

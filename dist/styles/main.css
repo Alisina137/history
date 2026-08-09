@@ -1,0 +1,18 @@
+/* =============================================
+   Main Stylesheet — Imports all CSS files
+   ============================================= */
+
+/* Base */
+@import './base/tokens.css';
+@import './base/reset.css';
+@import './base/global.css';
+@import './base/responsive.css';
+
+/* Components */
+@import './components/buttons.css';
+@import './components/badges.css';
+@import './components/event-card.css';
+@import './components/niche-card.css';
+@import './components/header.css';
+@import './components/footer.css';
+@import './components/grid.css';
