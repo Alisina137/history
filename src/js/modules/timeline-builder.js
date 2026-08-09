@@ -43,7 +43,21 @@ function buildEventCardHtml(event, nicheConfig) {
   const imageUrl = event.image_url || '';
 
   // Create a short title from the first 60 chars of description
-  const title = description.length > 60 ? description.substring(0, 60) + '...' : description;
+  // Extract a short title from the description
+  // Take everything before the first comma, semicolon, dash, or period
+  const titleBreakPoints = [',', ';', ' – ', ' - ', '. ', ': '];
+  let title = description;
+  for (const point of titleBreakPoints) {
+    const index = description.indexOf(point);
+    if (index > 10 && index < 80) {
+      title = description.substring(0, index);
+      break;
+    }
+  }
+  // Fallback: if no good break point, take first 60 chars
+  if (title === description && title.length > 60) {
+    title = title.substring(0, 60) + '...';
+  }
 
   // Check if description needs truncation
   const needsTruncation = description.length > 120;
