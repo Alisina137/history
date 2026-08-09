@@ -1,28 +1,8 @@
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
+/* =============================================
+   Main Stylesheet — Imports all CSS files
+   ============================================= */
 
-body {
-  font-family:
-    system-ui,
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    Roboto,
-    sans-serif;
-  line-height: 1.6;
-  color: #1a1a1a;
-  background-color: #fafafa;
-  padding: 2rem;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-h1 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
-}
+/* Base */
+@import './base/tokens.css';
+@import './base/reset.css';
+@import './base/global.css';
