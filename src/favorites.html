@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Your Favorites — Today in History</title>
+    <meta
+      name="description"
+      content="Your personalized timeline of historical events based on your favorite niches."
+    />
+    <meta property="og:title" content="Your Favorites — Today in History" />
+    <meta property="og:description" content="Your personalized timeline of historical events." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Your Favorites — Today in History" />
+    <meta name="twitter:description" content="Your personalized timeline of historical events." />
+    <meta name="twitter:image" content="" />
+    <link rel="stylesheet" href="styles/main.css" />
+  </head>
+  <body>
+    <!-- Header -->
+    <header class="header">
+      <div class="header__inner">
+        <a href="/" class="header__logo">
+          <span class="header__logo-icon">📅</span>
+          <span>Today in History</span>
+        </a>
+        <nav class="header__nav">
+          <a href="/" class="header__nav-link">Home</a>
+          <a
+            href="/favorites.html"
+            class="header__favorites header__nav-link header__nav-link--active"
+          >
+            <span>♥</span>
+            <span class="header__favorites-count" id="favorites-count"></span>
+            <span class="hide-mobile">Favorites</span>
+          </a>
+        </nav>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container">
+      <!-- Empty State (hidden by default) -->
+      <section class="section" id="favorites-empty-section" style="display: none">
+        <div style="text-align: center; padding: var(--space-16) 0">
+          <div style="font-size: 4rem; margin-bottom: var(--space-4)">♥</div>
+          <h2 style="margin-bottom: var(--space-3)">No Favorites Yet</h2>
+          <p
+            style="
+              color: var(--color-neutral-500);
+              margin-bottom: var(--space-6);
+              max-width: 400px;
+              margin-left: auto;
+              margin-right: auto;
+            "
+          >
+            Favorite your favorite niches to build your personalized daily timeline.
+          </p>
+          <a href="/" class="btn btn-primary">Explore Niches</a>
+        </div>
+      </section>
+
+      <!-- Favorites Content (hidden by default) -->
+      <div id="favorites-content-section" style="display: none">
+        <!-- Quick-Jump Row -->
+        <section class="section" id="quick-jump-section">
+          <h2 class="section__title">Your Favorite Niches</h2>
+          <p class="section__subtitle">Quick jump to your saved niches.</p>
+          <div class="niche-grid" id="quick-jump-container">
+            <div class="skeleton skeleton--card"></div>
+            <div class="skeleton skeleton--card"></div>
+            <div class="skeleton skeleton--card"></div>
+          </div>
+        </section>
+
+        <!-- Merged Timeline -->
+        <section class="section" id="merged-timeline-section">
+          <h2 class="section__title">Your Personalized Timeline</h2>
+          <p class="section__subtitle">
+            The most important events today from all your favorite niches.
+          </p>
+
+          <!-- Hero -->
+          <div id="merged-hero-container">
+            <div class="skeleton skeleton--image"></div>
+            <div class="skeleton skeleton--text"></div>
+          </div>
+
+          <!-- Timeline -->
+          <div class="timeline" id="merged-timeline-container" style="margin-top: var(--space-6)">
+            <div class="skeleton skeleton--card"></div>
+            <div class="skeleton skeleton--card"></div>
+            <div class="skeleton skeleton--card"></div>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="footer__inner">
+        <div class="footer__brand">📅 Today in History</div>
+        <p class="footer__text">Explore the past through your passions. A new story every day.</p>
+        <p class="footer__bottom">&copy; 2026 Today in History. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <script type="module" src="js/favorites-page.js"></script>
+  </body>
+</html>
