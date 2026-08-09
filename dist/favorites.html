@@ -4,7 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Your Favorites — Today in History</title>
-  <meta name="description" content="Your personalized timeline of historical events.">
+  <meta name="description" content="Your personalized timeline of historical events based on your favorite niches.">
+  <meta property="og:title" content="Your Favorites — Today in History">
+    <meta property="og:description" content="Your personalized timeline of historical events based on your favorite niches.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://today-in-history.pages.dev/favorites.html">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Your Favorites — Today in History">
+    <meta name="twitter:description" content="Your personalized timeline of historical events based on your favorite niches.">
   <link rel="stylesheet" href="/styles/main.css">
 </head>
 <body>
@@ -16,8 +23,8 @@
         <span>Today in History</span>
       </a>
       <nav class="header__nav">
-        <a href="/index.html" class="header__nav-link header__nav-link--active">Home</a>
-        <a href="/favorites.html" class="header__favorites header__nav-link">
+        <a href="/index.html" class="header__nav-link">Home</a>
+        <a href="/favorites.html" class="header__favorites header__nav-link header__nav-link--active">
           ♥
           <span class="header__favorites-count" id="favorites-count"></span>
           <span class="hide-mobile">Favorites</span>
@@ -47,7 +54,7 @@
       <p class="footer__bottom">&copy; 2026 Today in History. All rights reserved.</p>
     </div>
   </footer>
-  <script src="/js/app.js"></script>
-  <script src="/js/favorites.js"></script>
+  <script type="module" src="/js/favorites-page.js"></script>
+  <script type="module" src="/js/favorites-manager.js"></script>
 </body>
 </html>

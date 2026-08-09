@@ -1,0 +1,54 @@
+/* =============================================
+   Loading Skeleton States
+   ============================================= */
+
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    var(--color-neutral-100) 25%,
+    var(--color-neutral-200) 50%,
+    var(--color-neutral-100) 75%
+  );
+  background-size: 200% 100%;
+  animation: skeleton-shimmer 1.5s infinite;
+  border-radius: var(--radius-md);
+}
+
+.skeleton--text {
+  height: 1rem;
+  margin-bottom: var(--space-2);
+  width: 100%;
+}
+
+.skeleton--text-short {
+  width: 60%;
+}
+
+.skeleton--heading {
+  height: 1.5rem;
+  width: 40%;
+  margin-bottom: var(--space-4);
+}
+
+.skeleton--image {
+  height: 300px;
+  width: 100%;
+  border-radius: var(--radius-lg);
+  margin-bottom: var(--space-4);
+}
+
+.skeleton--card {
+  height: 120px;
+  width: 100%;
+  border-radius: var(--radius-lg);
+  margin-bottom: var(--space-3);
+}
+
+@keyframes skeleton-shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
