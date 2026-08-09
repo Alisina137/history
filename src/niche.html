@@ -1,6 +1,17 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <meta property="og:title" content="Today in History — Niche" />
+    <meta property="og:description" content="Explore historical events filtered by your passion." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Today in History — Niche" />
+    <meta
+      name="twitter:description"
+      content="Explore historical events filtered by your passion."
+    />
+    <meta name="twitter:image" content="" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Niche — Today in History</title>
@@ -28,9 +39,26 @@
 
     <!-- Main Content -->
     <main class="container">
-      <!-- Back Link & Breadcrumb -->
+      <!-- Breadcrumb -->
       <section class="section" style="padding-bottom: 0">
-        <a href="/" class="btn btn-ghost btn-sm">← Back to All Niches</a>
+        <nav
+          aria-label="Breadcrumb"
+          style="
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: var(--text-sm);
+            color: var(--color-neutral-500);
+          "
+        >
+          <a href="/" style="color: var(--color-brand-600)">Home</a>
+          <span>/</span>
+          <span
+            id="breadcrumb-niche"
+            style="color: var(--color-neutral-700); font-weight: var(--font-medium)"
+            >Niche</span
+          >
+        </nav>
       </section>
 
       <!-- Niche Header -->

@@ -120,10 +120,45 @@ export async function renderNicheHero(nicheId) {
     const nicheName = nicheInfo ? nicheInfo.name : nicheId.replace(/-/g, ' ');
     document.title = `${nicheName} — Today in History`;
 
+    // Update breadcrumb
+    // Update breadcrumb
+    const breadcrumb = document.getElementById('breadcrumb-niche');
+    if (breadcrumb) {
+      const icon = nicheInfo ? nicheInfo.icon : '📅';
+      breadcrumb.textContent = `${icon} ${nicheName}`;
+    }
+
+    // Update Open Graph meta tags
+    const description =
+      nicheEvents.length > 0
+        ? nicheEvents[0].description.substring(0, 160)
+        : `Explore ${nicheEvents.length} historical events in ${nicheName}.`;
+
+    setMetaTag('og:title', `Today in ${nicheName} — Today in History`);
+    setMetaTag('og:description', description);
+    setMetaTag('twitter:title', `Today in ${nicheName} — Today in History`);
+    setMetaTag('twitter:description', description);
+
+    if (nicheEvents.length > 0 && nicheEvents[0].image_url) {
+      setMetaTag('og:image', nicheEvents[0].image_url);
+      setMetaTag('twitter:image', nicheEvents[0].image_url);
+      setMetaTag('twitter:card', 'summary_large_image');
+    }
+
     return { nicheEvents, nicheConfig, nicheInfo };
   } catch (error) {
     console.error('Error rendering niche hero:', error);
     headerContainer.innerHTML = '<p>Failed to load niche.</p>';
     return { nicheEvents: [], nicheConfig, nicheInfo: null };
   }
+}
+
+function setMetaTag(property, content) {
+  let tag = document.querySelector(`meta[property="${property}"]`);
+  if (!tag) {
+    tag = document.createElement('meta');
+    tag.setAttribute('property', property);
+    document.head.appendChild(tag);
+  }
+  tag.setAttribute('content', content);
 }
