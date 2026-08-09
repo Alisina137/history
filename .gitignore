@@ -21,7 +21,6 @@ _next/
 Thumbs.db
 
 # Editor
-.vscode/
 .idea/
 *.swp
 *.swo
