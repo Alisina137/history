@@ -624,6 +624,13 @@ function copyRecursive(src, dest) {
 }
 
 function copyAssets() {
+  // Copy _headers file for Cloudflare Pages
+  const headersSrc = join(SRC_DIR, '_headers');
+  if (existsSync(headersSrc)) {
+    copyFileSync(headersSrc, join(DIST_DIR, '_headers'));
+    console.log('  Copied _headers');
+  }
+
   const dirs = ['styles', 'js', 'assets', 'data'];
   for (const dir of dirs) {
     const srcDir = join(SRC_DIR, dir);
