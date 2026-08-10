@@ -3,7 +3,7 @@
    ============================================= */
 
 /* Import modern-normalize from node_modules */
-@import '../../../node_modules/modern-normalize/modern-normalize.css';
+@import '../vendor/modern-normalize.css';
 
 /* Remove default margin from all elements */
 *,

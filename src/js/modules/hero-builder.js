@@ -90,12 +90,6 @@ export async function renderHero(containerId = 'hero-container') {
     const topEvent = events[0];
     const heroHtml = buildHeroHtml(topEvent, nicheConfig);
     // Preload hero image for faster LCP
-    if (topEvent && topEvent.image_url) {
-      const preloadLink = document.getElementById('hero-preload');
-      if (preloadLink) {
-        preloadLink.href = topEvent.image_url;
-      }
-    }
     container.innerHTML = heroHtml;
 
     // Attach share handler
