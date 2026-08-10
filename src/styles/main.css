@@ -1,17 +1,19 @@
 /* Base */
-@import './base/tokens.css';
-@import './base/reset.css';
-@import './base/global.css';
-@import './base/responsive.css';
+@import '/styles/base/tokens.css';
+@import '/styles/base/reset.css';
+@import '/styles/base/global.css';
+@import '/styles/base/responsive.css';
 
-/* Components */
-@import './components/buttons.css';
-@import './components/badges.css';
-@import './components/event-card.css';
-@import './components/niche-card.css';
-@import './components/header.css';
-@import './components/footer.css';
-@import './components/grid.css';
-@import './components/hero.css';
-@import './components/loading.css';
-@import './components/share-button.css';
+@import '/styles/vendor/modern-normalize.css';
+
+/* components */
+@import '/styles/components/buttons.css';
+@import '/styles/components/badges.css';
+@import '/styles/components/event-card.css';
+@import '/styles/components/niche-card.css';
+@import '/styles/components/header.css';
+@import '/styles/components/footer.css';
+@import '/styles/components/grid.css';
+@import '/styles/components/hero.css';
+@import '/styles/components/loading.css';
+@import '/styles/components/share-button.css';

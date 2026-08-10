@@ -1,138 +1,130 @@
 {
-  "true-crime": {
-    "top_event": {
-      "year": 2015,
-      "description": "A suicide bomb attack kills at least 15 people at a mosque in the Saudi city of Abha.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Asir_in_Saudi_Arabia.svg/330px-Asir_in_Saudi_Arabia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 5
-  },
   "art-architecture": {
     "top_event": {
-      "year": 2015,
-      "description": "A suicide bomb attack kills at least 15 people at a mosque in the Saudi city of Abha.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Asir_in_Saudi_Arabia.svg/330px-Asir_in_Saudi_Arabia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2020,
+      "description": "Israel–United Arab Emirates relations are formally established.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Israel_United_Arab_Emirates_Locator.png/330px-Israel_United_Arab_Emirates_Locator.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 23
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 2015,
-      "description": "A suicide bomb attack kills at least 15 people at a mosque in the Saudi city of Abha.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Asir_in_Saudi_Arabia.svg/330px-Asir_in_Saudi_Arabia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 27
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 2012,
-      "description": "NASA's Curiosity rover lands on the surface of Mars.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 18
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 2012,
-      "description": "NASA's Curiosity rover lands on the surface of Mars.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 4
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 2011,
-      "description": "War in Afghanistan: A United States military helicopter is shot down, killing 30 American special forces members and a working dog, seven Afghan soldiers, and one Afghan civilian. It was the deadliest single event for the United States in the War in Afghanistan.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Army_firefight_in_Kunar.jpg/330px-U.S._Army_firefight_in_Kunar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 12
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 2010,
-      "description": "Flash floods across a large part of Jammu and Kashmir, India, damages 71 towns and kills at least 255 people.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Skiu_in_2010_Ladakh_floods.jpg/330px-Skiu_in_2010_Ladakh_floods.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 1
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 2008,
-      "description": "A military junta led by Mohamed Ould Abdel Aziz stages a coup d'état in Mauritania, overthrowing president Sidi Ould Cheikh Abdallahi.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mohamed_Ould_Abdel_Aziz_August_2014_%28cropped%29.jpg/330px-Mohamed_Ould_Abdel_Aziz_August_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 26
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 1991,
-      "description": "Tim Berners-Lee releases files describing his idea for the World Wide Web. WWW makes its first appearance as a publicly available service on the Internet.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg/330px-Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 4
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 1991,
-      "description": "Takako Doi, chair of the Social Democratic Party, becomes Japan's first female speaker of the House of Representatives.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Takako_Doi_in_Tokyo_congressist_election_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    "count": 5
+    "count": 39
   },
   "business-economics": {
     "top_event": {
-      "year": 1990,
-      "description": "Gulf War: The United Nations Security Council orders a global trade embargo against Iraq in response to Iraq's invasion of Kuwait.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg/330px-USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 10
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 1986,
-      "description": "A low-pressure system that redeveloped off the New South Wales coast dumps a record 328 millimeters (13 inches) of rain in a day on Sydney, New South Wales, Australia.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_New_South_Wales.svg/330px-Flag_of_New_South_Wales.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2014,
+      "description": "A Cessna Citation Excel crashes in Santos, São Paulo, Brazil killing all seven people aboard, including Brazilian Socialist Party presidential candidate Eduardo Campos.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cessna_560XL_Citation_XLS.jpg/330px-Cessna_560XL_Citation_XLS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 14
   },
-  "literature-writers": {
+  "politics-revolutions": {
     "top_event": {
-      "year": 1956,
-      "description": "After going bankrupt in 1955, the American broadcaster DuMont Television Network makes its final broadcast, a boxing match from St. Nicholas Arena in New York in the Boxing from St. Nicholas Arena series.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Opening_Day_at_Disneyland.jpg/330px-Opening_Day_at_Disneyland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 59
-  },
-  "cinema-film": {
-    "top_event": {
-      "year": 1926,
-      "description": "First public screening using the Vitaphone process",
-      "image_url": ""
-    },
-    "count": 38
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1901,
-      "description": "Kiowa land in Oklahoma is opened for white settlement, effectively dissolving the contiguous reservation.",
-      "image_url": ""
-    },
-    "count": 136
-  },
-  "music-history": {
-    "top_event": {
-      "year": 2020,
-      "description": "Vern Rumsey, American bass guitarist (born 1973)",
-      "image_url": ""
+      "year": 2014,
+      "description": "A Cessna Citation Excel crashes in Santos, São Paulo, Brazil killing all seven people aboard, including Brazilian Socialist Party presidential candidate Eduardo Campos.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cessna_560XL_Citation_XLS.jpg/330px-Cessna_560XL_Citation_XLS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 29
   },
-  "archaeology-discoveries": {
+  "wars-battles": {
     "top_event": {
-      "year": 1908,
-      "description": "Maria Ludwika Bernhard, Polish classical archaeologist and a member of WWII Polish resistance (died 1998)",
+      "year": 2008,
+      "description": "Russo-Georgian War: Russian units occupy the Georgian city of Gori.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ruins_of_a_burnt_apartment_building_in_Gori.jpg/330px-Ruins_of_a_burnt_apartment_building_in_Gori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 26
+  },
+  "true-crime": {
+    "top_event": {
+      "year": 2015,
+      "description": "At least 76 people are killed and 212 others are wounded in a truck bombing in Baghdad, Iraq.",
+      "image_url": ""
+    },
+    "count": 6
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1969,
+      "description": "The Apollo 11 astronauts enjoy a ticker-tape parade in New York City. That evening, at a state dinner in Los Angeles, they are awarded the Presidential Medal of Freedom by U.S. President Richard Nixon.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/330px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 3
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1969,
+      "description": "The Apollo 11 astronauts enjoy a ticker-tape parade in New York City. That evening, at a state dinner in Los Angeles, they are awarded the Presidential Medal of Freedom by U.S. President Richard Nixon.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/330px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 17
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 1968,
+      "description": "Alexandros Panagoulis attempts to assassinate the Greek dictator Colonel Georgios Papadopoulos in Varkiza, Athens.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Panagulis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "count": 39
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1940,
+      "description": "World War II: The German Luftwaffe launches an air operation, codenamed Adlertag, during the Battle of Britain in an attempt to destroy the British Royal Air Force.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 37
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 1964,
+      "description": "Peter Allen and Gwynne Evans are hanged for the murder of John Alan West becoming the last people executed in the United Kingdom.",
+      "image_url": ""
+    },
+    "count": 23
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1918,
+      "description": "Women enlist in the United States Marine Corps for the first time. Opha May Johnson is the first woman to enlist.",
+      "image_url": ""
+    },
+    "count": 3
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1918,
+      "description": "Women enlist in the United States Marine Corps for the first time. Opha May Johnson is the first woman to enlist.",
+      "image_url": ""
+    },
+    "count": 6
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1906,
+      "description": "The all black infantrymen of the U.S. Army's 25th Infantry Regiment are accused of killing a white bartender and wounding a white police officer in Brownsville, Texas, despite exculpatory evidence; all are later dishonorably discharged. (Their records were later restored to reflect honorable discharges but there were no financial settlements.)",
+      "image_url": ""
+    },
+    "count": 34
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 1868,
+      "description": "The 8.5–9.0 Mw Arica earthquake struck southern Peru with a maximum Mercalli intensity of XI (Extreme), causing 25,000+ deaths and a destructive basin wide tsunami that affected Hawaii and New Zealand.",
       "image_url": ""
     },
     "count": 1
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1645,
+      "description": "Sweden and Denmark sign Peace of Brömsebro.",
+      "image_url": ""
+    },
+    "count": 153
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 2016,
+      "description": "Kenny Baker, English actor and musician (born 1934)",
+      "image_url": ""
+    },
+    "count": 32
   }
 }
