@@ -705,9 +705,9 @@ function build() {
   writeFileSync(join(DIST_DIR, 'favorites.html'), favoritesHtml);
 
   // Build historical pages
-  const dates = getDatesToGenerate();
-  buildHistoricalNichePages(nicheGroups, config, dates);
-  buildHistoricalDatePages(config, dates);
+  // const dates = getDatesToGenerate();
+  // buildHistoricalNichePages(nicheGroups, config, dates);
+  // buildHistoricalDatePages(config, dates);
 
   // Generate sitemap
   console.log('  Generating sitemap...');
