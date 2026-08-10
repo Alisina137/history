@@ -1,152 +1,136 @@
 {
-  "art-architecture": {
-    "top_event": {
-      "year": 2021,
-      "description": "Australia's second most populous state Victoria enters its sixth COVID-19 lockdown, enacting stage four restrictions statewide in reaction to six new COVID-19 cases recorded that morning.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 38
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 2021,
-      "description": "Australia's second most populous state Victoria enters its sixth COVID-19 lockdown, enacting stage four restrictions statewide in reaction to six new COVID-19 cases recorded that morning.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 44
-  },
-  "literature-writers": {
-    "top_event": {
-      "year": 2015,
-      "description": "The Environmental Protection Agency at Gold King Mine waste water spill releases three million gallons of heavy metal toxin tailings and waste water into the Animas River in Colorado.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Animas_River_spill_2015-08-06.JPG/330px-Animas_River_spill_2015-08-06.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 50
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 2015,
-      "description": "The Environmental Protection Agency at Gold King Mine waste water spill releases three million gallons of heavy metal toxin tailings and waste water into the Animas River in Colorado.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Animas_River_spill_2015-08-06.JPG/330px-Animas_River_spill_2015-08-06.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 36
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 2019,
-      "description": "The revocation of the special status of Jammu and Kashmir (state) occurred and the state was bifurcated into two union territories (Jammu and Kashmir (union territory) and Ladakh).",
-      "image_url": ""
-    },
-    "count": 27
-  },
   "true-crime": {
     "top_event": {
-      "year": 2003,
-      "description": "A car bomb explodes in the Indonesian capital of Jakarta outside the Marriott Hotel killing 12 and injuring 150.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/JW_Marriott_Jakarta.jpg/330px-JW_Marriott_Jakarta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2015,
+      "description": "A suicide bomb attack kills at least 15 people at a mosque in the Saudi city of Abha.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Asir_in_Saudi_Arabia.svg/330px-Asir_in_Saudi_Arabia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 10
+    "count": 5
+  },
+  "art-architecture": {
+    "top_event": {
+      "year": 2015,
+      "description": "A suicide bomb attack kills at least 15 people at a mosque in the Saudi city of Abha.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Asir_in_Saudi_Arabia.svg/330px-Asir_in_Saudi_Arabia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 23
   },
   "wars-battles": {
     "top_event": {
-      "year": 2003,
-      "description": "A car bomb explodes in the Indonesian capital of Jakarta outside the Marriott Hotel killing 12 and injuring 150.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/JW_Marriott_Jakarta.jpg/330px-JW_Marriott_Jakarta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2015,
+      "description": "A suicide bomb attack kills at least 15 people at a mosque in the Saudi city of Abha.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Asir_in_Saudi_Arabia.svg/330px-Asir_in_Saudi_Arabia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 37
-  },
-  "music-history": {
-    "top_event": {
-      "year": 1995,
-      "description": "Yugoslav Wars: The city of Knin, Croatia, a significant Serb stronghold, is taken by Croatian forces during Operation Storm. The date is celebrated in Croatia as Victory Day.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Collage_Yugoslav_wars.jpg/330px-Collage_Yugoslav_wars.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 67
-  },
-  "cinema-film": {
-    "top_event": {
-      "year": 1981,
-      "description": "President Ronald Reagan fires 11,359 striking air-traffic controllers who ignored his order for them to return to work.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 51
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 1973,
-      "description": "Mars 6 is launched from the USSR.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mars_6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    "count": 7
+    "count": 27
   },
   "inventions-technology": {
     "top_event": {
-      "year": 1973,
-      "description": "Mars 6 is launched from the USSR.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mars_6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "year": 2012,
+      "description": "NASA's Curiosity rover lands on the surface of Mars.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 20
+    "count": 18
   },
-  "firsts-in-history": {
+  "space-exploration": {
     "top_event": {
-      "year": 1966,
-      "description": "A group of red guards at Experimental High in Beijing, including Deng Rong and Liu Pingping, daughters of Deng Xiaoping and Liu Shaoqi respectively, beat the deputy vice principal, Bian Zhongyun, to death with sticks after accusing her of counter-revolutionary revisionism, producing one of the first fatalities of the Cultural Revolution.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Red_Guards_Armband_Calligraphy.svg/330px-Red_Guards_Armband_Calligraphy.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2012,
+      "description": "NASA's Curiosity rover lands on the surface of Mars.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 11
+    "count": 4
   },
-  "medicine-health": {
+  "empires-dynasties": {
     "top_event": {
-      "year": 2010,
-      "description": "Ten members of International Assistance Mission Nuristan Eye Camp team are killed by persons unknown in Kuran wa Munjan District of Badakhshan Province, Afghanistan.",
-      "image_url": ""
+      "year": 2011,
+      "description": "War in Afghanistan: A United States military helicopter is shot down, killing 30 American special forces members and a working dog, seven Afghan soldiers, and one Afghan civilian. It was the deadliest single event for the United States in the War in Afghanistan.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Army_firefight_in_Kunar.jpg/330px-U.S._Army_firefight_in_Kunar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 1
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1960,
-      "description": "Burkina Faso, then known as Upper Volta, becomes independent from France.",
-      "image_url": ""
-    },
-    "count": 142
+    "count": 12
   },
   "natural-disasters": {
     "top_event": {
-      "year": 1949,
-      "description": "In Ecuador, an earthquake destroys 50 towns and kills more than 6,000.",
-      "image_url": ""
-    },
-    "count": 2
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 1939,
-      "description": "The Thirteen Roses: Thirteen female members of the Unified Socialist Youth are executed by Francoist forces in Madrid, Spain.",
-      "image_url": ""
+      "year": 2010,
+      "description": "Flash floods across a large part of Jammu and Kashmir, India, damages 71 towns and kills at least 255 people.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Skiu_in_2010_Ladakh_floods.jpg/330px-Skiu_in_2010_Ladakh_floods.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 1
   },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 2008,
+      "description": "A military junta led by Mohamed Ould Abdel Aziz stages a coup d'état in Mauritania, overthrowing president Sidi Ould Cheikh Abdallahi.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mohamed_Ould_Abdel_Aziz_August_2014_%28cropped%29.jpg/330px-Mohamed_Ould_Abdel_Aziz_August_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 26
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1991,
+      "description": "Tim Berners-Lee releases files describing his idea for the World Wide Web. WWW makes its first appearance as a publicly available service on the Internet.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg/330px-Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 4
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1991,
+      "description": "Takako Doi, chair of the Social Democratic Party, becomes Japan's first female speaker of the House of Representatives.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Takako_Doi_in_Tokyo_congressist_election_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "count": 5
+  },
   "business-economics": {
     "top_event": {
-      "year": 1882,
-      "description": "Standard Oil Company of New Jersey, today known as ExxonMobil, is established officially. The company would later grow to become the holder of all Standard Oil companies and the entity at the center of the breakup of Standard Oil.",
+      "year": 1990,
+      "description": "Gulf War: The United Nations Security Council orders a global trade embargo against Iraq in response to Iraq's invasion of Kuwait.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg/330px-USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 10
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1986,
+      "description": "A low-pressure system that redeveloped off the New South Wales coast dumps a record 328 millimeters (13 inches) of rain in a day on Sydney, New South Wales, Australia.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_New_South_Wales.svg/330px-Flag_of_New_South_Wales.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 14
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 1956,
+      "description": "After going bankrupt in 1955, the American broadcaster DuMont Television Network makes its final broadcast, a boxing match from St. Nicholas Arena in New York in the Boxing from St. Nicholas Arena series.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Opening_Day_at_Disneyland.jpg/330px-Opening_Day_at_Disneyland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 59
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 1926,
+      "description": "First public screening using the Vitaphone process",
       "image_url": ""
     },
-    "count": 13
+    "count": 38
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1901,
+      "description": "Kiowa land in Oklahoma is opened for white settlement, effectively dissolving the contiguous reservation.",
+      "image_url": ""
+    },
+    "count": 136
+  },
+  "music-history": {
+    "top_event": {
+      "year": 2020,
+      "description": "Vern Rumsey, American bass guitarist (born 1973)",
+      "image_url": ""
+    },
+    "count": 29
   },
   "archaeology-discoveries": {
     "top_event": {
-      "year": 1772,
-      "description": "First Partition of Poland: The representatives of Austria, Prussia, and Russia sign three bilateral conventions condemning the \"anarchy\" of the Polish–Lithuanian Commonwealth and imputing to the three powers \"ancient and legitimate rights\" to the territories of the Commonwealth. The conventions allow each of the three great powers to annex a part of the Commonwealth, which they proceed to do over the course of the following two months.",
-      "image_url": ""
-    },
-    "count": 2
-  },
-  "strange-unexplained": {
-    "top_event": {
-      "year": 1600,
-      "description": "The Gowrie Conspiracy against King James VI of Scotland (later to become King James I of England) takes place at Gowrie House (Perth, Scotland).",
+      "year": 1908,
+      "description": "Maria Ludwika Bernhard, Polish classical archaeologist and a member of WWII Polish resistance (died 1998)",
       "image_url": ""
     },
     "count": 1
