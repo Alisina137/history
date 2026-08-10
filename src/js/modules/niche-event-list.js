@@ -27,32 +27,66 @@ function getNicheConfigById(nicheId, config) {
  */
 function buildEventCardHtml(event, nicheConfig) {
   const year = escapeHtml(String(event.year));
+  function escapeAttr(text) {
+    if (!text) return '';
+    return text.replace(/&/g, '&amp;').replace(/"/g, '&quot;');
+  }
   const description = escapeHtml(event.description);
   const imageUrl = event.image_url || '';
 
-  const niches = (event.niches || []).slice(0, 3);
+  // Extract a short title from the description
+  const titleBreakPoints = [',', ';', ' – ', ' - ', '. ', ': '];
+  let title = description;
+  for (const point of titleBreakPoints) {
+    const index = description.indexOf(point);
+    if (index > 10 && index < 80) {
+      title = description.substring(0, index);
+      break;
+    }
+  }
+  if (title === description && title.length > 60) {
+    title = title.substring(0, 60) + '...';
+  }
+
+  // Check if description needs truncation
+  const needsTruncation = description.length > 120;
+  const shortDesc = needsTruncation ? description.substring(0, 120) + '...' : description;
+
+  // Build niche badges (max 2)
+  const niches = (event.niches || []).slice(0, 2);
   const badgesHtml = niches
     .map((nicheId) => {
       const info = getNicheConfigById(nicheId, nicheConfig);
       const name = info ? info.name : nicheId;
       const icon = info ? info.icon : '📅';
-      return `<span class="badge badge-brand badge-sm">${icon} ${escapeHtml(name)}</span>`;
+      return `<span class="badge badge-brand badge-sm">${icon} ${name}</span>`;
     })
     .join(' ');
 
+  // Image block with fallback
   const imageBlock = imageUrl
     ? `<div class="event-card__image"><img src="${imageUrl}" alt="" loading="lazy" width="400" height="225"></div>`
+    : `<div class="event-card__image" style="background: linear-gradient(135deg, var(--color-brand-100), var(--color-brand-200)); display: flex; align-items: center; justify-content: center; font-size: 2rem;">📅</div>`;
+
+  // More/less button if needed
+  const moreButton = needsTruncation
+    ? `<button class="event-card__more-btn" data-full="${escapeAttr(description)}" data-short="${escapeAttr(shortDesc)}">Show more</button>`
     : '';
 
   return `
-    <article class="event-card">
-      <span class="event-card__year">${year}</span>
-      <div class="event-card__content">
-        <p class="event-card__description">${description}</p>
-        <div class="event-card__footer">${badgesHtml}</div>
-      </div>
+    <article class="event-card event-card--grid">
       ${imageBlock}
-    </article>`;
+      <div class="event-card__body">
+        <span class="event-card__year">${year}</span>
+        <h3 class="event-card__title">${escapeHtml(title)}</h3>
+        <p class="event-card__description" data-full="${escapeAttr(description)}">${shortDesc}</p>
+        ${moreButton}
+        <div class="event-card__footer">
+          ${badgesHtml}
+        </div>
+      </div>
+    </article>
+  `;
 }
 
 /**
@@ -79,12 +113,33 @@ function buildExpandButton(visibleCount, totalCount, isExpanded) {
     </div>`;
 }
 
+function attachMoreButtonHandlers(container) {
+  container.querySelectorAll('.event-card__more-btn').forEach((button) => {
+    button.addEventListener('click', (event) => {
+      event.stopPropagation();
+      const descriptionEl = button.previousElementSibling;
+      const fullText = descriptionEl.dataset.full;
+      const shortText = button.dataset.short;
+      const isExpanded = button.textContent === 'Show less';
+
+      if (isExpanded) {
+        descriptionEl.textContent = shortText;
+        button.textContent = 'Show more';
+      } else {
+        descriptionEl.textContent = fullText;
+        button.textContent = 'Show less';
+      }
+    });
+  });
+}
+
 /**
  * Render the niche event list with expand/collapse.
  */
 export async function renderNicheEventList(nicheEvents, containerId = 'niche-events-container') {
   const container = document.getElementById(containerId);
   if (!container) return;
+  container.className = 'event-cards-grid';
 
   const section = document.getElementById('niche-events-section');
   if (!section) return;
@@ -121,6 +176,7 @@ export async function renderNicheEventList(nicheEvents, containerId = 'niche-eve
     );
 
     container.innerHTML = cardsHtml + buttonHtml;
+    attachMoreButtonHandlers(container);
 
     // Re-attach click handler to the new button
     const toggleButton = document.getElementById('toggle-event-list');
