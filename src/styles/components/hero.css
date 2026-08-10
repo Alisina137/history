@@ -47,7 +47,8 @@
 /* Mobile adjustments */
 @media (max-width: 767px) {
   .event-card--hero .event-card__image {
-    height: 300px;
+    position: relative;
+    background-color: #1e3a8a; /* Fallback while image loads */
   }
 
   .event-card--hero .event-card__body {
