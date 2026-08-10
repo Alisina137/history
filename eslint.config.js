@@ -21,6 +21,7 @@ export default [
         fetch: 'readonly',
         URLSearchParams: 'readonly',
         CustomEvent: 'readonly',
+        IntersectionObserver: 'readonly',
       },
     },
   },
