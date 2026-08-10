@@ -42,9 +42,7 @@ function buildEventCardHtml(event, nicheConfig) {
   const description = escapeHtml(event.description);
   const imageUrl = event.image_url || '';
 
-  // Create a short title from the first 60 chars of description
-  // Extract a short title from the description
-  // Take everything before the first comma, semicolon, dash, or period
+  // Extract a short title from the description — everything before the first comma, semicolon, dash, or period
   const titleBreakPoints = [',', ';', ' – ', ' - ', '. ', ': '];
   let title = description;
   for (const point of titleBreakPoints) {

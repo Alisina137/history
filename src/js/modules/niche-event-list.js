@@ -15,6 +15,11 @@ function escapeHtml(text) {
   return div.innerHTML;
 }
 
+function escapeAttr(text) {
+  if (!text) return '';
+  return text.replace(/&/g, '&amp;').replace(/"/g, '&quot;');
+}
+
 /**
  * Get niche config by ID.
  */
@@ -27,10 +32,7 @@ function getNicheConfigById(nicheId, config) {
  */
 function buildEventCardHtml(event, nicheConfig) {
   const year = escapeHtml(String(event.year));
-  function escapeAttr(text) {
-    if (!text) return '';
-    return text.replace(/&/g, '&amp;').replace(/"/g, '&quot;');
-  }
+
   const description = escapeHtml(event.description);
   const imageUrl = event.image_url || '';
 

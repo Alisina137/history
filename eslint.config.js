@@ -22,6 +22,7 @@ export default [
         URLSearchParams: 'readonly',
         CustomEvent: 'readonly',
         IntersectionObserver: 'readonly',
+        setTimeout: 'readonly',
       },
     },
   },
