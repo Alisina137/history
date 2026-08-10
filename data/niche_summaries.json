@@ -1,130 +1,146 @@
 {
   "art-architecture": {
     "top_event": {
-      "year": 2024,
-      "description": "Voepass Linhas Aéreas Flight 2283 crashes near Vinhedo, São Paulo, killing all 62 people on board.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/PS-VPB_ATR_72-500_Voepass_SBSV_%28cropped%29.jpg/330px-PS-VPB_ATR_72-500_Voepass_SBSV_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2023,
+      "description": "Major floods hit parts of Slovenia.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Sava_v_Tacnu_4._avgusta_ob_16h.jpg/330px-Sava_v_Tacnu_4._avgusta_ob_16h.jpg"
     },
-    "count": 32
+    "count": 30
   },
-  "music-history": {
+  "natural-disasters": {
     "top_event": {
-      "year": 2021,
-      "description": "The Tampere light rail officially starts operating.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/H%C3%A4meenkatu_tram_3.jpg/330px-H%C3%A4meenkatu_tram_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2023,
+      "description": "Major floods hit parts of Slovenia.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Sava_v_Tacnu_4._avgusta_ob_16h.jpg/330px-Sava_v_Tacnu_4._avgusta_ob_16h.jpg"
     },
-    "count": 38
+    "count": 2
   },
-  "empires-dynasties": {
+  "politics-revolutions": {
     "top_event": {
-      "year": 2014,
-      "description": "Michael Brown, an 18-year-old African American male in Ferguson, Missouri, is shot and killed by a Ferguson police officer after reportedly assaulting the officer and attempting to steal his weapon, sparking protests and unrest in the city.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ferguson%2C_Missouri_infobox_montage_1.png/330px-Ferguson%2C_Missouri_infobox_montage_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2019,
+      "description": "Six hundred protesters, including opposition leader Lyubov Sobol, are arrested in an election protest in Moscow, Russia.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ljubov_Sobol.jpg/330px-Ljubov_Sobol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 21
+    "count": 28
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 2019,
+      "description": "Six hundred protesters, including opposition leader Lyubov Sobol, are arrested in an election protest in Moscow, Russia.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ljubov_Sobol.jpg/330px-Ljubov_Sobol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 3
   },
   "true-crime": {
     "top_event": {
       "year": 2014,
-      "description": "Michael Brown, an 18-year-old African American male in Ferguson, Missouri, is shot and killed by a Ferguson police officer after reportedly assaulting the officer and attempting to steal his weapon, sparking protests and unrest in the city.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ferguson%2C_Missouri_infobox_montage_1.png/330px-Ferguson%2C_Missouri_infobox_montage_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 9
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 1999,
-      "description": "Russian president Boris Yeltsin fires his prime minister, Sergei Stepashin, and for the fourth time fires his entire cabinet.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boris_Yeltsin_%283x4_cropped%29.jpg/330px-Boris_Yeltsin_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 14
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 1995,
-      "description": "Aviateca Flight 901 crashes into the San Vicente volcano in El Salvador, killing all 65 people on board.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MIAMI_MARCH_1995_AVIATECA_BOEING_737_N125GU.jpg/330px-MIAMI_MARCH_1995_AVIATECA_BOEING_737_N125GU.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 1
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 1974,
-      "description": "As a direct result of the Watergate scandal, Richard Nixon becomes the first president of the United States to resign from office. Vice President Gerald Ford becomes president.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Watergate_complex.jpg/330px-Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 19
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 1973,
-      "description": "Mars 7 is launched from the USSR.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mars_6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    "count": 1
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 1971,
-      "description": "The Troubles: In Northern Ireland, the British authorities launch Operation Demetrius. The operation involves the mass arrest and internment without trial of individuals suspected of being affiliated with the Irish Republican Army (PIRA). Mass riots follow, and thousands of people flee or are forced out of their homes.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Map_of_Ireland%27s_capitals.png/330px-Map_of_Ireland%27s_capitals.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 25
-  },
-  "literature-writers": {
-    "top_event": {
-      "year": 1971,
-      "description": "The Troubles: In Northern Ireland, the British authorities launch Operation Demetrius. The operation involves the mass arrest and internment without trial of individuals suspected of being affiliated with the Irish Republican Army (PIRA). Mass riots follow, and thousands of people flee or are forced out of their homes.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Map_of_Ireland%27s_capitals.png/330px-Map_of_Ireland%27s_capitals.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 47
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 2012,
-      "description": "Shannon Eastin becomes the first woman to officiate an NFL game.",
-      "image_url": ""
-    },
-    "count": 8
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 2012,
-      "description": "Shannon Eastin becomes the first woman to officiate an NFL game.",
-      "image_url": ""
+      "description": "The genocide of Yazidis by ISIL begins.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Persecution_of_Yazidis_by_the_Islamic_State.jpg/330px-Persecution_of_Yazidis_by_the_Islamic_State.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 6
   },
+  "wars-battles": {
+    "top_event": {
+      "year": 2005,
+      "description": "President of Mauritania Maaouya Ould Sid'Ahmed Taya is overthrown in a military coup while attending the funeral of King Fahd in Saudi Arabia.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/National_Seal_of_Mauritania.svg/330px-National_Seal_of_Mauritania.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 25
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1972,
+      "description": "The United States Senate ratifies the Anti-Ballistic Missile Treaty.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/330px-Seal_of_the_United_States_Senate.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 13
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 1958,
+      "description": "The world's first nuclear submarine, the USS Nautilus, becomes the first vessel to complete a submerged transit of the geographical North Pole.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/USS_Nautilus_SSN-571_-underway.jpg/330px-USS_Nautilus_SSN-571_-underway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 18
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1958,
+      "description": "The world's first nuclear submarine, the USS Nautilus, becomes the first vessel to complete a submerged transit of the geographical North Pole.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/USS_Nautilus_SSN-571_-underway.jpg/330px-USS_Nautilus_SSN-571_-underway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 7
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1949,
+      "description": "The Basketball Association of America and the National Basketball League finalize the merger that would create the National Basketball Association.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Basketball-Association-of-America-logo.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "count": 116
+  },
   "cinema-film": {
     "top_event": {
-      "year": 1969,
-      "description": "Tate–LaBianca murders: Followers of Charles Manson murder pregnant actress Sharon Tate (wife of Roman Polanski), coffee heiress Abigail Folger, Polish actor Wojciech Frykowski, men's hairstylist Jay Sebring and recent high-school graduate Steven Parent.",
+      "year": 2007,
+      "description": "Former deputy director of the Chilean secret police Raúl Iturriaga is captured after having been on the run following a conviction for kidnapping.",
       "image_url": ""
     },
-    "count": 56
+    "count": 50
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 1959,
+      "description": "Portugal's state police force PIDE fires upon striking workers in Bissau, Portuguese Guinea, killing over 50 people.",
+      "image_url": ""
+    },
+    "count": 13
   },
   "sports-history": {
     "top_event": {
       "year": 1936,
-      "description": "Summer Olympics: Jesse Owens wins his fourth gold medal at the games.",
+      "description": "Jesse Owens wins the 100 metre dash, defeating Ralph Metcalfe, at the Berlin Olympics.",
       "image_url": ""
     },
-    "count": 44
+    "count": 41
   },
-  "general-history": {
+  "literature-writers": {
     "top_event": {
-      "year": 1854,
-      "description": "American Transcendentalist philosopher Henry David Thoreau publishes his memoir Walden.",
+      "year": 881,
+      "description": "Battle of Saucourt-en-Vimeu: Louis III of France defeats the Vikings, an event celebrated in the poem Ludwigslied.",
       "image_url": ""
     },
-    "count": 138
+    "count": 71
   },
-  "business-economics": {
+  "music-history": {
     "top_event": {
-      "year": 2014,
-      "description": "Arthur G. Cohen, American businessman and philanthropist, co-founded Arlen Realty and Development Corporation (born 1930)",
+      "year": 2015,
+      "description": "Margot Loyola, Chilean singer-songwriter and guitarist (born 1918)",
       "image_url": ""
     },
-    "count": 9
+    "count": 46
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1935,
+      "description": "Georgy Shonin, Ukrainian-Russian general, pilot, and cosmonaut (died 1997)",
+      "image_url": ""
+    },
+    "count": 5
+  },
+  "strange-unexplained": {
+    "top_event": {
+      "year": 1924,
+      "description": "Connie Converse, American musician and singer-songwriter (disappeared 1974)",
+      "image_url": ""
+    },
+    "count": 1
+  },
+  "medicine-health": {
+    "top_event": {
+      "year": 1963,
+      "description": "Signe Salén, Swedish doctor (born 1871)",
+      "image_url": ""
+    },
+    "count": 1
   }
 }

@@ -13,6 +13,7 @@
   cursor: pointer;
   transition: all var(--transition-fast);
   min-height: 180px;
+  will-change: transform; /* Optimize for hover animation */
 }
 
 .niche-card:hover {

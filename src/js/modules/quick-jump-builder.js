@@ -87,7 +87,13 @@ export async function renderQuickJump(containerId = 'quick-jump-container') {
         if (event.target.closest('.niche-card__favorite')) return;
         const nicheId = card.dataset.niche;
         if (nicheId) {
-          window.location.href = `/niche.html?niche=${nicheId}`;
+          const isLocal =
+            window.location.hostname === '127.0.0.1' || window.location.hostname === 'localhost';
+          if (isLocal) {
+            window.location.href = `/niche.html?niche=${nicheId}`;
+          } else {
+            window.location.href = `/niche/${nicheId}.html`;
+          }
         }
       });
     });
