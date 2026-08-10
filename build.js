@@ -2,7 +2,7 @@
  * Static Site Builder
  * Reads data/events.json and generates static HTML pages with OG tags.
  */
-
+import { createHash } from 'crypto';
 import { readFileSync, writeFileSync, mkdirSync, copyFileSync, existsSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -17,6 +17,34 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = join(__dirname, 'data');
 const SRC_DIR = join(__dirname, 'src');
 const DIST_DIR = join(__dirname, 'dist');
+const BUILD_TIME = Date.now().toString(36); // e.g., "lq5h2a8x"
+
+/**
+ * Generate a content hash for cache busting.
+ */
+function getContentHash(filePath) {
+  if (!existsSync(filePath)) return '';
+  const content = readFileSync(filePath);
+  return createHash('md5').update(content).digest('hex').substring(0, 8);
+}
+
+/**
+ * Copy a file with a content hash appended to the filename.
+ * Returns the new filename (e.g., "main.a1b2c3d.css").
+ */
+function copyWithHash(srcPath, destDir, baseName) {
+  const hash = getContentHash(srcPath);
+  if (!hash) return baseName;
+
+  const ext = baseName.split('.').pop();
+  const nameWithoutExt = baseName.replace(`.${ext}`, '');
+  const hashedName = `${nameWithoutExt}.${hash}.${ext}`;
+
+  const destPath = join(destDir, hashedName);
+  copyFileSync(srcPath, destPath);
+
+  return hashedName;
+}
 
 /**
  * Generate JSON-LD structured data script tag.
@@ -136,7 +164,7 @@ function buildDatePage(dateLabel, month, day, events) {
         },
       })),
     })}
-  <link rel="stylesheet" href="/styles/main.css">
+  <link rel="stylesheet" href="/styles/main.css?v=${BUILD_TIME}">
 </head>
 <body>
   ${renderHeader()}
@@ -462,7 +490,7 @@ function buildHomepage(events, nicheSummaries, config) {
         'query-input': 'required name=search_term_string',
       },
     })}
-  <link rel="stylesheet" href="/styles/main.css">
+  <link rel="stylesheet" href="/styles/main.css?v=${BUILD_TIME}">
 </head>
 <body>
   ${renderHeader('home')}
@@ -485,7 +513,7 @@ function buildHomepage(events, nicheSummaries, config) {
     </section>
   </main>
   ${renderFooter()}
-  <script type="module" src="/js/app.js"></script>
+  <script type="module" src="/js/app.js?v=${BUILD_TIME}"></script>
   <script type="module" src="/js/favorites-manager.js"></script>
 </body>
 </html>`;
@@ -538,7 +566,7 @@ function buildNichePage(nicheId, nicheEvents, config) {
         url: event.wikipedia_url || '',
       })),
     })}
-  <link rel="stylesheet" href="/styles/main.css">
+  <link rel="stylesheet" href="/styles/main.css?v=${BUILD_TIME}">
 </head>
 <body>
   ${renderHeader()}
@@ -556,7 +584,7 @@ function buildNichePage(nicheId, nicheEvents, config) {
     </section>
   </main>
   ${renderFooter()}
-  <script type="module" src="/js/niche-page.js"></script>
+  <script type="module" src="/js/niche-page.js?v=${BUILD_TIME}"></script>
   <script type="module" src="/js/favorites-manager.js"></script>
 </body>
 </html>`;
@@ -579,7 +607,7 @@ function buildFavoritesPage() {
   <meta name="description" content="${escapeAttr(ogDesc)}">
   ${ogTags}
   ${generateCanonicalTag('https://today-in-history.pages.dev/favorites.html')}
-  <link rel="stylesheet" href="/styles/main.css">
+  <link rel="stylesheet" href="/styles/main.css?v=${BUILD_TIME}">
 </head>
 <body>
   ${renderHeader('favorites')}
@@ -598,7 +626,7 @@ function buildFavoritesPage() {
     </section>
   </main>
   ${renderFooter()}
-  <script type="module" src="/js/favorites-page.js"></script>
+  <script type="module" src="/js/favorites-page.js?v=${BUILD_TIME}"></script>
   <script type="module" src="/js/favorites-manager.js"></script>
 </body>
 </html>`;
@@ -638,6 +666,40 @@ function copyAssets() {
       const destDir = join(DIST_DIR, dir);
       mkdirSync(destDir, { recursive: true });
       copyRecursive(srcDir, destDir);
+    }
+  }
+
+  // Handle CSS with cache busting
+  const cssDir = join(DIST_DIR, 'styles');
+  mkdirSync(cssDir, { recursive: true });
+
+  const cssSrcDir = join(SRC_DIR, 'styles');
+  if (existsSync(cssSrcDir)) {
+    const cssFiles = readdirSync(cssSrcDir, { recursive: true });
+    for (const file of cssFiles) {
+      const srcPath = join(cssSrcDir, file);
+      if (existsSync(srcPath) && file.endsWith('.css')) {
+        const destDirPath = join(cssDir, dirname(file));
+        mkdirSync(destDirPath, { recursive: true });
+        copyFileSync(srcPath, join(destDirPath, file));
+      }
+    }
+  }
+
+  // Handle JS with cache busting
+  const jsDir = join(DIST_DIR, 'js');
+  mkdirSync(jsDir, { recursive: true });
+
+  const jsSrcDir = join(SRC_DIR, 'js');
+  if (existsSync(jsSrcDir)) {
+    const jsFiles = readdirSync(jsSrcDir, { recursive: true });
+    for (const file of jsFiles) {
+      const srcPath = join(jsSrcDir, file);
+      if (existsSync(srcPath) && file.endsWith('.js')) {
+        const destDirPath = join(jsDir, dirname(file));
+        mkdirSync(destDirPath, { recursive: true });
+        copyFileSync(srcPath, join(destDirPath, file));
+      }
     }
   }
 }
