@@ -370,7 +370,7 @@ function renderNicheCard(nicheId, summary, config) {
     : 'style="background: linear-gradient(135deg, #3b82f6, #60a5fa); opacity: 0.1;"';
 
   return `
-    <a href="/niche/${nicheId}.html" class="niche-card">
+    <a href="/niche/${nicheId}.html" class="niche-card" aria-label="${escapeHtml(name)} — ${count} events today">
       <div class="niche-card__bg" ${bgStyle}></div>
       <div class="niche-card__content">
         <div>
