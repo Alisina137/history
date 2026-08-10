@@ -1,1 +1,130 @@
-{}
+{
+  "art-architecture": {
+    "top_event": {
+      "year": 2024,
+      "description": "Israel strikes Al-Tabaeen school in eastern Gaza City, killing at least 80 Palestinians.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Badge_of_the_Israeli_Defense_Forces_2022_version.svg/330px-Badge_of_the_Israeli_Defense_Forces_2022_version.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 40
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 2020,
+      "description": "Derecho in Iowa becomes the most costly thunderstorm disaster in U.S. history.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/GOES-East_Watches_Derecho_Slam_Midwest_%28NESDIS_2020-08-11%29.gif/330px-GOES-East_Watches_Derecho_Slam_Midwest_%28NESDIS_2020-08-11%29.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 6
+  },
+  "true-crime": {
+    "top_event": {
+      "year": 2019,
+      "description": "Thirty-two are killed and one million are evacuated as Typhoon Lekima makes landfall in Zhejiang, China. Earlier it had caused flooding in the Philippines.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lekima_2019-08-08_Suomi_NPP.jpg/330px-Lekima_2019-08-08_Suomi_NPP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 15
+  },
+  "wars-battles": {
+    "top_event": {
+      "year": 2019,
+      "description": "Philip Manshaus shoots his stepsister and attacks a mosque in the Bærum mosque shooting.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Al-Noor_Islamic_Centre_%286%29.jpg/330px-Al-Noor_Islamic_Centre_%286%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 37
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 2018,
+      "description": "Horizon Air employee Richard Russell hijacks and performs an unauthorized takeoff on a Horizon Air Bombardier Dash 8 Q400 plane at Seattle–Tacoma International Airport in Washington, flying it for more than an hour before crashing the plane and killing himself on Ketron Island in Puget Sound.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/N638QX_%40_LAX%2C_2023-11-05.jpg/330px-N638QX_%40_LAX%2C_2023-11-05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 58
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 2018,
+      "description": "An anti-government rally turns into a riot when members of the Romanian Gendarmerie attack the 100,000 people protesting in front of the Victoria Palace, leading to 452 recorded injuries. The authorities alleged that the crowd was infiltrated by hooligans who began attacking law enforcement agents.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Protest_against_corruption_-_Bucharest_2017_-_Piata_Universitatii_-_5.jpg/330px-Protest_against_corruption_-_Bucharest_2017_-_Piata_Universitatii_-_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 25
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 2001,
+      "description": "Space Shuttle program: The Space Shuttle Discovery is launched on STS-105 to the International Space Station, carrying the astronauts of Expedition 3 to replace the crew of Expedition 2.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Shuttle_Patch.svg/330px-Shuttle_Patch.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 3
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 2001,
+      "description": "Space Shuttle program: The Space Shuttle Discovery is launched on STS-105 to the International Space Station, carrying the astronauts of Expedition 3 to replace the crew of Expedition 2.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Shuttle_Patch.svg/330px-Shuttle_Patch.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 10
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1998,
+      "description": "HRH Prince Al-Muhtadee Billah is proclaimed the crown prince of Brunei with a Royal Proclamation.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2023_Majlis_Ramah_Mesra_Belait_82_%28cropped%29.jpg/330px-2023_Majlis_Ramah_Mesra_Belait_82_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 42
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 1988,
+      "description": "Japanese American internment: U.S. President Ronald Reagan signs the Civil Liberties Act of 1988, providing $20,000 payments to Japanese Americans who were either interned in or relocated by the United States during World War II.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Woodland%2C_California._Evacuees_of_Japanese_ancestry_are_boarding_a_special_train_for_Merced_Assembl_._._._-_NARA_-_537818_%28cropped2%29.jpg/330px-Woodland%2C_California._Evacuees_of_Japanese_ancestry_are_boarding_a_special_train_for_Merced_Assembl_._._._-_NARA_-_537818_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 23
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1977,
+      "description": "In Yonkers, New York, 24-year-old postal employee David Berkowitz (\"Son of Sam\") is arrested for a series of killings in the New York City area over the period of one year.",
+      "image_url": ""
+    },
+    "count": 169
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 1971,
+      "description": "The Society for American Baseball Research is founded in Cooperstown, New York.",
+      "image_url": ""
+    },
+    "count": 19
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 1969,
+      "description": "A day after murdering actress Sharon Tate and four others, members of Charles Manson's cult kill Leno and Rosemary LaBianca.",
+      "image_url": ""
+    },
+    "count": 50
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1961,
+      "description": "Vietnam War: The U.S. Army begins Operation Ranch Hand, spraying an estimated 20 million US gallons (76,000 m3) of defoliants and herbicides over rural areas of South Vietnam in an attempt to deprive the Viet Cong of food and vegetation cover.",
+      "image_url": ""
+    },
+    "count": 52
+  },
+  "medicine-health": {
+    "top_event": {
+      "year": 2017,
+      "description": "Ruth Pfau, German-Pakistani doctor and nun (born 1929)",
+      "image_url": ""
+    },
+    "count": 1
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1997,
+      "description": "Kylie Jenner, American television personality and businesswoman",
+      "image_url": ""
+    },
+    "count": 3
+  }
+}
