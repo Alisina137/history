@@ -16,6 +16,14 @@ function escapeHtml(text) {
 }
 
 /**
+ * Escape HTML attribute value.
+ */
+function escapeAttr(text) {
+  if (!text) return '';
+  return text.replace(/&/g, '&amp;').replace(/"/g, '&quot;');
+}
+
+/**
  * Get niche display info from config.
  */
 function getNicheInfo(nicheId, config) {
@@ -34,8 +42,29 @@ function buildEventCardHtml(event, nicheConfig) {
   const description = escapeHtml(event.description);
   const imageUrl = event.image_url || '';
 
-  // Build niche badges (max 3)
-  const niches = (event.niches || []).slice(0, 3);
+  // Create a short title from the first 60 chars of description
+  // Extract a short title from the description
+  // Take everything before the first comma, semicolon, dash, or period
+  const titleBreakPoints = [',', ';', ' – ', ' - ', '. ', ': '];
+  let title = description;
+  for (const point of titleBreakPoints) {
+    const index = description.indexOf(point);
+    if (index > 10 && index < 80) {
+      title = description.substring(0, index);
+      break;
+    }
+  }
+  // Fallback: if no good break point, take first 60 chars
+  if (title === description && title.length > 60) {
+    title = title.substring(0, 60) + '...';
+  }
+
+  // Check if description needs truncation
+  const needsTruncation = description.length > 120;
+  const shortDesc = needsTruncation ? description.substring(0, 120) + '...' : description;
+
+  // Build niche badges (max 2)
+  const niches = (event.niches || []).slice(0, 2);
   const badgesHtml = niches
     .map((nicheId) => {
       const info = getNicheInfo(nicheId, nicheConfig);
@@ -43,31 +72,63 @@ function buildEventCardHtml(event, nicheConfig) {
     })
     .join(' ');
 
-  // Thumbnail
+  // Image block with fallback
   const imageBlock = imageUrl
-    ? `<div class="event-card__image"><img src="${imageUrl}" alt="" loading="lazy"></div>`
-    : `<div class="event-card__image" style="background: var(--color-neutral-100); display: flex; align-items: center; justify-content: center; font-size: 1.5rem;">📅</div>`;
+    ? `<div class="event-card__image"><img src="${imageUrl}" alt="" loading="lazy" width="400" height="225"></div>`
+    : `<div class="event-card__image" style="background: linear-gradient(135deg, var(--color-brand-100), var(--color-brand-200)); display: flex; align-items: center; justify-content: center; font-size: 2rem;">📅</div>`;
+
+  // More/less button if needed
+  const moreButton = needsTruncation
+    ? `<button class="event-card__more-btn" data-full="${escapeAttr(description)}" data-short="${escapeAttr(shortDesc)}">Show more</button>`
+    : '';
 
   return `
-    <article class="event-card">
-      <span class="event-card__year">${year}</span>
-      <div class="event-card__content">
-        <p class="event-card__description">${description}</p>
+    <article class="event-card event-card--grid">
+      ${imageBlock}
+      <div class="event-card__body">
+        <span class="event-card__year">${year}</span>
+        <h3 class="event-card__title">${escapeHtml(title)}</h3>
+        <p class="event-card__description" data-full="${escapeAttr(description)}">${shortDesc}</p>
+        ${moreButton}
         <div class="event-card__footer">
           ${badgesHtml}
         </div>
       </div>
-      ${imageBlock}
     </article>
   `;
 }
 
+/**
+ * Attach "Show more/less" click handlers to all cards.
+ */
+function attachMoreButtonHandlers(container) {
+  container.querySelectorAll('.event-card__more-btn').forEach((button) => {
+    button.addEventListener('click', (event) => {
+      event.stopPropagation();
+
+      const descriptionEl = button.previousElementSibling;
+      const fullText = descriptionEl.dataset.full;
+      const shortText = button.dataset.short;
+      const isExpanded = button.textContent === 'Show less';
+
+      if (isExpanded) {
+        descriptionEl.textContent = shortText;
+        button.textContent = 'Show more';
+      } else {
+        descriptionEl.textContent = fullText;
+        button.textContent = 'Show less';
+      }
+    });
+  });
+}
 /**
  * Render the timeline with events #2 through #20.
  */
 export async function renderTimeline(containerId = 'timeline-container') {
   const container = document.getElementById(containerId);
   if (!container) return;
+
+  container.className = 'event-cards-grid';
 
   try {
     const [eventsData, nicheConfig] = await Promise.all([loadEvents(), loadNicheConfig()]);
@@ -92,6 +153,9 @@ export async function renderTimeline(containerId = 'timeline-container') {
       .join('');
 
     container.innerHTML = cardsHtml;
+
+    // Attach show more/less handlers
+    attachMoreButtonHandlers(container);
   } catch (error) {
     console.error('Error rendering timeline:', error);
     container.innerHTML = '<p>Failed to load events.</p>';

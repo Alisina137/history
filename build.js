@@ -209,7 +209,9 @@ function buildHistoricalNichePages(nicheGroups, config, dates) {
 function runPipelineForDate(month, day) {
   try {
     console.log(`    Running pipeline for ${month}/${day}...`);
-    execSync(`python pipeline/main.py ${month} ${day}`, {
+    const pythonPath = join(__dirname, 'venv', 'Scripts', 'python.exe');
+    const pythonCmd = existsSync(pythonPath) ? pythonPath : 'python';
+    execSync(`"${pythonCmd}" pipeline/main.py ${month} ${day}`, {
       cwd: __dirname,
       stdio: 'pipe',
       timeout: 120000, // 2 minute timeout
@@ -624,55 +626,38 @@ function copyRecursive(src, dest) {
 }
 
 function copyAssets() {
-  // Copy _headers file for Cloudflare Pages
-  const headersSrc = join(SRC_DIR, '_headers');
-  if (existsSync(headersSrc)) {
-    copyFileSync(headersSrc, join(DIST_DIR, '_headers'));
-    console.log('  Copied _headers');
-  }
+  // Ensure dist directories exist
+  const distCssDir = join(DIST_DIR, 'styles');
+  const distJsDir = join(DIST_DIR, 'js');
+  mkdirSync(distCssDir, { recursive: true });
+  mkdirSync(distJsDir, { recursive: true });
 
-  const dirs = ['styles', 'js', 'assets', 'data'];
-  for (const dir of dirs) {
-    const srcDir = join(SRC_DIR, dir);
-    if (existsSync(srcDir)) {
-      const destDir = join(DIST_DIR, dir);
-      mkdirSync(destDir, { recursive: true });
-      copyRecursive(srcDir, destDir);
-    }
-  }
-
-  // Handle CSS with cache busting
-  const cssDir = join(DIST_DIR, 'styles');
-  mkdirSync(cssDir, { recursive: true });
-
+  // Copy CSS files directly (flattened)
   const cssSrcDir = join(SRC_DIR, 'styles');
   if (existsSync(cssSrcDir)) {
-    const cssFiles = readdirSync(cssSrcDir, { recursive: true });
-    for (const file of cssFiles) {
-      const srcPath = join(cssSrcDir, file);
-      if (existsSync(srcPath) && file.endsWith('.css')) {
-        const destDirPath = join(cssDir, dirname(file));
-        mkdirSync(destDirPath, { recursive: true });
-        copyFileSync(srcPath, join(destDirPath, file));
-      }
-    }
+    copyRecursive(cssSrcDir, distCssDir);
   }
 
-  // Handle JS with cache busting
-  const jsDir = join(DIST_DIR, 'js');
-  mkdirSync(jsDir, { recursive: true });
-
+  // Copy JS files directly
   const jsSrcDir = join(SRC_DIR, 'js');
   if (existsSync(jsSrcDir)) {
-    const jsFiles = readdirSync(jsSrcDir, { recursive: true });
-    for (const file of jsFiles) {
-      const srcPath = join(jsSrcDir, file);
-      if (existsSync(srcPath) && file.endsWith('.js')) {
-        const destDirPath = join(jsDir, dirname(file));
-        mkdirSync(destDirPath, { recursive: true });
-        copyFileSync(srcPath, join(destDirPath, file));
-      }
-    }
+    copyRecursive(jsSrcDir, distJsDir);
+  }
+
+  // Copy data directory
+  const dataSrcDir = join(SRC_DIR, 'data');
+  if (existsSync(dataSrcDir)) {
+    const distDataDir = join(DIST_DIR, 'data');
+    mkdirSync(distDataDir, { recursive: true });
+    copyRecursive(dataSrcDir, distDataDir);
+  }
+
+  // Copy assets directory
+  const assetsSrcDir = join(SRC_DIR, 'assets');
+  if (existsSync(assetsSrcDir)) {
+    const distAssetsDir = join(DIST_DIR, 'assets');
+    mkdirSync(distAssetsDir, { recursive: true });
+    copyRecursive(assetsSrcDir, distAssetsDir);
   }
 }
 
@@ -694,6 +679,7 @@ function build() {
 
   console.log('  Copying assets...');
   copyAssets();
+
   // Copy robots.txt
   const robotsSrc = join(SRC_DIR, 'robots.txt');
   if (existsSync(robotsSrc)) {

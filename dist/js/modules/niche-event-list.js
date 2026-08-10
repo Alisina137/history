@@ -41,7 +41,7 @@ function buildEventCardHtml(event, nicheConfig) {
     .join(' ');
 
   const imageBlock = imageUrl
-    ? `<div class="event-card__image"><img src="${imageUrl}" alt="" loading="lazy"></div>`
+    ? `<div class="event-card__image"><img src="${imageUrl}" alt="" loading="lazy" width="400" height="225"></div>`
     : '';
 
   return `

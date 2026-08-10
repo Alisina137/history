@@ -1,0 +1,30 @@
+# CSS files - cache for 1 year (fingerprinted via build)
+/styles/*.css
+  Cache-Control: public, max-age=31536000, immutable
+
+# JavaScript files - cache for 1 year
+/js/*.js
+  Cache-Control: public, max-age=31536000, immutable
+
+# Images - cache for 1 year
+/images/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# HTML pages - cache for 1 hour, must revalidate
+/*.html
+  Cache-Control: public, max-age=3600, must-revalidate
+
+# Data JSON - cache for 1 day
+/data/*.json
+  Cache-Control: public, max-age=86400
+
+# Sitemap - cache for 1 day
+/sitemap.xml
+  Cache-Control: public, max-age=86400
+
+# Robots.txt - cache for 1 week
+/robots.txt
+  Cache-Control: public, max-age=604800
