@@ -33,10 +33,13 @@ function buildNicheCardHtml(nicheId, nicheConfig, summary) {
     teaser = desc.length > 80 ? desc.substring(0, 80) + '...' : desc;
   }
 
+  // Background image: use data-src for lazy loading, static styles inline
   const bgImage = topEvent && topEvent.image_url ? topEvent.image_url : '';
-  const bgStyle = bgImage
-    ? `style="background-image: url('${bgImage}'); background-size: cover; background-position: center; opacity: 0.15;"`
-    : 'style="background: linear-gradient(135deg, #3b82f6, #60a5fa); opacity: 0.1;"';
+  const dataSrcAttr = bgImage ? `data-src="url('${bgImage}')"` : '';
+  const baseStyle = 'background-size: cover; background-position: center; opacity: 0.15;';
+  const fallbackGradient = bgImage
+    ? ''
+    : 'background-image: linear-gradient(135deg, #3b82f6, #60a5fa); opacity: 0.1;';
 
   const favorited = isFavorited(nicheId);
   const heartClass = favorited ? 'niche-card__favorite--active' : '';
@@ -44,7 +47,7 @@ function buildNicheCardHtml(nicheId, nicheConfig, summary) {
 
   return `
     <div class="niche-card" data-niche="${escapeHtml(nicheId)}">
-      <div class="niche-card__bg" ${bgStyle}></div>
+      <div class="niche-card__bg" ${dataSrcAttr} style="${baseStyle} ${fallbackGradient}"></div>
       <div class="niche-card__content">
         <div>
           <div class="niche-card__icon">${icon}</div>
@@ -53,8 +56,8 @@ function buildNicheCardHtml(nicheId, nicheConfig, summary) {
         </div>
         <div class="niche-card__footer">
           <span class="niche-card__count">+${count} events</span>
-          <button class="niche-card__favorite ${heartClass}" 
-                  data-niche="${escapeHtml(nicheId)}" 
+          <button class="niche-card__favorite ${heartClass}"
+                  data-niche="${escapeHtml(nicheId)}"
                   aria-label="${favorited ? 'Remove from' : 'Add to'} favorites">
             ${heartIcon}
           </button>
@@ -85,6 +88,32 @@ function buildNicheSummaries(eventsData) {
   return summaries;
 }
 
+/**
+ * Set background images on niche cards only when they enter the viewport.
+ */
+function lazyLoadNicheCardBackgrounds() {
+  if (!('IntersectionObserver' in window)) return;
+
+  const cards = document.querySelectorAll('.niche-card');
+  const observer = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          const bg = entry.target.querySelector('.niche-card__bg');
+          if (bg && bg.dataset.src) {
+            bg.style.backgroundImage = bg.dataset.src;
+            bg.removeAttribute('data-src');
+          }
+          observer.unobserve(entry.target);
+        }
+      });
+    },
+    { rootMargin: '200px' }
+  );
+
+  cards.forEach((card) => observer.observe(card));
+}
+
 export async function renderNicheGrid(containerId = 'niche-grid-container') {
   const container = document.getElementById(containerId);
   if (!container) return;
@@ -109,6 +138,7 @@ export async function renderNicheGrid(containerId = 'niche-grid-container') {
       .join('');
 
     container.innerHTML = cardsHtml;
+    lazyLoadNicheCardBackgrounds();
     attachNicheCardHandlers();
   } catch (error) {
     console.error('Error rendering niche grid:', error);
