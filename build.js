@@ -257,7 +257,6 @@ function buildHomepage(events, nicheSummaries, config) {
   </main>
   ${renderFooter()}
   <script type="module" src="/js/app.js?v=${BUILD_TIME}"></script>
-  <script type="module" src="/js/favorites-manager.js"></script>
 </body>
 </html>`;
 
@@ -327,8 +326,7 @@ function buildNichePage(nicheId, nicheEvents, config) {
     </section>
   </main>
   ${renderFooter()}
-  <script type="module" src="/js/niche-page.js?v=${BUILD_TIME}"></script>
-  <script type="module" src="/js/favorites-manager.js"></script>
+  <script type="module" src="/js/niche-page.js?v=${BUILD_TIME}"></>
 </body>
 </html>`;
 
@@ -349,28 +347,57 @@ function buildFavoritesPage() {
   <title>Your Favorites — Today in History</title>
   <meta name="description" content="${escapeAttr(ogDesc)}">
   ${ogTags}
-  ${generateCanonicalTag('https://today-in-history.pages.dev/favorites.html')}
+  ${generateCanonicalTag(ogUrl)}
   <link rel="stylesheet" href="/styles/main.css?v=${BUILD_TIME}">
 </head>
 <body>
   ${renderHeader('favorites')}
   <main class="container">
-    <section class="section">
-      <h2 class="section__title">Your Favorites</h2>
-      <p class="section__subtitle">Your personalized timeline based on your favorite niches.</p>
-      <div id="favorites-empty" style="display: none;">
-        <p>You haven't favorited any niches yet.</p>
+
+    <section class="section" id="favorites-empty-section" style="display: none;">
+      <div style="text-align: center; padding: var(--space-16) 0;">
+        <div style="font-size: 4rem; margin-bottom: var(--space-4);">♥</div>
+        <h2 style="margin-bottom: var(--space-3);">No Favorites Yet</h2>
+        <p style="color: var(--color-neutral-500); margin-bottom: var(--space-6); max-width: 400px; margin-left: auto; margin-right: auto;">
+          Favorite your favorite niches to build your personalized daily timeline.
+        </p>
         <a href="/index.html" class="btn btn-primary">Explore Niches</a>
       </div>
-      <div id="favorites-content">
-        <div id="favorite-niches-row" class="niche-grid"></div>
-        <div id="favorites-timeline" class="timeline"></div>
-      </div>
     </section>
+
+    <div id="favorites-content-section" style="display: none;">
+
+      <section class="section" id="quick-jump-section">
+        <h2 class="section__title">Your Favorite Niches</h2>
+        <p class="section__subtitle">Quick jump to your saved niches.</p>
+        <div class="niche-grid" id="quick-jump-container">
+          <div class="skeleton skeleton--card"></div>
+          <div class="skeleton skeleton--card"></div>
+          <div class="skeleton skeleton--card"></div>
+        </div>
+      </section>
+
+      <section class="section" id="merged-timeline-section">
+        <h2 class="section__title">Your Personalized Timeline</h2>
+        <p class="section__subtitle">The most important events today from all your favorite niches.</p>
+        
+        <div id="merged-hero-container">
+          <div class="skeleton skeleton--image"></div>
+          <div class="skeleton skeleton--text"></div>
+        </div>
+
+        <div class="event-cards-grid" id="merged-timeline-container" style="margin-top: var(--space-6);">
+          <div class="skeleton skeleton--card"></div>
+          <div class="skeleton skeleton--card"></div>
+          <div class="skeleton skeleton--card"></div>
+        </div>
+      </section>
+
+    </div>
+
   </main>
   ${renderFooter()}
   <script type="module" src="/js/favorites-page.js?v=${BUILD_TIME}"></script>
-  <script type="module" src="/js/favorites-manager.js"></script>
 </body>
 </html>`;
 
