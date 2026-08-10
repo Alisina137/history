@@ -4,7 +4,7 @@
  */
 
 import { loadEvents, loadNicheConfig } from './data-loader.js';
-import { getFavorites, isFavorited } from './favorites-manager.js';
+import { getFavorites } from './favorites-manager.js';
 
 /**
  * Escape HTML to prevent XSS.

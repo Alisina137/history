@@ -1,146 +1,130 @@
 {
   "art-architecture": {
     "top_event": {
-      "year": 2023,
-      "description": "Major floods hit parts of Slovenia.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Sava_v_Tacnu_4._avgusta_ob_16h.jpg/330px-Sava_v_Tacnu_4._avgusta_ob_16h.jpg"
+      "year": 2020,
+      "description": "Beirut Port explosion: At least 220 people are killed and over 5,000 are wounded when 2,700 tons of ammonium nitrate explodes in Beirut, Lebanon.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Damages_after_2020_Beirut_explosions_1.jpg/330px-Damages_after_2020_Beirut_explosions_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 30
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 2023,
-      "description": "Major floods hit parts of Slovenia.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Sava_v_Tacnu_4._avgusta_ob_16h.jpg/330px-Sava_v_Tacnu_4._avgusta_ob_16h.jpg"
-    },
-    "count": 2
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 2019,
-      "description": "Six hundred protesters, including opposition leader Lyubov Sobol, are arrested in an election protest in Moscow, Russia.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ljubov_Sobol.jpg/330px-Ljubov_Sobol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 28
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 2019,
-      "description": "Six hundred protesters, including opposition leader Lyubov Sobol, are arrested in an election protest in Moscow, Russia.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ljubov_Sobol.jpg/330px-Ljubov_Sobol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 3
+    "count": 31
   },
   "true-crime": {
     "top_event": {
-      "year": 2014,
-      "description": "The genocide of Yazidis by ISIL begins.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Persecution_of_Yazidis_by_the_Islamic_State.jpg/330px-Persecution_of_Yazidis_by_the_Islamic_State.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2020,
+      "description": "Beirut Port explosion: At least 220 people are killed and over 5,000 are wounded when 2,700 tons of ammonium nitrate explodes in Beirut, Lebanon.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Damages_after_2020_Beirut_explosions_1.jpg/330px-Damages_after_2020_Beirut_explosions_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 6
   },
   "wars-battles": {
     "top_event": {
-      "year": 2005,
-      "description": "President of Mauritania Maaouya Ould Sid'Ahmed Taya is overthrown in a military coup while attending the funeral of King Fahd in Saudi Arabia.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/National_Seal_of_Mauritania.svg/330px-National_Seal_of_Mauritania.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2018,
+      "description": "Syrian civil war: The Syrian Democratic Forces (SDF) expel the Islamic State of Iraq and the Levant (ISIL) from the Iraq–Syria border, concluding the second phase of the Deir ez-Zor campaign.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bombed_out_vehicles_Aleppo.jpg/330px-Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 25
+    "count": 32
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 2018,
+      "description": "Crisis in Venezuela: Seven people are injured when two drones detonate explosives on Avenida Bolívar, Caracas while president Nicolás Maduro is giving a speech to the Venezuelan National Guard.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gdp-per-capita-maddison.png/330px-Gdp-per-capita-maddison.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 38
   },
   "inventions-technology": {
     "top_event": {
-      "year": 1972,
-      "description": "The United States Senate ratifies the Anti-Ballistic Missile Treaty.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/330px-Seal_of_the_United_States_Senate.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1987,
+      "description": "The Federal Communications Commission rescinds the Fairness Doctrine which had required radio and television stations to give equal time to opposing views.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Seal_of_the_Federal_Communications_Commission.svg/330px-Seal_of_the_Federal_Communications_Commission.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 13
+    "count": 12
   },
-  "business-economics": {
+  "music-history": {
     "top_event": {
-      "year": 1958,
-      "description": "The world's first nuclear submarine, the USS Nautilus, becomes the first vessel to complete a submerged transit of the geographical North Pole.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/USS_Nautilus_SSN-571_-underway.jpg/330px-USS_Nautilus_SSN-571_-underway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1995,
+      "description": "Operation Storm, the last major battle of the Croatian War of Independence begins.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Map_49_-_Croatia_-_Operation_Oluja%2C_4-8_August_1995.jpg/330px-Map_49_-_Croatia_-_Operation_Oluja%2C_4-8_August_1995.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 18
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 1958,
-      "description": "The world's first nuclear submarine, the USS Nautilus, becomes the first vessel to complete a submerged transit of the geographical North Pole.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/USS_Nautilus_SSN-571_-underway.jpg/330px-USS_Nautilus_SSN-571_-underway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 7
+    "count": 34
   },
   "general-history": {
     "top_event": {
-      "year": 1949,
-      "description": "The Basketball Association of America and the National Basketball League finalize the merger that would create the National Basketball Association.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Basketball-Association-of-America-logo.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "year": 1964,
+      "description": "Civil rights movement: Civil rights workers Michael Schwerner, Andrew Goodman and James Chaney are found dead in Mississippi after disappearing on June 21.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg/330px-Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 116
+    "count": 137
   },
-  "cinema-film": {
+  "space-exploration": {
     "top_event": {
       "year": 2007,
-      "description": "Former deputy director of the Chilean secret police Raúl Iturriaga is captured after having been on the run following a conviction for kidnapping.",
+      "description": "NASA's Phoenix Mars lander is launched.",
       "image_url": ""
     },
-    "count": 50
+    "count": 5
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1984,
+      "description": "The Ariane 3 rocket is launched for the first time, carrying the Eutelsat I F-2 and Télécom 1A satellites into geosynchronous transfer orbit.",
+      "image_url": ""
+    },
+    "count": 5
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 1946,
+      "description": "An earthquake of magnitude 8.0 hits northern Dominican Republic. One hundred are killed and 20,000 are left homeless.",
+      "image_url": ""
+    },
+    "count": 2
   },
   "empires-dynasties": {
     "top_event": {
-      "year": 1959,
-      "description": "Portugal's state police force PIDE fires upon striking workers in Bissau, Portuguese Guinea, killing over 50 people.",
+      "year": 1936,
+      "description": "Prime Minister of Greece Ioannis Metaxas suspends parliament and the Constitution and establishes the 4th of August Regime.",
+      "image_url": ""
+    },
+    "count": 13
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 1821,
+      "description": "The Saturday Evening Post is published for the first time as a weekly newspaper.",
+      "image_url": ""
+    },
+    "count": 48
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 1781,
+      "description": "Fourth Anglo-Dutch War, a fleet of six East India Company ships sets sail from Fort Marlborough to raid the Dutch VOC factories on the West coast of Sumatra including the major port of Padang.",
+      "image_url": ""
+    },
+    "count": 40
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 1781,
+      "description": "Fourth Anglo-Dutch War, a fleet of six East India Company ships sets sail from Fort Marlborough to raid the Dutch VOC factories on the West coast of Sumatra including the major port of Padang.",
       "image_url": ""
     },
     "count": 13
   },
   "sports-history": {
     "top_event": {
-      "year": 1936,
-      "description": "Jesse Owens wins the 100 metre dash, defeating Ralph Metcalfe, at the Berlin Olympics.",
+      "year": 2024,
+      "description": "Duane Thomas, American football player (born 1947)",
       "image_url": ""
     },
-    "count": 41
+    "count": 25
   },
-  "literature-writers": {
+  "women-in-history": {
     "top_event": {
-      "year": 881,
-      "description": "Battle of Saucourt-en-Vimeu: Louis III of France defeats the Vikings, an event celebrated in the poem Ludwigslied.",
+      "year": 1900,
+      "description": "Queen Elizabeth the Queen Mother, Queen Consort of King George VI of the United Kingdom, Empress Consort of India (died 2002)",
       "image_url": ""
     },
-    "count": 71
-  },
-  "music-history": {
-    "top_event": {
-      "year": 2015,
-      "description": "Margot Loyola, Chilean singer-songwriter and guitarist (born 1918)",
-      "image_url": ""
-    },
-    "count": 46
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 1935,
-      "description": "Georgy Shonin, Ukrainian-Russian general, pilot, and cosmonaut (died 1997)",
-      "image_url": ""
-    },
-    "count": 5
-  },
-  "strange-unexplained": {
-    "top_event": {
-      "year": 1924,
-      "description": "Connie Converse, American musician and singer-songwriter (disappeared 1974)",
-      "image_url": ""
-    },
-    "count": 1
-  },
-  "medicine-health": {
-    "top_event": {
-      "year": 1963,
-      "description": "Signe Salén, Swedish doctor (born 1871)",
-      "image_url": ""
-    },
-    "count": 1
+    "count": 2
   }
 }
