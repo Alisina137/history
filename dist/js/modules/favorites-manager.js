@@ -100,15 +100,15 @@ function updateFavoriteButtons() {
     const nicheId = button.dataset.niche;
     const isActive = favorites.includes(nicheId);
 
-    if (isActive) {
-      button.classList.add('niche-card__favorite--active');
-      button.innerHTML = '♥';
-      button.setAttribute('aria-label', 'Remove from favorites');
-    } else {
-      button.classList.remove('niche-card__favorite--active');
-      button.innerHTML = '♡';
-      button.setAttribute('aria-label', 'Add to favorites');
-    }
+   if (isActive) {
+     button.classList.add('niche-card__favorite--active');
+     button.innerHTML = '♥';
+     button.setAttribute('aria-label', 'Remove from favorites');
+   } else {
+     button.classList.remove('niche-card__favorite--active');
+     button.innerHTML = '♡';
+     button.setAttribute('aria-label', 'Add to favorites');
+   }
   });
 }
 

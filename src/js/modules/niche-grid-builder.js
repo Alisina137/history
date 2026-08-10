@@ -56,11 +56,12 @@ function buildNicheCardHtml(nicheId, nicheConfig, summary) {
         </div>
         <div class="niche-card__footer">
           <span class="niche-card__count">+${count} events</span>
-          <button class="niche-card__favorite ${heartClass}"
-                  data-niche="${escapeHtml(nicheId)}"
-                  aria-label="${favorited ? 'Remove from' : 'Add to'} favorites">
-            ${heartIcon}
-          </button>
+         <button class="niche-card__favorite ${heartClass}" 
+        data-niche="${escapeHtml(nicheId)}" 
+        aria-label="${favorited ? 'Remove from' : 'Add to'} favorites"
+        title="${favorited ? 'Remove from' : 'Add to'} favorites">
+  ${heartIcon}
+</button>
         </div>
       </div>
     </div>

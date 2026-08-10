@@ -4,7 +4,7 @@
  */
 
 import { loadEvents, loadNicheConfig } from './data-loader.js';
-import { getFavorites, isFavorited } from './favorites-manager.js';
+import { getFavorites } from './favorites-manager.js';
 
 /**
  * Escape HTML to prevent XSS.
@@ -36,11 +36,12 @@ function buildQuickJumpCardHtml(nicheId, nicheConfig, count) {
         </div>
         <div class="niche-card__footer">
           <span class="niche-card__count">+${count} events</span>
-          <button class="niche-card__favorite niche-card__favorite--active"
-                  data-niche="${escapeHtml(nicheId)}"
-                  aria-label="Remove from favorites">
-            ♥
-          </button>
+        <button class="niche-card__favorite niche-card__favorite--active"
+        data-niche="${escapeHtml(nicheId)}"
+        aria-label="Remove from favorites"
+        title="Remove from favorites">
+  ♥
+</button>
         </div>
       </div>
     </div>
@@ -87,7 +88,13 @@ export async function renderQuickJump(containerId = 'quick-jump-container') {
         if (event.target.closest('.niche-card__favorite')) return;
         const nicheId = card.dataset.niche;
         if (nicheId) {
-          window.location.href = `/niche.html?niche=${nicheId}`;
+          const isLocal =
+            window.location.hostname === '127.0.0.1' || window.location.hostname === 'localhost';
+          if (isLocal) {
+            window.location.href = `/niche.html?niche=${nicheId}`;
+          } else {
+            window.location.href = `/niche/${nicheId}.html`;
+          }
         }
       });
     });

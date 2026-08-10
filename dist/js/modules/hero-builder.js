@@ -58,12 +58,14 @@ function buildHeroHtml(event, nicheConfig) {
         <p class="event-card__description">${description}</p>
        <div class="event-card__footer" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
   <div>${badgesHtml}</div>
-  <button class="share-btn share-hero-btn" 
-          data-title="${escapeHtml(description).substring(0, 80)}" 
-          data-text="${escapeHtml(description).substring(0, 120)}">
-    <span class="share-btn__icon">↗</span>
-    Share
-  </button>
+ <button class="share-btn share-hero-btn" 
+        data-title="..." 
+        data-text="..."
+        aria-label="Share this event"
+        title="Share this event">
+  <span class="share-btn__icon">↗</span>
+  Share
+</button>
 </div>
       </div>
     </article>
@@ -90,12 +92,6 @@ export async function renderHero(containerId = 'hero-container') {
     const topEvent = events[0];
     const heroHtml = buildHeroHtml(topEvent, nicheConfig);
     // Preload hero image for faster LCP
-    if (topEvent && topEvent.image_url) {
-      const preloadLink = document.getElementById('hero-preload');
-      if (preloadLink) {
-        preloadLink.href = topEvent.image_url;
-      }
-    }
     container.innerHTML = heroHtml;
 
     // Attach share handler

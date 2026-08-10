@@ -36,11 +36,12 @@ function buildNicheHeaderHtml(nicheId, nicheInfo, eventCount) {
       <span style="font-size: 2rem;">${icon}</span>
       <h1 style="margin: 0; font-size: var(--text-3xl);">${escapeHtml(name)}</h1>
       <button class="niche-card__favorite ${favorited ? 'niche-card__favorite--active' : ''}"
-              data-niche="${escapeHtml(nicheId)}"
-              style="position: static; margin-left: auto;"
-              aria-label="${favorited ? 'Remove from' : 'Add to'} favorites">
-        ${favorited ? '♥' : '♡'}
-      </button>
+        data-niche="${escapeHtml(nicheId)}"
+        style="position: static; margin-left: auto;"
+        aria-label="${favorited ? 'Remove from' : 'Add to'} favorites"
+        title="${favorited ? 'Remove from' : 'Add to'} favorites">
+  ${favorited ? '♥' : '♡'}
+</button>
     </div>
     <p class="section__subtitle">${eventCount} event${eventCount !== 1 ? 's' : ''} today in ${escapeHtml(name)}.</p>
   `;

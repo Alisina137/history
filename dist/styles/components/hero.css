@@ -14,22 +14,30 @@
   );
 }
 
-/* Ensure hero body text is white and on top */
 .event-card--hero .event-card__body {
   position: relative;
   z-index: 2;
-  color: var(--color-neutral-0);
+  color: #ffffff !important;
 }
 
 .event-card--hero .event-card__year {
-  color: var(--color-neutral-0);
+  color: #ffffff !important;
+  font-size: var(--text-2xl);
+  font-weight: var(--font-bold);
   opacity: 0.9;
 }
 
 .event-card--hero .event-card__description {
-  color: var(--color-neutral-0);
+  color: #ffffff !important;
   font-size: var(--text-lg);
   max-width: 700px;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 1;
 }
 
 /* Hero image container needs position relative for overlay */

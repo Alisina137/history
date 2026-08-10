@@ -58,12 +58,14 @@ function buildHeroHtml(event, nicheConfig) {
         <p class="event-card__description">${description}</p>
        <div class="event-card__footer" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
   <div>${badgesHtml}</div>
-  <button class="share-btn share-hero-btn" 
-          data-title="${escapeHtml(description).substring(0, 80)}" 
-          data-text="${escapeHtml(description).substring(0, 120)}">
-    <span class="share-btn__icon">↗</span>
-    Share
-  </button>
+ <button class="share-btn share-hero-btn" 
+        data-title="..." 
+        data-text="..."
+        aria-label="Share this event"
+        title="Share this event">
+  <span class="share-btn__icon">↗</span>
+  Share
+</button>
 </div>
       </div>
     </article>

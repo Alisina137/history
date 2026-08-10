@@ -56,11 +56,12 @@ function buildNicheCardHtml(nicheId, nicheConfig, summary) {
         </div>
         <div class="niche-card__footer">
           <span class="niche-card__count">+${count} events</span>
-          <button class="niche-card__favorite ${heartClass}"
-                  data-niche="${escapeHtml(nicheId)}"
-                  aria-label="${favorited ? 'Remove from' : 'Add to'} favorites">
-            ${heartIcon}
-          </button>
+         <button class="niche-card__favorite ${heartClass}" 
+        data-niche="${escapeHtml(nicheId)}" 
+        aria-label="${favorited ? 'Remove from' : 'Add to'} favorites"
+        title="${favorited ? 'Remove from' : 'Add to'} favorites">
+  ${heartIcon}
+</button>
         </div>
       </div>
     </div>
@@ -155,7 +156,14 @@ function attachNicheCardHandlers() {
 
       const nicheId = card.dataset.niche;
       if (nicheId) {
-        window.location.href = `/niche/${nicheId}.html`;
+        // Use query string during development, static path in production
+        const isLocal =
+          window.location.hostname === '127.0.0.1' || window.location.hostname === 'localhost';
+        if (isLocal) {
+          window.location.href = `/niche.html?niche=${nicheId}`;
+        } else {
+          window.location.href = `/niche/${nicheId}.html`;
+        }
       }
     });
   });

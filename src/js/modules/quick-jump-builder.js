@@ -36,11 +36,12 @@ function buildQuickJumpCardHtml(nicheId, nicheConfig, count) {
         </div>
         <div class="niche-card__footer">
           <span class="niche-card__count">+${count} events</span>
-          <button class="niche-card__favorite niche-card__favorite--active"
-                  data-niche="${escapeHtml(nicheId)}"
-                  aria-label="Remove from favorites">
-            ♥
-          </button>
+        <button class="niche-card__favorite niche-card__favorite--active"
+        data-niche="${escapeHtml(nicheId)}"
+        aria-label="Remove from favorites"
+        title="Remove from favorites">
+  ♥
+</button>
         </div>
       </div>
     </div>
