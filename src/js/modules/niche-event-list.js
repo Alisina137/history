@@ -65,7 +65,7 @@ function buildEventCardHtml(event, nicheConfig) {
 
   // Image block with fallback
   const imageBlock = imageUrl
-    ? `<div class="event-card__image"><img src="${imageUrl}" alt="" loading="lazy" width="400" height="225"></div>`
+    ? `<div class="event-card__image"><img src="${imageUrl}" alt="image" loading="lazy" width="400" height="225"></div>`
     : `<div class="event-card__image" style="background: linear-gradient(135deg, var(--color-brand-100), var(--color-brand-200)); display: flex; align-items: center; justify-content: center; font-size: 2rem;">📅</div>`;
 
   // More/less button if needed

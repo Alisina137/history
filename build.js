@@ -340,7 +340,7 @@ function renderEventCard(event, isHero = false) {
   }
 
   const imageBlock = imageUrl
-    ? `<div class="event-card__image"><img src="${imageUrl}" alt="" loading="lazy" width="400" height="225"></div>`
+    ? `<div class="event-card__image"><img src="${imageUrl}" alt="image" loading="lazy" width="400" height="225"></div>`
     : '';
 
   return `

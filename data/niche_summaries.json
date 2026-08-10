@@ -1,144 +1,120 @@
 {
-  "art-architecture": {
+  "wars-battles": {
     "top_event": {
-      "year": 2021,
-      "description": "Australia's second most populous state Victoria enters its sixth COVID-19 lockdown, enacting stage four restrictions statewide in reaction to six new COVID-19 cases recorded that morning.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 16
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 2021,
-      "description": "Australia's second most populous state Victoria enters its sixth COVID-19 lockdown, enacting stage four restrictions statewide in reaction to six new COVID-19 cases recorded that morning.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 38
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 2019,
-      "description": "The revocation of the special status of Jammu and Kashmir (state) occurred and the state was bifurcated into two union territories (Jammu and Kashmir (union territory) and Ladakh).",
+      "year": 2023,
+      "description": "Former US President Donald Trump is indicted for his role in the January 6 United States Capitol attack, his third indictment in 2023.",
       "image_url": ""
     },
     "count": 17
   },
-  "music-history": {
+  "politics-revolutions": {
     "top_event": {
-      "year": 2024,
-      "description": "Following the non-cooperation movement against the government of Bangladesh, Bangladeshi prime minister Sheikh Hasina resigns and flees the country, ending her rule of 15 consecutive years and a total of almost two decades. The date is also known as 36 July.",
-      "image_url": ""
-    },
-    "count": 52
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 2015,
-      "description": "The Environmental Protection Agency at Gold King Mine waste water spill releases three million gallons of heavy metal toxin tailings and waste water into the Animas River in Colorado.",
-      "image_url": ""
-    },
-    "count": 24
-  },
-  "general-history": {
-    "top_event": {
-      "year": 2012,
-      "description": "The Wisconsin Sikh temple shooting took place in Oak Creek, Wisconsin, killing six victims; the perpetrator committed suicide after being wounded by police.",
-      "image_url": ""
-    },
-    "count": 102
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 2010,
-      "description": "Ten members of International Assistance Mission Nuristan Eye Camp team are killed by persons unknown in Kuran wa Munjan District of Badakhshan Province, Afghanistan.",
-      "image_url": ""
-    },
-    "count": 9
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 2003,
-      "description": "A car bomb explodes in the Indonesian capital of Jakarta outside the Marriott Hotel killing 12 and injuring 150.",
-      "image_url": ""
-    },
-    "count": 35
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 1995,
-      "description": "Yugoslav Wars: The city of Knin, Croatia, a significant Serb stronghold, is taken by Croatian forces during Operation Storm. The date is celebrated in Croatia as Victory Day.",
-      "image_url": ""
-    },
-    "count": 3
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 1973,
-      "description": "Mars 6 is launched from the USSR.",
+      "year": 2023,
+      "description": "Former US President Donald Trump is indicted for his role in the January 6 United States Capitol attack, his third indictment in 2023.",
       "image_url": ""
     },
     "count": 7
   },
-  "inventions-technology": {
+  "music-history": {
     "top_event": {
-      "year": 1973,
-      "description": "Mars 6 is launched from the USSR.",
+      "year": 2008,
+      "description": "The Beijing–Tianjin Intercity Railway begins operation as the fastest commuter rail system in the world.",
       "image_url": ""
     },
-    "count": 19
+    "count": 3
   },
-  "firsts-in-history": {
+  "art-architecture": {
     "top_event": {
-      "year": 1971,
-      "description": "The first Pacific Islands Forum (then known as the \"South Pacific Forum\") is held in Wellington, New Zealand, with the aim of enhancing cooperation between the independent countries of the Pacific Ocean.",
+      "year": 2008,
+      "description": "Eleven mountaineers from international expeditions die on K2, the second-highest mountain on Earth, in the worst single accident in the history of K2 mountaineering.",
       "image_url": ""
     },
-    "count": 12
+    "count": 6
   },
-  "cinema-film": {
+  "general-history": {
     "top_event": {
-      "year": 1962,
-      "description": "American actress Marilyn Monroe is found dead at her home from a drug overdose.",
+      "year": 2007,
+      "description": "The I-35W Mississippi River bridge spanning the Mississippi River in Minneapolis, Minnesota, collapses during the evening rush hour, killing 13 people and injuring 145.",
       "image_url": ""
     },
-    "count": 37
+    "count": 17
   },
-  "women-in-history": {
+  "business-economics": {
     "top_event": {
-      "year": 1939,
-      "description": "The Thirteen Roses: Thirteen female members of the Unified Socialist Youth are executed by Francoist forces in Madrid, Spain.",
+      "year": 2004,
+      "description": "A supermarket fire kills 424 people and injures 360 others in Asunción, Paraguay.",
+      "image_url": ""
+    },
+    "count": 2
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 1993,
+      "description": "The Great Mississippi and Missouri Rivers Flood of 1993 comes to a peak.",
       "image_url": ""
     },
     "count": 1
   },
-  "business-economics": {
+  "true-crime": {
     "top_event": {
-      "year": 1882,
-      "description": "Standard Oil Company of New Jersey, today known as ExxonMobil, is established officially. The company would later grow to become the holder of all Standard Oil companies and the entity at the center of the breakup of Standard Oil.",
+      "year": 1988,
+      "description": "A British soldier is killed in the Inglis Barracks bombing in London, England.",
+      "image_url": ""
+    },
+    "count": 6
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1981,
+      "description": "MTV begins broadcasting in the United States and airs its first video, \"Video Killed the Radio Star\" by The Buggles.",
+      "image_url": ""
+    },
+    "count": 13
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1981,
+      "description": "MTV begins broadcasting in the United States and airs its first video, \"Video Killed the Radio Star\" by The Buggles.",
       "image_url": ""
     },
     "count": 9
   },
-  "archaeology-discoveries": {
+  "women-in-history": {
     "top_event": {
-      "year": 1772,
-      "description": "First Partition of Poland: The representatives of Austria, Prussia, and Russia sign three bilateral conventions condemning the \"anarchy\" of the Polish–Lithuanian Commonwealth and imputing to the three powers \"ancient and legitimate rights\" to the territories of the Commonwealth. The conventions allow each of the three great powers to annex a part of the Commonwealth, which they proceed to do over the course of the following two months.",
+      "year": 1980,
+      "description": "Vigdís Finnbogadóttir is elected President of Iceland and becomes the world's first democratically elected female head of state.",
+      "image_url": ""
+    },
+    "count": 2
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 1974,
+      "description": "Cyprus dispute: The United Nations Security Council authorizes the UNFICYP to create the \"Green Line\", dividing Cyprus into two zones.",
+      "image_url": ""
+    },
+    "count": 2
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1957,
+      "description": "The United States and Canada form the North American Aerospace Defense Command (NORAD).",
       "image_url": ""
     },
     "count": 1
   },
-  "literature-writers": {
+  "empires-dynasties": {
     "top_event": {
-      "year": 1735,
-      "description": "Freedom of the press: New York Weekly Journal writer John Peter Zenger is acquitted of seditious libel against the royal governor of New York, on the basis that what he had published was true.",
+      "year": 1943,
+      "description": "World War II: Operation Tidal Wave, also known as \"Black Sunday\", is a failed American attempt to destroy Romanian oil fields.",
       "image_url": ""
     },
-    "count": 31
+    "count": 14
   },
-  "strange-unexplained": {
+  "sports-history": {
     "top_event": {
-      "year": 1600,
-      "description": "The Gowrie Conspiracy against King James VI of Scotland (later to become King James I of England) takes place at Gowrie House (Perth, Scotland).",
+      "year": 1936,
+      "description": "The Olympics open in Berlin with a ceremony presided over by Adolf Hitler.",
       "image_url": ""
     },
     "count": 1
