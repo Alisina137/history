@@ -100,7 +100,7 @@ function buildRelatedNicheCardHtml(nicheId, nicheConfig, summary) {
           <span class="niche-card__count">+${count} events</span>
           <button class="niche-card__favorite ${favorited ? 'niche-card__favorite--active' : ''}"
                   data-niche="${escapeHtml(nicheId)}"
-                  aria-label="${favorited ? 'Remove from' : 'Add to'} favorites">
+                  aria-label="${favorited ? 'Remove from' : 'Add to'} favorites" onclick="event.stopPropagation()">>
             ${favorited ? '♥' : '♡'}
           </button>
         </div>

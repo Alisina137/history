@@ -39,7 +39,8 @@ function buildQuickJumpCardHtml(nicheId, nicheConfig, count) {
         <button class="niche-card__favorite niche-card__favorite--active"
         data-niche="${escapeHtml(nicheId)}"
         aria-label="Remove from favorites"
-        title="Remove from favorites">
+        title="Remove from favorites"
+        onclick="event.stopPropagation()">
   ♥
 </button>
         </div>
