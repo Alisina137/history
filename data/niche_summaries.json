@@ -1,130 +1,130 @@
 {
-  "art-architecture": {
+  "general-history": {
     "top_event": {
       "year": 2020,
-      "description": "Israel–United Arab Emirates relations are formally established.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Israel_United_Arab_Emirates_Locator.png/330px-Israel_United_Arab_Emirates_Locator.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "description": "The August Complex fire in California burns more than one million acres of land.",
+      "image_url": ""
     },
-    "count": 39
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 2014,
-      "description": "A Cessna Citation Excel crashes in Santos, São Paulo, Brazil killing all seven people aboard, including Brazilian Socialist Party presidential candidate Eduardo Campos.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cessna_560XL_Citation_XLS.jpg/330px-Cessna_560XL_Citation_XLS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 14
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 2014,
-      "description": "A Cessna Citation Excel crashes in Santos, São Paulo, Brazil killing all seven people aboard, including Brazilian Socialist Party presidential candidate Eduardo Campos.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cessna_560XL_Citation_XLS.jpg/330px-Cessna_560XL_Citation_XLS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 29
+    "count": 18
   },
   "wars-battles": {
     "top_event": {
-      "year": 2008,
-      "description": "Russo-Georgian War: Russian units occupy the Georgian city of Gori.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ruins_of_a_burnt_apartment_building_in_Gori.jpg/330px-Ruins_of_a_burnt_apartment_building_in_Gori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2015,
+      "description": "More than 96 people are killed and hundreds injured following a series of air-raids by the Syrian Arab Air Force on the rebel-held market town of Douma.",
+      "image_url": ""
     },
-    "count": 26
+    "count": 24
   },
   "true-crime": {
     "top_event": {
       "year": 2015,
-      "description": "At least 76 people are killed and 212 others are wounded in a truck bombing in Baghdad, Iraq.",
+      "description": "More than 96 people are killed and hundreds injured following a series of air-raids by the Syrian Arab Air Force on the rebel-held market town of Douma.",
       "image_url": ""
     },
-    "count": 6
+    "count": 5
   },
-  "space-exploration": {
+  "business-economics": {
     "top_event": {
-      "year": 1969,
-      "description": "The Apollo 11 astronauts enjoy a ticker-tape parade in New York City. That evening, at a state dinner in Los Angeles, they are awarded the Presidential Medal of Freedom by U.S. President Richard Nixon.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/330px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2015,
+      "description": "More than 96 people are killed and hundreds injured following a series of air-raids by the Syrian Arab Air Force on the rebel-held market town of Douma.",
+      "image_url": ""
     },
-    "count": 3
+    "count": 4
   },
   "inventions-technology": {
     "top_event": {
-      "year": 1969,
-      "description": "The Apollo 11 astronauts enjoy a ticker-tape parade in New York City. That evening, at a state dinner in Los Angeles, they are awarded the Presidential Medal of Freedom by U.S. President Richard Nixon.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/330px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1989,
+      "description": "A solar particle event affects computers at the Toronto Stock Exchange, forcing a halt to trading.",
+      "image_url": ""
     },
-    "count": 17
+    "count": 9
   },
-  "literature-writers": {
+  "art-architecture": {
     "top_event": {
-      "year": 1968,
-      "description": "Alexandros Panagoulis attempts to assassinate the Greek dictator Colonel Georgios Papadopoulos in Varkiza, Athens.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Panagulis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "year": 1989,
+      "description": "A solar particle event affects computers at the Toronto Stock Exchange, forcing a halt to trading.",
+      "image_url": ""
     },
-    "count": 39
+    "count": 8
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 1975,
+      "description": "Australian Prime Minister Gough Whitlam symbolically hands over land to the Gurindji people after the eight-year Wave Hill walk-off, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 song by Paul Kelly and an annual celebration.",
+      "image_url": ""
+    },
+    "count": 14
   },
   "music-history": {
     "top_event": {
-      "year": 1940,
-      "description": "World War II: The German Luftwaffe launches an air operation, codenamed Adlertag, during the Battle of Britain in an attempt to destroy the British Royal Air Force.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1975,
+      "description": "Australian Prime Minister Gough Whitlam symbolically hands over land to the Gurindji people after the eight-year Wave Hill walk-off, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 song by Paul Kelly and an annual celebration.",
+      "image_url": ""
     },
-    "count": 37
+    "count": 2
   },
   "empires-dynasties": {
     "top_event": {
-      "year": 1964,
-      "description": "Peter Allen and Gwynne Evans are hanged for the murder of John Alan West becoming the last people executed in the United Kingdom.",
+      "year": 1966,
+      "description": "Vietnam War: The House Un-American Activities Committee begins investigations of Americans who have aided the Viet Cong. The committee intends to introduce legislation making these activities illegal. Anti-war demonstrators disrupt the meeting and 50 people are arrested.",
       "image_url": ""
     },
-    "count": 23
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 1918,
-      "description": "Women enlist in the United States Marine Corps for the first time. Opha May Johnson is the first woman to enlist.",
-      "image_url": ""
-    },
-    "count": 3
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 1918,
-      "description": "Women enlist in the United States Marine Corps for the first time. Opha May Johnson is the first woman to enlist.",
-      "image_url": ""
-    },
-    "count": 6
+    "count": 15
   },
   "sports-history": {
     "top_event": {
-      "year": 1906,
-      "description": "The all black infantrymen of the U.S. Army's 25th Infantry Regiment are accused of killing a white bartender and wounding a white police officer in Brownsville, Texas, despite exculpatory evidence; all are later dishonorably discharged. (Their records were later restored to reflect honorable discharges but there were no financial settlements.)",
+      "year": 1960,
+      "description": "Joseph Kittinger parachutes from a balloon over New Mexico, United States, at 102,800 feet (31,300 m), setting three records that held until 2012: High-altitude jump, free fall, and highest speed by a human without an aircraft.",
       "image_url": ""
     },
-    "count": 34
+    "count": 2
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 1954,
+      "description": "The first issue of Sports Illustrated is published.",
+      "image_url": ""
+    },
+    "count": 2
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1944,
+      "description": "First flight of a jet with forward-swept wings, the Junkers Ju 287.",
+      "image_url": ""
+    },
+    "count": 5
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1913,
+      "description": "Tōhoku Imperial University of Japan (modern day Tohoku University) becomes the first university in Japan to admit female students.",
+      "image_url": ""
+    },
+    "count": 2
   },
   "natural-disasters": {
     "top_event": {
-      "year": 1868,
-      "description": "The 8.5–9.0 Mw Arica earthquake struck southern Peru with a maximum Mercalli intensity of XI (Extreme), causing 25,000+ deaths and a destructive basin wide tsunami that affected Hawaii and New Zealand.",
+      "year": 1906,
+      "description": "The 8.2 Mw Valparaíso earthquake hits central Chile, killing 3,882 people.",
       "image_url": ""
     },
     "count": 1
   },
-  "general-history": {
-    "top_event": {
-      "year": 1645,
-      "description": "Sweden and Denmark sign Peace of Brömsebro.",
-      "image_url": ""
-    },
-    "count": 153
-  },
   "cinema-film": {
     "top_event": {
-      "year": 2016,
-      "description": "Kenny Baker, English actor and musician (born 1934)",
+      "year": 1876,
+      "description": "Richard Wagner's Siegfried, the penultimate opera in his Ring cycle, is premiered at the Bayreuth Festspielhaus.",
       "image_url": ""
     },
-    "count": 32
+    "count": 1
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1870,
+      "description": "Franco-Prussian War: The Battle of Mars-la-Tour is fought, resulting in a Prussian victory.",
+      "image_url": ""
+    },
+    "count": 2
   }
 }

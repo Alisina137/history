@@ -3,26 +3,20 @@ Daily Pipeline Orchestrator
 Runs the full pipeline: fetch → enrich → tag → score → image → output.
 """
 
-from output import save_events_json, save_niche_summaries
 import sys
 import time
 from datetime import datetime, timezone
 
-from fetch_events import get_events_for_date
+from fetch_events import get_events_for_date, enrich_event
 from tag_events import tag_all_events
 from score_events import score_all_events
 from generate_image import generate_hero_for_top_event
+from output import save_events_json, save_niche_summaries
 
 
 def run_pipeline(month=None, day=None, year=None, enrich_limit=None):
     """
     Run the complete daily pipeline.
-
-    Args:
-        month: Month to fetch events for (default: today).
-        day: Day to fetch events for (default: today).
-        year: Not used yet (for future date-specific runs).
-        enrich_limit: Max events to enrich with metadata (default: all).
     """
     print("=" * 60)
     print("  TODAY IN HISTORY — DAILY PIPELINE")
@@ -41,10 +35,8 @@ def run_pipeline(month=None, day=None, year=None, enrich_limit=None):
     for i, event in enumerate(events_to_enrich):
         if (i + 1) % 50 == 0:
             print(f"  Processed {i + 1}/{len(events_to_enrich)} events...")
-        from fetch_events import enrich_event
-
         enrich_event(event)
-        time.sleep(0.05)  # Be polite to Wikipedia
+        time.sleep(0.05)
     print(f"  Enriched {len(events_to_enrich)} events.")
 
     # ---- Stage 3: Tag ----
@@ -55,7 +47,10 @@ def run_pipeline(month=None, day=None, year=None, enrich_limit=None):
     # ---- Stage 4: Score ----
     print("\n[Stage 4/5] Scoring events by significance...")
     events = score_all_events(events)
-    print(f"  Top event: {events[0]['year']} — {events[0]['description'][:80]}...")
+    if events:
+        print(f"  Top event: {events[0]['year']} — {events[0]['description'][:80]}...")
+    else:
+        print("  No events found for this date.")
 
     # ---- Stage 5: Image ----
     print("\n[Stage 5/5] Generating AI hero image...")
@@ -78,7 +73,6 @@ def run_pipeline(month=None, day=None, year=None, enrich_limit=None):
 
 
 if __name__ == "__main__":
-    # Parse optional date arguments: python pipeline/main.py [month] [day]
     month = None
     day = None
 
@@ -90,11 +84,8 @@ if __name__ == "__main__":
         now = datetime.now(timezone.utc)
         print(f"Running pipeline for today: {now.month}/{now.day}")
 
-    # Run pipeline with enrichment limited to 100 events for speed
-    # Remove enrich_limit to process all events
     events = run_pipeline(month=month, day=day, enrich_limit=20)
 
-    # Print niche distribution
     print("\n--- Niche Distribution ---")
     niche_counts = {}
     for event in events:
