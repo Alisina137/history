@@ -2,7 +2,6 @@
  * Static Site Builder
  * Reads data/events.json and generates static HTML pages with OG tags.
  */
-import { createHash } from 'crypto';
 import { readFileSync, writeFileSync, mkdirSync, copyFileSync, existsSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -18,33 +17,6 @@ const DATA_DIR = join(__dirname, 'data');
 const SRC_DIR = join(__dirname, 'src');
 const DIST_DIR = join(__dirname, 'dist');
 const BUILD_TIME = Date.now().toString(36); // e.g., "lq5h2a8x"
-
-/**
- * Generate a content hash for cache busting.
- */
-function getContentHash(filePath) {
-  if (!existsSync(filePath)) return '';
-  const content = readFileSync(filePath);
-  return createHash('md5').update(content).digest('hex').substring(0, 8);
-}
-
-/**
- * Copy a file with a content hash appended to the filename.
- * Returns the new filename (e.g., "main.a1b2c3d.css").
- */
-function copyWithHash(srcPath, destDir, baseName) {
-  const hash = getContentHash(srcPath);
-  if (!hash) return baseName;
-
-  const ext = baseName.split('.').pop();
-  const nameWithoutExt = baseName.replace(`.${ext}`, '');
-  const hashedName = `${nameWithoutExt}.${hash}.${ext}`;
-
-  const destPath = join(destDir, hashedName);
-  copyFileSync(srcPath, destPath);
-
-  return hashedName;
-}
 
 /**
  * Generate JSON-LD structured data script tag.
