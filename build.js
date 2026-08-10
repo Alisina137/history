@@ -85,15 +85,16 @@ function renderEventCard(event, isHero = false) {
   const year = escapeHtml(String(event.year));
   const description = escapeHtml(event.description);
   const imageUrl = event.image_url || '';
-  const niches = (event.niches || []).slice(0, 3);
-  const nicheTags = niches
-    .map((n) => `<span class="badge badge-brand badge-sm">${escapeHtml(n)}</span>`)
-    .join(' ');
+  const niches = (event.niches || []).slice(0, 2);
 
   if (isHero) {
     const bgStyle = imageUrl
       ? `style="background-image: url('${imageUrl}'); background-size: cover; background-position: center;"`
       : 'style="background: linear-gradient(135deg, #1e3a8a, #3b82f6);"';
+
+    const nicheTags = niches
+      .map((n) => `<span class="badge badge-brand">${escapeHtml(n)}</span>`)
+      .join(' ');
 
     return `
     <article class="event-card event-card--hero">
@@ -108,18 +109,37 @@ function renderEventCard(event, isHero = false) {
     </article>`;
   }
 
+  // Extract a short title from the description
+  const titleBreakPoints = [',', ';', ' – ', ' - ', '. ', ': '];
+  let title = description;
+  for (const point of titleBreakPoints) {
+    const index = description.indexOf(point);
+    if (index > 10 && index < 80) {
+      title = description.substring(0, index);
+      break;
+    }
+  }
+  if (title === description && title.length > 60) {
+    title = title.substring(0, 60) + '...';
+  }
+
+  const nicheTags = niches
+    .map((n) => `<span class="badge badge-brand badge-sm">${escapeHtml(n)}</span>`)
+    .join(' ');
+
   const imageBlock = imageUrl
     ? `<div class="event-card__image"><img src="${imageUrl}" alt="image" loading="lazy" width="400" height="225"></div>`
-    : '';
+    : `<div class="event-card__image" style="background: linear-gradient(135deg, var(--color-brand-100), var(--color-brand-200)); display: flex; align-items: center; justify-content: center; font-size: 2rem;">📅</div>`;
 
   return `
-    <article class="event-card">
-      <span class="event-card__year">${year}</span>
-      <div class="event-card__content">
+    <article class="event-card event-card--grid">
+      ${imageBlock}
+      <div class="event-card__body">
+        <span class="event-card__year">${year}</span>
+        <h3 class="event-card__title">${escapeHtml(title)}</h3>
         <p class="event-card__description">${description}</p>
         <div class="event-card__footer">${nicheTags}</div>
       </div>
-      ${imageBlock}
     </article>`;
 }
 
@@ -243,9 +263,9 @@ function buildHomepage(events, nicheSummaries, config) {
     </section>
     <section class="section">
       <h2 class="section__title">More Events Today</h2>
-      <div class="timeline">
-        ${timelineEvents}
-      </div>
+     <div class="event-cards-grid">
+  ${timelineEvents}
+</div>
     </section>
     <section class="section">
       <h2 class="section__title">Explore by Your Passion</h2>
@@ -320,13 +340,13 @@ function buildNichePage(nicheId, nicheEvents, config) {
       ${heroEvent}
     </section>
     <section class="section">
-      <div class="timeline">
-        ${eventList}
-      </div>
+      <div class="event-cards-grid">
+  ${eventList}
+</div>
     </section>
   </main>
   ${renderFooter()}
-  <script type="module" src="/js/niche-page.js?v=${BUILD_TIME}"></>
+  <script type="module" src="/js/niche-page.js?v=${BUILD_TIME}"></script>
 </body>
 </html>`;
 

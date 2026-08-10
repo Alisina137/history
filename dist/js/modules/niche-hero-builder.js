@@ -122,7 +122,6 @@ export async function renderNicheHero(nicheId) {
     document.title = `${nicheName} — Today in History`;
 
     // Update breadcrumb
-    // Update breadcrumb
     const breadcrumb = document.getElementById('breadcrumb-niche');
     if (breadcrumb) {
       const icon = nicheInfo ? nicheInfo.icon : '📅';
