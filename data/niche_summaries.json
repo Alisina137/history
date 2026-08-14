@@ -1,130 +1,130 @@
 {
-  "art-architecture": {
-    "top_event": {
-      "year": 2020,
-      "description": "Israel–United Arab Emirates relations are formally established.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Israel_United_Arab_Emirates_Locator.png/330px-Israel_United_Arab_Emirates_Locator.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 41
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 2014,
-      "description": "A Cessna Citation Excel crashes in Santos, São Paulo, Brazil killing all seven people aboard, including Brazilian Socialist Party presidential candidate Eduardo Campos.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cessna_560XL_Citation_XLS.jpg/330px-Cessna_560XL_Citation_XLS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 14
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 2014,
-      "description": "A Cessna Citation Excel crashes in Santos, São Paulo, Brazil killing all seven people aboard, including Brazilian Socialist Party presidential candidate Eduardo Campos.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cessna_560XL_Citation_XLS.jpg/330px-Cessna_560XL_Citation_XLS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 29
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 2008,
-      "description": "Russo-Georgian War: Russian units occupy the Georgian city of Gori.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ruins_of_a_burnt_apartment_building_in_Gori.jpg/330px-Ruins_of_a_burnt_apartment_building_in_Gori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 26
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 2015,
-      "description": "At least 76 people are killed and 212 others are wounded in a truck bombing in Baghdad, Iraq.",
-      "image_url": ""
-    },
-    "count": 6
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 1969,
-      "description": "The Apollo 11 astronauts enjoy a ticker-tape parade in New York City. That evening, at a state dinner in Los Angeles, they are awarded the Presidential Medal of Freedom by U.S. President Richard Nixon.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/330px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 3
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 1969,
-      "description": "The Apollo 11 astronauts enjoy a ticker-tape parade in New York City. That evening, at a state dinner in Los Angeles, they are awarded the Presidential Medal of Freedom by U.S. President Richard Nixon.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/330px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 17
-  },
   "literature-writers": {
     "top_event": {
-      "year": 1968,
-      "description": "Alexandros Panagoulis attempts to assassinate the Greek dictator Colonel Georgios Papadopoulos in Varkiza, Athens.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Panagulis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "year": 2023,
+      "description": "Former U.S. president Donald Trump is charged in Georgia along with 18 others in attempting to overturn the results of the 2020 election in that state, his fourth indictment of 2023.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 39
   },
-  "music-history": {
+  "business-economics": {
     "top_event": {
-      "year": 1940,
-      "description": "World War II: The German Luftwaffe launches an air operation, codenamed Adlertag, during the Battle of Britain in an attempt to destroy the British Royal Air Force.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2023,
+      "description": "Former U.S. president Donald Trump is charged in Georgia along with 18 others in attempting to overturn the results of the 2020 election in that state, his fourth indictment of 2023.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 37
+    "count": 14
   },
-  "empires-dynasties": {
+  "true-crime": {
     "top_event": {
-      "year": 1964,
-      "description": "Peter Allen and Gwynne Evans are hanged for the murder of John Alan West becoming the last people executed in the United Kingdom.",
-      "image_url": ""
-    },
-    "count": 23
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 1918,
-      "description": "Women enlist in the United States Marine Corps for the first time. Opha May Johnson is the first woman to enlist.",
-      "image_url": ""
-    },
-    "count": 3
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 1918,
-      "description": "Women enlist in the United States Marine Corps for the first time. Opha May Johnson is the first woman to enlist.",
-      "image_url": ""
+      "year": 2023,
+      "description": "Former U.S. president Donald Trump is charged in Georgia along with 18 others in attempting to overturn the results of the 2020 election in that state, his fourth indictment of 2023.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 6
   },
-  "sports-history": {
+  "art-architecture": {
     "top_event": {
-      "year": 1906,
-      "description": "The all black infantrymen of the U.S. Army's 25th Infantry Regiment are accused of killing a white bartender and wounding a white police officer in Brownsville, Texas, despite exculpatory evidence; all are later dishonorably discharged. (Their records were later restored to reflect honorable discharges but there were no financial settlements.)",
-      "image_url": ""
+      "year": 2022,
+      "description": "An explosion destroys a market in Armenia, killing six people and injuring dozens.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rescue_work_after_the_explosion_of_Surmalu_shopping_center_in_Yerevan.png/330px-Rescue_work_after_the_explosion_of_Surmalu_shopping_center_in_Yerevan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 34
+    "count": 35
   },
   "natural-disasters": {
     "top_event": {
-      "year": 1868,
-      "description": "The 8.5–9.0 Mw Arica earthquake strikes southern Peru with a maximum Mercalli intensity of XI (Extreme), causing 25,000+ deaths and a destructive basin-wide tsunami that affected Hawaii and New Zealand.",
-      "image_url": ""
+      "year": 2021,
+      "description": "A magnitude 7.2 earthquake strikes southwestern Haiti, killing at least 2,248 people and causing a humanitarian crisis.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haiti_Earthquake_10.jpg/330px-Haiti_Earthquake_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 1
+    "count": 2
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 2013,
+      "description": "Egypt declares a state of emergency as security forces kill hundreds of demonstrators supporting former president Mohamed Morsi.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/330px-Flag_of_Egypt.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 19
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 2013,
+      "description": "Egypt declares a state of emergency as security forces kill hundreds of demonstrators supporting former president Mohamed Morsi.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/330px-Flag_of_Egypt.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 19
+  },
+  "wars-battles": {
+    "top_event": {
+      "year": 2006,
+      "description": "Lebanon War: A ceasefire takes effect three days after the United Nations Security Council's approval of United Nations Security Council Resolution 1701, formally ending hostilities between Lebanon and Israel.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Tyre_air_strike.jpg/330px-Tyre_air_strike.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 22
+  },
+  "music-history": {
+    "top_event": {
+      "year": 2006,
+      "description": "Lebanon War: A ceasefire takes effect three days after the United Nations Security Council's approval of United Nations Security Council Resolution 1701, formally ending hostilities between Lebanon and Israel.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Tyre_air_strike.jpg/330px-Tyre_air_strike.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 27
   },
   "general-history": {
     "top_event": {
-      "year": 1645,
-      "description": "Sweden and Denmark sign the Peace of Brömsebro.",
+      "year": 2003,
+      "description": "A widescale power blackout affects the northeast United States and Canada.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Map_of_North_America%2C_blackout_2003.svg/330px-Map_of_North_America%2C_blackout_2003.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 115
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1967,
+      "description": "UK Marine Broadcasting Offences Act 1967 declares participation in offshore pirate radio illegal.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Royal_coat_of_arms_of_the_United_Kingdom_%281952%E2%80%932022%2C_variant_1%29.svg/330px-Royal_coat_of_arms_of_the_United_Kingdom_%281952%E2%80%932022%2C_variant_1%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 15
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1959,
+      "description": "Founding and first official meeting of the American Football League.",
       "image_url": ""
     },
-    "count": 153
+    "count": 25
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1959,
+      "description": "Founding and first official meeting of the American Football League.",
+      "image_url": ""
+    },
+    "count": 9
   },
   "cinema-film": {
     "top_event": {
-      "year": 2016,
-      "description": "Kenny Baker, English actor and musician (born 1934)",
+      "year": 2024,
+      "description": "Gena Rowlands, American actress (born 1930)",
       "image_url": ""
     },
-    "count": 32
+    "count": 35
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 2004,
+      "description": "Marsai Martin, American actress and producer",
+      "image_url": ""
+    },
+    "count": 2
+  },
+  "strange-unexplained": {
+    "top_event": {
+      "year": 1923,
+      "description": "Alice Ghostley, American actress (died 2007)",
+      "image_url": ""
+    },
+    "count": 1
   }
 }
