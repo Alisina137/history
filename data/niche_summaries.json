@@ -1,130 +1,146 @@
 {
   "literature-writers": {
     "top_event": {
-      "year": 2023,
-      "description": "Former U.S. president Donald Trump is charged in Georgia along with 18 others in attempting to overturn the results of the 2020 election in that state, his fourth indictment of 2023.",
+      "year": 2025,
+      "description": "US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine.",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 39
+    "count": 56
   },
   "business-economics": {
     "top_event": {
-      "year": 2023,
-      "description": "Former U.S. president Donald Trump is charged in Georgia along with 18 others in attempting to overturn the results of the 2020 election in that state, his fourth indictment of 2023.",
+      "year": 2025,
+      "description": "US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine.",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 14
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 2023,
-      "description": "Former U.S. president Donald Trump is charged in Georgia along with 18 others in attempting to overturn the results of the 2020 election in that state, his fourth indictment of 2023.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 6
-  },
-  "art-architecture": {
-    "top_event": {
-      "year": 2022,
-      "description": "An explosion destroys a market in Armenia, killing six people and injuring dozens.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rescue_work_after_the_explosion_of_Surmalu_shopping_center_in_Yerevan.png/330px-Rescue_work_after_the_explosion_of_Surmalu_shopping_center_in_Yerevan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 35
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 2021,
-      "description": "A magnitude 7.2 earthquake strikes southwestern Haiti, killing at least 2,248 people and causing a humanitarian crisis.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haiti_Earthquake_10.jpg/330px-Haiti_Earthquake_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 2
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 2013,
-      "description": "Egypt declares a state of emergency as security forces kill hundreds of demonstrators supporting former president Mohamed Morsi.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/330px-Flag_of_Egypt.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 19
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 2013,
-      "description": "Egypt declares a state of emergency as security forces kill hundreds of demonstrators supporting former president Mohamed Morsi.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/330px-Flag_of_Egypt.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 19
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 2006,
-      "description": "Lebanon War: A ceasefire takes effect three days after the United Nations Security Council's approval of United Nations Security Council Resolution 1701, formally ending hostilities between Lebanon and Israel.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Tyre_air_strike.jpg/330px-Tyre_air_strike.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 22
-  },
-  "music-history": {
-    "top_event": {
-      "year": 2006,
-      "description": "Lebanon War: A ceasefire takes effect three days after the United Nations Security Council's approval of United Nations Security Council Resolution 1701, formally ending hostilities between Lebanon and Israel.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Tyre_air_strike.jpg/330px-Tyre_air_strike.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 27
-  },
-  "general-history": {
-    "top_event": {
-      "year": 2003,
-      "description": "A widescale power blackout affects the northeast United States and Canada.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Map_of_North_America%2C_blackout_2003.svg/330px-Map_of_North_America%2C_blackout_2003.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 115
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 1967,
-      "description": "UK Marine Broadcasting Offences Act 1967 declares participation in offshore pirate radio illegal.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Royal_coat_of_arms_of_the_United_Kingdom_%281952%E2%80%932022%2C_variant_1%29.svg/330px-Royal_coat_of_arms_of_the_United_Kingdom_%281952%E2%80%932022%2C_variant_1%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 15
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 1959,
-      "description": "Founding and first official meeting of the American Football League.",
-      "image_url": ""
     },
     "count": 25
   },
+  "true-crime": {
+    "top_event": {
+      "year": 2025,
+      "description": "US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 12
+  },
+  "art-architecture": {
+    "top_event": {
+      "year": 2021,
+      "description": "Kabul falls into the hands of the Taliban as Ashraf Ghani flees Afghanistan along with local residents and foreign nationals, effectively reestablishing the Islamic Emirate of Afghanistan.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kabul%2C_Afghanistan_view.jpg/330px-Kabul%2C_Afghanistan_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 44
+  },
+  "medicine-health": {
+    "top_event": {
+      "year": 2020,
+      "description": "Russia begins production on the Sputnik V COVID-19 vaccine.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/%D0%92%D0%B0%D0%BA%D1%86%D0%B8%D0%BD%D0%B0_%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_V_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "count": 3
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 2013,
+      "description": "The Smithsonian announces the discovery of the olinguito, the first new carnivorous species found in the Americas in 35 years.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Smithsonian_Building_Sunlight.jpg/330px-Smithsonian_Building_Sunlight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 21
+  },
   "firsts-in-history": {
     "top_event": {
-      "year": 1959,
-      "description": "Founding and first official meeting of the American Football League.",
-      "image_url": ""
+      "year": 2013,
+      "description": "The Smithsonian announces the discovery of the olinguito, the first new carnivorous species found in the Americas in 35 years.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Smithsonian_Building_Sunlight.jpg/330px-Smithsonian_Building_Sunlight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 9
+    "count": 11
   },
-  "cinema-film": {
+  "natural-disasters": {
     "top_event": {
-      "year": 2024,
-      "description": "Gena Rowlands, American actress (born 1930)",
-      "image_url": ""
+      "year": 2007,
+      "description": "An 8.0-magnitude earthquake off the Pacific coast devastates Ica and various regions of Peru, killing 514 and injuring 1,090.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/40_-_Tremblement_de_terre_-_Ao%C3%BBt_2007.JPG/330px-40_-_Tremblement_de_terre_-_Ao%C3%BBt_2007.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 35
+    "count": 5
+  },
+  "wars-battles": {
+    "top_event": {
+      "year": 1998,
+      "description": "Northern Ireland: Omagh bombing takes place; 29 people (including a woman pregnant with twins) killed and some 220 others injured.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Northern_Ireland_in_the_UK_and_Europe.svg/330px-Northern_Ireland_in_the_UK_and_Europe.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 45
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1995,
+      "description": "In South Carolina, Shannon Faulkner becomes the first female cadet matriculated at The Citadel (she drops out less than a week later).",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_South_Carolina.svg/330px-Flag_of_South_Carolina.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 10
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 1995,
+      "description": "Tomiichi Murayama, Prime Minister of Japan, releases the Murayama Statement, which formally expresses remorse for Japanese war crimes committed during World War II.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Tomiichi_Murayama_19940630.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "count": 28
   },
   "space-exploration": {
     "top_event": {
-      "year": 2004,
-      "description": "Marsai Martin, American actress and producer",
-      "image_url": ""
+      "year": 1977,
+      "description": "The Big Ear, a radio telescope operated by Ohio State University as part of the SETI project, receives a radio signal from deep space; the event is named the \"Wow! signal\" from the notation made by a volunteer on the project.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wow_signal_profile.png/330px-Wow_signal_profile.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 2
+    "count": 5
   },
-  "strange-unexplained": {
+  "archaeology-discoveries": {
     "top_event": {
-      "year": 1923,
-      "description": "Alice Ghostley, American actress (died 2007)",
+      "year": 1976,
+      "description": "SAETA Flight 011 crashes into the Chimborazo volcano in Ecuador, killing all 59 people on board; the wreckage is not discovered until 2002.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SAETA_Vickers_Viscount_785_at_Quito.jpg/330px-SAETA_Vickers_Viscount_785_at_Quito.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 3
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 1971,
+      "description": "Bahrain gains independence from the United Kingdom.",
       "image_url": ""
     },
-    "count": 1
+    "count": 38
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1969,
+      "description": "The Woodstock Music & Art Fair opens in Bethel, New York, featuring some of the top rock musicians of the era.",
+      "image_url": ""
+    },
+    "count": 43
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1963,
+      "description": "Execution of Henry John Burnett, the last man to be hanged in Scotland.",
+      "image_url": ""
+    },
+    "count": 147
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 1939,
+      "description": "The Wizard of Oz premieres at Grauman's Chinese Theater in Los Angeles, California.",
+      "image_url": ""
+    },
+    "count": 45
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1899,
+      "description": "Fratton Park football ground in Portsmouth, England is officially first opened.",
+      "image_url": ""
+    },
+    "count": 24
   }
 }
