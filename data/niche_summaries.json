@@ -1,146 +1,138 @@
 {
-  "literature-writers": {
-    "top_event": {
-      "year": 2025,
-      "description": "US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 56
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 2025,
-      "description": "US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 25
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 2025,
-      "description": "US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 12
-  },
   "art-architecture": {
     "top_event": {
-      "year": 2021,
-      "description": "Kabul falls into the hands of the Taliban as Ashraf Ghani flees Afghanistan along with local residents and foreign nationals, effectively reestablishing the Islamic Emirate of Afghanistan.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kabul%2C_Afghanistan_view.jpg/330px-Kabul%2C_Afghanistan_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 44
-  },
-  "medicine-health": {
-    "top_event": {
       "year": 2020,
-      "description": "Russia begins production on the Sputnik V COVID-19 vaccine.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/%D0%92%D0%B0%D0%BA%D1%86%D0%B8%D0%BD%D0%B0_%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_V_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "description": "The August Complex fire in California burns more than one million acres of land.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/August-complex-Fire-CA_082120.png/330px-August-complex-Fire-CA_082120.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 3
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 2013,
-      "description": "The Smithsonian announces the discovery of the olinguito, the first new carnivorous species found in the Americas in 35 years.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Smithsonian_Building_Sunlight.jpg/330px-Smithsonian_Building_Sunlight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 21
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 2013,
-      "description": "The Smithsonian announces the discovery of the olinguito, the first new carnivorous species found in the Americas in 35 years.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Smithsonian_Building_Sunlight.jpg/330px-Smithsonian_Building_Sunlight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 11
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 2007,
-      "description": "An 8.0-magnitude earthquake off the Pacific coast devastates Ica and various regions of Peru, killing 514 and injuring 1,090.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/40_-_Tremblement_de_terre_-_Ao%C3%BBt_2007.JPG/330px-40_-_Tremblement_de_terre_-_Ao%C3%BBt_2007.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 5
+    "count": 42
   },
   "wars-battles": {
     "top_event": {
-      "year": 1998,
-      "description": "Northern Ireland: Omagh bombing takes place; 29 people (including a woman pregnant with twins) killed and some 220 others injured.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Northern_Ireland_in_the_UK_and_Europe.svg/330px-Northern_Ireland_in_the_UK_and_Europe.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 45
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 1995,
-      "description": "In South Carolina, Shannon Faulkner becomes the first female cadet matriculated at The Citadel (she drops out less than a week later).",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_South_Carolina.svg/330px-Flag_of_South_Carolina.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 10
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 1995,
-      "description": "Tomiichi Murayama, Prime Minister of Japan, releases the Murayama Statement, which formally expresses remorse for Japanese war crimes committed during World War II.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Tomiichi_Murayama_19940630.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "year": 2015,
+      "description": "More than 96 people are killed and hundreds injured following a series of air-raids by the Syrian Arab Air Force on the rebel-held market town of Douma.",
+      "image_url": ""
     },
     "count": 28
   },
+  "true-crime": {
+    "top_event": {
+      "year": 2015,
+      "description": "More than 96 people are killed and hundreds injured following a series of air-raids by the Syrian Arab Air Force on the rebel-held market town of Douma.",
+      "image_url": ""
+    },
+    "count": 6
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1989,
+      "description": "A solar particle event affects computers at the Toronto Stock Exchange, forcing a halt to trading.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Solar_flare_%28TRACE%29.gif/330px-Solar_flare_%28TRACE%29.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 13
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 1989,
+      "description": "A solar particle event affects computers at the Toronto Stock Exchange, forcing a halt to trading.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Solar_flare_%28TRACE%29.gif/330px-Solar_flare_%28TRACE%29.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 8
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 1975,
+      "description": "Australian Prime Minister Gough Whitlam symbolically hands over land to the Gurindji people after the eight-year Wave Hill walk-off, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 song by Paul Kelly and an annual celebration.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gough_Whitlam_at_the_Lodge_1974.jpg/330px-Gough_Whitlam_at_the_Lodge_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 27
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1975,
+      "description": "Australian Prime Minister Gough Whitlam symbolically hands over land to the Gurindji people after the eight-year Wave Hill walk-off, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 song by Paul Kelly and an annual celebration.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gough_Whitlam_at_the_Lodge_1974.jpg/330px-Gough_Whitlam_at_the_Lodge_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 42
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 1966,
+      "description": "Vietnam War: The House Un-American Activities Committee begins investigations of Americans who have aided the Viet Cong. The committee intends to introduce legislation making these activities illegal. Anti-war demonstrators disrupt the meeting and 50 people are arrested.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Chairman_Dies_of_House_Committee_investigating_Un-American_activities.jpg/330px-Chairman_Dies_of_House_Committee_investigating_Un-American_activities.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 21
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1960,
+      "description": "Joseph Kittinger parachutes from a balloon over New Mexico, United States, at 102,800 feet (31,300 m), setting three records that held until 2012: High-altitude jump, free fall, and highest speed by a human without an aircraft.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Joseph_Kittinger%2C_Jr.jpg/330px-Joseph_Kittinger%2C_Jr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 30
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 1954,
+      "description": "The first issue of Sports Illustrated is published.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9d/Sportsillustrated_firstissue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "count": 58
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1944,
+      "description": "First flight of a jet with forward-swept wings, the Junkers Ju 287.",
+      "image_url": ""
+    },
+    "count": 6
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1933,
+      "description": "Christie Pits riot takes place in Toronto, Ontario.",
+      "image_url": ""
+    },
+    "count": 147
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1913,
+      "description": "Tōhoku Imperial University of Japan (modern day Tohoku University) becomes the first university in Japan to admit female students.",
+      "image_url": ""
+    },
+    "count": 5
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 1906,
+      "description": "The 8.2 Mw Valparaíso earthquake hits central Chile, killing 3,882 people.",
+      "image_url": ""
+    },
+    "count": 1
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 1876,
+      "description": "Richard Wagner's Siegfried, the penultimate opera in his Ring cycle, is premiered at the Bayreuth Festspielhaus.",
+      "image_url": ""
+    },
+    "count": 60
+  },
   "space-exploration": {
     "top_event": {
-      "year": 1977,
-      "description": "The Big Ear, a radio telescope operated by Ohio State University as part of the SETI project, receives a radio signal from deep space; the event is named the \"Wow! signal\" from the notation made by a volunteer on the project.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wow_signal_profile.png/330px-Wow_signal_profile.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1870,
+      "description": "Franco-Prussian War: The Battle of Mars-la-Tour is fought, resulting in a Prussian victory.",
+      "image_url": ""
     },
     "count": 5
   },
   "archaeology-discoveries": {
     "top_event": {
-      "year": 1976,
-      "description": "SAETA Flight 011 crashes into the Chimborazo volcano in Ecuador, killing all 59 people on board; the wreckage is not discovered until 2002.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SAETA_Vickers_Viscount_785_at_Quito.jpg/330px-SAETA_Vickers_Viscount_785_at_Quito.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 3
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 1971,
-      "description": "Bahrain gains independence from the United Kingdom.",
+      "year": 1888,
+      "description": "T. E. Lawrence, British colonel, diplomat, writer and archaeologist (died 1935)",
       "image_url": ""
     },
-    "count": 38
-  },
-  "music-history": {
-    "top_event": {
-      "year": 1969,
-      "description": "The Woodstock Music & Art Fair opens in Bethel, New York, featuring some of the top rock musicians of the era.",
-      "image_url": ""
-    },
-    "count": 43
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1963,
-      "description": "Execution of Henry John Burnett, the last man to be hanged in Scotland.",
-      "image_url": ""
-    },
-    "count": 147
-  },
-  "cinema-film": {
-    "top_event": {
-      "year": 1939,
-      "description": "The Wizard of Oz premieres at Grauman's Chinese Theater in Los Angeles, California.",
-      "image_url": ""
-    },
-    "count": 45
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 1899,
-      "description": "Fratton Park football ground in Portsmouth, England is officially first opened.",
-      "image_url": ""
-    },
-    "count": 24
+    "count": 1
   }
 }
