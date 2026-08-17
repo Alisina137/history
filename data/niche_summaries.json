@@ -1,138 +1,138 @@
 {
   "art-architecture": {
     "top_event": {
-      "year": 2020,
-      "description": "The August Complex fire in California burns more than one million acres of land.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/August-complex-Fire-CA_082120.png/330px-August-complex-Fire-CA_082120.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2017,
+      "description": "Barcelona attacks: A van is driven into pedestrians in La Rambla, killing 14 and injuring at least 100.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Barcelona_La_Rambla_-_2011-04-23_05_-_JTCurses.jpg/330px-Barcelona_La_Rambla_-_2011-04-23_05_-_JTCurses.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 42
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 2015,
-      "description": "More than 96 people are killed and hundreds injured following a series of air-raids by the Syrian Arab Air Force on the rebel-held market town of Douma.",
-      "image_url": ""
-    },
-    "count": 28
+    "count": 43
   },
   "true-crime": {
     "top_event": {
-      "year": 2015,
-      "description": "More than 96 people are killed and hundreds injured following a series of air-raids by the Syrian Arab Air Force on the rebel-held market town of Douma.",
-      "image_url": ""
+      "year": 2017,
+      "description": "Barcelona attacks: A van is driven into pedestrians in La Rambla, killing 14 and injuring at least 100.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Barcelona_La_Rambla_-_2011-04-23_05_-_JTCurses.jpg/330px-Barcelona_La_Rambla_-_2011-04-23_05_-_JTCurses.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 6
+    "count": 11
   },
-  "inventions-technology": {
+  "wars-battles": {
     "top_event": {
-      "year": 1989,
-      "description": "A solar particle event affects computers at the Toronto Stock Exchange, forcing a halt to trading.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Solar_flare_%28TRACE%29.gif/330px-Solar_flare_%28TRACE%29.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2017,
+      "description": "Barcelona attacks: A van is driven into pedestrians in La Rambla, killing 14 and injuring at least 100.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Barcelona_La_Rambla_-_2011-04-23_05_-_JTCurses.jpg/330px-Barcelona_La_Rambla_-_2011-04-23_05_-_JTCurses.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 13
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 1989,
-      "description": "A solar particle event affects computers at the Toronto Stock Exchange, forcing a halt to trading.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Solar_flare_%28TRACE%29.gif/330px-Solar_flare_%28TRACE%29.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 8
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 1975,
-      "description": "Australian Prime Minister Gough Whitlam symbolically hands over land to the Gurindji people after the eight-year Wave Hill walk-off, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 song by Paul Kelly and an annual celebration.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gough_Whitlam_at_the_Lodge_1974.jpg/330px-Gough_Whitlam_at_the_Lodge_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 27
-  },
-  "music-history": {
-    "top_event": {
-      "year": 1975,
-      "description": "Australian Prime Minister Gough Whitlam symbolically hands over land to the Gurindji people after the eight-year Wave Hill walk-off, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 song by Paul Kelly and an annual celebration.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gough_Whitlam_at_the_Lodge_1974.jpg/330px-Gough_Whitlam_at_the_Lodge_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 42
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 1966,
-      "description": "Vietnam War: The House Un-American Activities Committee begins investigations of Americans who have aided the Viet Cong. The committee intends to introduce legislation making these activities illegal. Anti-war demonstrators disrupt the meeting and 50 people are arrested.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Chairman_Dies_of_House_Committee_investigating_Un-American_activities.jpg/330px-Chairman_Dies_of_House_Committee_investigating_Un-American_activities.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 21
+    "count": 29
   },
   "sports-history": {
     "top_event": {
-      "year": 1960,
-      "description": "Joseph Kittinger parachutes from a balloon over New Mexico, United States, at 102,800 feet (31,300 m), setting three records that held until 2012: High-altitude jump, free fall, and highest speed by a human without an aircraft.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Joseph_Kittinger%2C_Jr.jpg/330px-Joseph_Kittinger%2C_Jr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2008,
+      "description": "American swimmer Michael Phelps becomes the first person to win eight gold medals at one Olympic Games.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg/330px-Michael_Phelps_Rio_Olympics_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 30
   },
-  "literature-writers": {
-    "top_event": {
-      "year": 1954,
-      "description": "The first issue of Sports Illustrated is published.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9d/Sportsillustrated_firstissue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    "count": 58
-  },
   "firsts-in-history": {
     "top_event": {
-      "year": 1944,
-      "description": "First flight of a jet with forward-swept wings, the Junkers Ju 287.",
-      "image_url": ""
+      "year": 2008,
+      "description": "American swimmer Michael Phelps becomes the first person to win eight gold medals at one Olympic Games.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg/330px-Michael_Phelps_Rio_Olympics_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 11
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 2005,
+      "description": "The first forced evacuation of settlers, as part of Israeli disengagement from Gaza, starts.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/West_Bank_Access_Restrictions_July_2025.pdf/page1-330px-West_Bank_Access_Restrictions_July_2025.pdf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 19
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 2005,
+      "description": "Over 500 bombs are set off by terrorists at 300 locations in 63 out of the 64 districts of Bangladesh.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bangladesch_Bombenexplosionen_JMB_2005.svg/330px-Bangladesch_Bombenexplosionen_JMB_2005.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 32
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 1999,
+      "description": "The 7.6 Mw İzmit earthquake shakes northwestern Turkey with a maximum Mercalli intensity of IX (Violent), leaving 17,118–17,127 dead and 43,953–50,000 injured.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Izmit_eart6.jpg/330px-Izmit_eart6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 9
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 1999,
+      "description": "The 7.6 Mw İzmit earthquake shakes northwestern Turkey with a maximum Mercalli intensity of IX (Violent), leaving 17,118–17,127 dead and 43,953–50,000 injured.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Izmit_eart6.jpg/330px-Izmit_eart6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 67
+  },
+  "strange-unexplained": {
+    "top_event": {
+      "year": 1978,
+      "description": "Double Eagle II becomes first balloon to cross the Atlantic Ocean when it lands in Miserey, France near Paris, 137 hours after leaving Presque Isle, Maine.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/DoubleEagleIIPresqueIsleMaine.jpg/330px-DoubleEagleIIPresqueIsleMaine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 1
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1970,
+      "description": "Soviet Union Venera program: Venera 7 launched. It will become the first spacecraft to successfully transmit data from the surface of another planet (Venus).",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VenusLanderTopo.png/330px-VenusLanderTopo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 6
   },
   "general-history": {
     "top_event": {
-      "year": 1933,
-      "description": "Christie Pits riot takes place in Toronto, Ontario.",
+      "year": 1947,
+      "description": "The Radcliffe Line, the border between the Dominions of India and Pakistan, is revealed.",
       "image_url": ""
     },
-    "count": 147
+    "count": 128
   },
-  "women-in-history": {
+  "empires-dynasties": {
     "top_event": {
-      "year": 1913,
-      "description": "Tōhoku Imperial University of Japan (modern day Tohoku University) becomes the first university in Japan to admit female students.",
+      "year": 1945,
+      "description": "Sukarno and Mohammad Hatta proclaim the independence of Indonesia, igniting the Indonesian National Revolution against the Dutch Empire.",
       "image_url": ""
     },
-    "count": 5
+    "count": 19
   },
-  "natural-disasters": {
+  "music-history": {
     "top_event": {
-      "year": 1906,
-      "description": "The 8.2 Mw Valparaíso earthquake hits central Chile, killing 3,882 people.",
+      "year": 1943,
+      "description": "World War II: The Royal Air Force begins Operation Hydra, the first air raid of the Operation Crossbow strategic bombing campaign against Germany's V-weapon program.",
       "image_url": ""
     },
-    "count": 1
+    "count": 49
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 1907,
+      "description": "Pike Place Market, one of the oldest continuously operated public farmers' markets in the U.S. and a popular tourist attraction, opens in Seattle, Washington.",
+      "image_url": ""
+    },
+    "count": 17
   },
   "cinema-film": {
     "top_event": {
       "year": 1876,
-      "description": "Richard Wagner's Siegfried, the penultimate opera in his Ring cycle, is premiered at the Bayreuth Festspielhaus.",
+      "description": "Richard Wagner's Götterdämmerung, the last opera in his Ring cycle, premieres at the Bayreuth Festspielhaus.",
       "image_url": ""
     },
-    "count": 60
+    "count": 42
   },
-  "space-exploration": {
+  "women-in-history": {
     "top_event": {
-      "year": 1870,
-      "description": "Franco-Prussian War: The Battle of Mars-la-Tour is fought, resulting in a Prussian victory.",
+      "year": 1926,
+      "description": "Valerie Eliot, English businesswoman (died 2012)",
       "image_url": ""
     },
-    "count": 5
-  },
-  "archaeology-discoveries": {
-    "top_event": {
-      "year": 1888,
-      "description": "T. E. Lawrence, British colonel, diplomat, writer and archaeologist (died 1935)",
-      "image_url": ""
-    },
-    "count": 1
+    "count": 3
   }
 }
