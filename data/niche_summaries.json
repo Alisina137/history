@@ -1,136 +1,136 @@
 {
   "art-architecture": {
     "top_event": {
-      "year": 2019,
-      "description": "One hundred activists, officials, and other concerned citizens in Iceland hold a funeral for Okjökull glacier, which has completely melted after having once covered six square miles (15.5 km2).",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/330px-Flag_of_Iceland.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2017,
+      "description": "Tens of thousands of farmed non-native Atlantic salmon are accidentally released into the wild in Washington waters in the 2017 Cypress Island Atlantic salmon pen break.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Wst_atlantischer_lachs_stoer_001.jpg/330px-Wst_atlantischer_lachs_stoer_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 35
+  },
+  "wars-battles": {
+    "top_event": {
+      "year": 2010,
+      "description": "Operation Iraqi Freedom ends, with the last of the United States brigade combat teams crossing the border to Kuwait.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/330px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 38
+  },
+  "music-history": {
+    "top_event": {
+      "year": 2010,
+      "description": "Operation Iraqi Freedom ends, with the last of the United States brigade combat teams crossing the border to Kuwait.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/330px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 37
   },
   "true-crime": {
     "top_event": {
-      "year": 2017,
-      "description": "The Turku terror attack occurs in Finland when a knifeman kills two and injures eight.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/2017_Turku_stabbing_news_photo_of_the_year.jpg/330px-2017_Turku_stabbing_news_photo_of_the_year.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2003,
+      "description": "A truck-bomb attack on United Nations headquarters in Iraq kills the agency's top envoy Sérgio Vieira de Mello and 21 other employees.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/UNOfficeofHumanitarianCoordinator-Baghdad_%28UN_DF-SD-04-02188%29.jpg/330px-UNOfficeofHumanitarianCoordinator-Baghdad_%28UN_DF-SD-04-02188%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 8
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 2017,
-      "description": "The Turku terror attack occurs in Finland when a knifeman kills two and injures eight.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/2017_Turku_stabbing_news_photo_of_the_year.jpg/330px-2017_Turku_stabbing_news_photo_of_the_year.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 28
+    "count": 9
   },
   "politics-revolutions": {
     "top_event": {
-      "year": 2008,
-      "description": "The President of Pakistan, Pervez Musharraf, resigns under threat of impeachment.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pervez_Musharraf_2004_%28cropped%29.jpg/330px-Pervez_Musharraf_2004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1999,
+      "description": "In Belgrade, Yugoslavia, tens of thousands of Serbians rally to demand the resignation of Federal Republic of Yugoslavia President Slobodan Milošević.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Panorama_Belgrad.jpg/330px-Panorama_Belgrad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 22
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 2005,
-      "description": "A massive power blackout hits the Indonesian island of Java; affecting almost 100 million people, it is one of the largest and most widespread power outages in history.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2005_Java%E2%80%93Bali_blackout.png/330px-2005_Java%E2%80%93Bali_blackout.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 20
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 1983,
-      "description": "Hurricane Alicia hits the Texas coast, killing 21 people and causing over US$1 billion in damage (1983 dollars).",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Alicia_1983-08-17_2330Z.png/330px-Alicia_1983-08-17_2330Z.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 2
-  },
-  "literature-writers": {
-    "top_event": {
-      "year": 1977,
-      "description": "Steve Biko is arrested at a police roadblock under Terrorism Act No. 83 of 1967 in King William's Town, South Africa. He later dies from injuries sustained during this arrest, bringing attention to South Africa's apartheid policies.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Steve_Biko_on_Flyer_for_Steve_Biko_Memorial_at_the_Carver_Cultural_Center.jpg/330px-Steve_Biko_on_Flyer_for_Steve_Biko_Memorial_at_the_Carver_Cultural_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 49
   },
   "empires-dynasties": {
     "top_event": {
-      "year": 1977,
-      "description": "Steve Biko is arrested at a police roadblock under Terrorism Act No. 83 of 1967 in King William's Town, South Africa. He later dies from injuries sustained during this arrest, bringing attention to South Africa's apartheid policies.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Steve_Biko_on_Flyer_for_Steve_Biko_Memorial_at_the_Carver_Cultural_Center.jpg/330px-Steve_Biko_on_Flyer_for_Steve_Biko_Memorial_at_the_Carver_Cultural_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1987,
+      "description": "Hungerford massacre: In the United Kingdom, Michael Ryan kills sixteen people with a semi-automatic rifle and then commits suicide.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/1/17/Mass_Murderer_Michael_Ryan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
-    "count": 22
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 1976,
-      "description": "The Soviet Union's robotic probe Luna 24 successfully lands on the Moon.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/330px-Flag_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 5
-  },
-  "music-history": {
-    "top_event": {
-      "year": 1966,
-      "description": "Vietnam War: The Battle of Long Tan ensues after a patrol from the 6th Battalion, Royal Australian Regiment clashes with a Viet Cong force in Phước Tuy Province.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Battle_of_Long_Tan_18_August_1966.png/330px-Battle_of_Long_Tan_18_August_1966.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 44
+    "count": 26
   },
   "firsts-in-history": {
     "top_event": {
-      "year": 1963,
-      "description": "Civil rights movement: James Meredith becomes the first African American to graduate from the University of Mississippi.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg/330px-Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2005,
+      "description": "The first-ever joint military exercise between Russia and China, called Peace Mission 2005 begins.",
+      "image_url": ""
     },
-    "count": 8
+    "count": 9
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1964,
+      "description": "Syncom 3, the first geostationary communication satellite, is launched. Two months later, it would enable live coverage of the 1964 Summer Olympics.",
+      "image_url": ""
+    },
+    "count": 14
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1964,
+      "description": "Syncom 3, the first geostationary communication satellite, is launched. Two months later, it would enable live coverage of the 1964 Summer Olympics.",
+      "image_url": ""
+    },
+    "count": 4
   },
   "sports-history": {
     "top_event": {
-      "year": 1958,
-      "description": "Brojen Das from Bangladesh swims across the English Channel in a competition as the first Bengali and the first Asian to do so, placing first among the 39 competitors.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Brojen_das.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "year": 1964,
+      "description": "Syncom 3, the first geostationary communication satellite, is launched. Two months later, it would enable live coverage of the 1964 Summer Olympics.",
+      "image_url": ""
     },
-    "count": 30
+    "count": 26
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 1955,
+      "description": "In the Northeast United States, severe flooding caused by Hurricane Diane, claims 200 lives.",
+      "image_url": ""
+    },
+    "count": 2
   },
   "general-history": {
     "top_event": {
-      "year": 1949,
-      "description": "1949 Kemi strike: Two protesters die in the scuffle between the police and the strikers' protest procession in Kemi, Finland.",
+      "year": 1945,
+      "description": "August Revolution: Viet Minh led by Ho Chi Minh take power in Hanoi, Vietnam.",
       "image_url": ""
     },
-    "count": 138
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 1933,
-      "description": "The Volksempfänger is first presented to the German public at a radio exhibition; the presiding Nazi Minister of Propaganda, Joseph Goebbels, delivers an accompanying speech heralding the radio as the 'eighth great power'.",
-      "image_url": ""
-    },
-    "count": 13
+    "count": 130
   },
   "women-in-history": {
     "top_event": {
-      "year": 1923,
-      "description": "The first British Track and Field championships for women are held in London, Great Britain.",
+      "year": 1561,
+      "description": "Mary, Queen of Scots, aged 18, returns to Scotland after spending 13 years in France.",
       "image_url": ""
     },
-    "count": 5
+    "count": 3
   },
   "cinema-film": {
     "top_event": {
-      "year": 2024,
-      "description": "Alain Delon, French-Swiss actor (born 1935)",
+      "year": 2021,
+      "description": "Sonny Chiba, Japanese actor (born 1939)",
       "image_url": ""
     },
-    "count": 44
+    "count": 46
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 2019,
+      "description": "Lars Larsen, Danish businessman and billionaire, founder and owner of the Danish retail chain JYSK (born 1948)",
+      "image_url": ""
+    },
+    "count": 17
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 2017,
+      "description": "Dick Gregory, American comedian, author and activist (born 1932)",
+      "image_url": ""
+    },
+    "count": 58
   },
   "archaeology-discoveries": {
     "top_event": {
-      "year": 2015,
-      "description": "Khaled al-Asaad, Syrian archaeologist and author (born 1932)",
+      "year": 1900,
+      "description": "Dorothy Burr Thompson, American archaeologist and art historian (died 2001)",
       "image_url": ""
     },
     "count": 1
