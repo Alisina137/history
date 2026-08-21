@@ -1,138 +1,154 @@
 {
-  "politics-revolutions": {
+  "art-architecture": {
     "top_event": {
-      "year": 2020,
-      "description": "Joe Biden gives his acceptance speech virtually for the 2020 Democratic presidential nomination at the 2020 Democratic National Convention.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/330px-Joe_Biden_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2017,
+      "description": "A solar eclipse traverses the continental United States.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Total_Solar_Eclipse_8-21-17.jpg/330px-Total_Solar_Eclipse_8-21-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 29
+    "count": 38
   },
-  "literature-writers": {
+  "space-exploration": {
     "top_event": {
-      "year": 2020,
-      "description": "Joe Biden gives his acceptance speech virtually for the 2020 Democratic presidential nomination at the 2020 Democratic National Convention.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/330px-Joe_Biden_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2017,
+      "description": "A solar eclipse traverses the continental United States.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Total_Solar_Eclipse_8-21-17.jpg/330px-Total_Solar_Eclipse_8-21-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 73
+    "count": 5
   },
   "true-crime": {
     "top_event": {
-      "year": 2016,
-      "description": "Fifty-four people are killed when a suicide bomber detonates himself at a Kurdish wedding party in Gaziantep, Turkey.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2015_Suru%C3%A7_bombing_in_Turkey.jpg/330px-2015_Suru%C3%A7_bombing_in_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2013,
+      "description": "Hundreds of people are reported killed by chemical attacks in the Ghouta region of Syria.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Syria_-_Damascus_Areas_of_Influence_and_Areas_Reportedly_Affected_by_21_August_Chemical_Attack.jpg/330px-Syria_-_Damascus_Areas_of_Influence_and_Areas_Reportedly_Affected_by_21_August_Chemical_Attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 9
-  },
-  "art-architecture": {
-    "top_event": {
-      "year": 2016,
-      "description": "Fifty-four people are killed when a suicide bomber detonates himself at a Kurdish wedding party in Gaziantep, Turkey.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2015_Suru%C3%A7_bombing_in_Turkey.jpg/330px-2015_Suru%C3%A7_bombing_in_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 29
+    "count": 6
   },
   "wars-battles": {
     "top_event": {
-      "year": 2016,
-      "description": "Fifty-four people are killed when a suicide bomber detonates himself at a Kurdish wedding party in Gaziantep, Turkey.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2015_Suru%C3%A7_bombing_in_Turkey.jpg/330px-2015_Suru%C3%A7_bombing_in_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2013,
+      "description": "Hundreds of people are reported killed by chemical attacks in the Ghouta region of Syria.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Syria_-_Damascus_Areas_of_Influence_and_Areas_Reportedly_Affected_by_21_August_Chemical_Attack.jpg/330px-Syria_-_Damascus_Areas_of_Influence_and_Areas_Reportedly_Affected_by_21_August_Chemical_Attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 24
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 2000,
+      "description": "American golfer Tiger Woods wins the 82nd PGA Championship and becomes the first golfer since Ben Hogan in 1953 to win three majors in a calendar year.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_%2854341713089%29_%28cropped%29.jpg/330px-President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_%2854341713089%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 31
   },
   "inventions-technology": {
     "top_event": {
-      "year": 2011,
-      "description": "First Air Flight 6560 crashes 1 mile (1.6 km) from the Resolute Bay runway, killing 12 of the 15 aboard.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/First_Air_Flight_6560_wreckage_-_Resolute_Bay_-_August_2011.jpg/330px-First_Air_Flight_6560_wreckage_-_Resolute_Bay_-_August_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2000,
+      "description": "American golfer Tiger Woods wins the 82nd PGA Championship and becomes the first golfer since Ben Hogan in 1953 to win three majors in a calendar year.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_%2854341713089%29_%28cropped%29.jpg/330px-President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_%2854341713089%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 10
+    "count": 21
   },
-  "firsts-in-history": {
+  "politics-revolutions": {
     "top_event": {
-      "year": 2011,
-      "description": "First Air Flight 6560 crashes 1 mile (1.6 km) from the Resolute Bay runway, killing 12 of the 15 aboard.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/First_Air_Flight_6560_wreckage_-_Resolute_Bay_-_August_2011.jpg/330px-First_Air_Flight_6560_wreckage_-_Resolute_Bay_-_August_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1991,
+      "description": "Latvia declares renewal of its full independence after its occupation by the Soviet Union since 1940.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/330px-Flag_of_Latvia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 6
+    "count": 24
   },
-  "music-history": {
+  "empires-dynasties": {
     "top_event": {
-      "year": 1988,
-      "description": "\"Black Saturday\" of the Yellowstone fire in Yellowstone National Park.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fire_near_Old_Faithful_Complex_2.jpg/330px-Fire_near_Old_Faithful_Complex_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1968,
+      "description": "Cold War: Nicolae Ceaușescu, leader of the Socialist Republic of Romania, publicly condemns the Soviet-led Warsaw Pact invasion of Czechoslovakia, encouraging the Romanian population to arm itself against possible Soviet reprisals.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/NATO_vs._Warsaw_Pact_%281949-1990%29.svg/330px-NATO_vs._Warsaw_Pact_%281949-1990%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 41
+    "count": 14
   },
   "natural-disasters": {
     "top_event": {
       "year": 1988,
-      "description": "\"Black Saturday\" of the Yellowstone fire in Yellowstone National Park.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fire_near_Old_Faithful_Complex_2.jpg/330px-Fire_near_Old_Faithful_Complex_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "description": "The 6.9 Mw Nepal earthquake shakes the Nepal–India border with a maximum Mercalli intensity of VIII (Severe), leaving 709–1,450 people killed and thousands injured.",
+      "image_url": ""
     },
     "count": 2
   },
   "general-history": {
     "top_event": {
-      "year": 1986,
-      "description": "In Edmond, Oklahoma, U.S. Postal employee Patrick Sherrill shoots and kills 14 of his co-workers and then commits suicide.",
+      "year": 1911,
+      "description": "The Mona Lisa is stolen by Vincenzo Peruggia, a Louvre employee.",
       "image_url": ""
     },
-    "count": 183
+    "count": 155
   },
-  "space-exploration": {
+  "firsts-in-history": {
     "top_event": {
-      "year": 1977,
-      "description": "Voyager program: NASA launches the Voyager 2 spacecraft.",
-      "image_url": ""
-    },
-    "count": 6
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 1975,
-      "description": "Viking program: NASA launches the Viking 1 planetary probe toward Mars.",
-      "image_url": ""
-    },
-    "count": 19
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 1938,
-      "description": "Lou Gehrig hits his 23rd career grand slam, a record that stood for 75 years until it was broken by Alex Rodriguez.",
-      "image_url": ""
-    },
-    "count": 67
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 1926,
-      "description": "Japan's public broadcasting company, Nippon Hōsō Kyōkai (NHK) is established.",
-      "image_url": ""
-    },
-    "count": 13
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 1191,
-      "description": "Believing Saladin had reneged on ransom promises, Richard I of England initiates the massacre at Ayyadieh, beheading 2,700 captive Muslim soldiers and another 300 women and children seized at the Fall of Acre.",
+      "year": 1888,
+      "description": "The first successful adding machine in the United States is patented by William Seward Burroughs.",
       "image_url": ""
     },
     "count": 4
   },
-  "cinema-film": {
+  "business-economics": {
     "top_event": {
-      "year": 2021,
-      "description": "Igor Vovkovinskiy, Ukrainian-American law student and actor, American tallest person (born 1982)",
+      "year": 1878,
+      "description": "The American Bar Association is founded in Saratoga Springs, New York.",
       "image_url": ""
     },
-    "count": 51
+    "count": 14
   },
   "archaeology-discoveries": {
     "top_event": {
-      "year": 1927,
-      "description": "John Boardman, English archaeologist and historian (died 2024)",
+      "year": 1821,
+      "description": "Jarvis Island is discovered by the crew of the ship, Eliza Frances.",
       "image_url": ""
     },
     "count": 1
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1716,
+      "description": "Seventh Ottoman–Venetian War: The arrival of naval reinforcements and the news of the Battle of Petrovaradin force the Ottomans to abandon the Siege of Corfu, thus preserving the Ionian Islands under Venetian rule.",
+      "image_url": ""
+    },
+    "count": 40
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 2024,
+      "description": "John Amos, American actor (born 1939)",
+      "image_url": ""
+    },
+    "count": 34
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 2014,
+      "description": "Jean Redpath, Scottish singer-songwriter (born 1937)",
+      "image_url": ""
+    },
+    "count": 53
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1996,
+      "description": "Mary Two-Axe Earley, Canadian indigenous women's rights activist (born 1911)",
+      "image_url": ""
+    },
+    "count": 1
+  },
+  "strange-unexplained": {
+    "top_event": {
+      "year": 1974,
+      "description": "Buford Pusser, American police officer (born 1937)",
+      "image_url": ""
+    },
+    "count": 1
+  },
+  "medicine-health": {
+    "top_event": {
+      "year": 1568,
+      "description": "Jean Parisot de Valette, 49th Grandmaster of the Knights Hospitaller (born 1495)",
+      "image_url": ""
+    },
+    "count": 2
   }
 }
