@@ -1,138 +1,138 @@
 {
-  "space-exploration": {
-    "top_event": {
-      "year": 2023,
-      "description": "Chandrayaan-3 mission initiates first Moon landing in Indian history.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Chandrayaan-3_%E2%80%93_Image_of_Vikram_lander_on_lunar_surface_taken_by_Pragyan_rover_navcam_at_1104_IST%2C_30_August_2023_from_15_meters_away_%28with_text%29.webp/330px-Chandrayaan-3_%E2%80%93_Image_of_Vikram_lander_on_lunar_surface_taken_by_Pragyan_rover_navcam_at_1104_IST%2C_30_August_2023_from_15_meters_away_%28with_text%29.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 10
-  },
   "art-architecture": {
     "top_event": {
       "year": 2023,
-      "description": "Chandrayaan-3 mission initiates first Moon landing in Indian history.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Chandrayaan-3_%E2%80%93_Image_of_Vikram_lander_on_lunar_surface_taken_by_Pragyan_rover_navcam_at_1104_IST%2C_30_August_2023_from_15_meters_away_%28with_text%29.webp/330px-Chandrayaan-3_%E2%80%93_Image_of_Vikram_lander_on_lunar_surface_taken_by_Pragyan_rover_navcam_at_1104_IST%2C_30_August_2023_from_15_meters_away_%28with_text%29.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "description": "Japan officially begins discharging treated radioactive water from the Fukushima Daiichi Nuclear Power Plant into the Pacific Ocean, sparking international concerns and condemnation.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fukushima_Daiichi_nuclear_plant._Two_types_of_above-ground_water_tanks_and_underground_pool.jpg/330px-Fukushima_Daiichi_nuclear_plant._Two_types_of_above-ground_water_tanks_and_underground_pool.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 37
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 2023,
+      "description": "Japan officially begins discharging treated radioactive water from the Fukushima Daiichi Nuclear Power Plant into the Pacific Ocean, sparking international concerns and condemnation.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fukushima_Daiichi_nuclear_plant._Two_types_of_above-ground_water_tanks_and_underground_pool.jpg/330px-Fukushima_Daiichi_nuclear_plant._Two_types_of_above-ground_water_tanks_and_underground_pool.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 25
   },
   "inventions-technology": {
     "top_event": {
       "year": 2023,
-      "description": "Chandrayaan-3 mission initiates first Moon landing in Indian history.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Chandrayaan-3_%E2%80%93_Image_of_Vikram_lander_on_lunar_surface_taken_by_Pragyan_rover_navcam_at_1104_IST%2C_30_August_2023_from_15_meters_away_%28with_text%29.webp/330px-Chandrayaan-3_%E2%80%93_Image_of_Vikram_lander_on_lunar_surface_taken_by_Pragyan_rover_navcam_at_1104_IST%2C_30_August_2023_from_15_meters_away_%28with_text%29.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "description": "Japan officially begins discharging treated radioactive water from the Fukushima Daiichi Nuclear Power Plant into the Pacific Ocean, sparking international concerns and condemnation.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fukushima_Daiichi_nuclear_plant._Two_types_of_above-ground_water_tanks_and_underground_pool.jpg/330px-Fukushima_Daiichi_nuclear_plant._Two_types_of_above-ground_water_tanks_and_underground_pool.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 10
+    "count": 18
   },
-  "business-economics": {
+  "space-exploration": {
     "top_event": {
-      "year": 2023,
-      "description": "A business jet carrying key leadership members of the Russian private military company Wagner Group crashes, killing all ten people on board.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Flag_of_Wagner_Group.svg/330px-Flag_of_Wagner_Group.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2017,
+      "description": "The National Space Agency of Taiwan successfully launches the observation satellite Formosat-5 into space.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/STS115_Atlantis_undock_ISS_edit2.jpg/330px-STS115_Atlantis_undock_ISS_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 9
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 2023,
-      "description": "A business jet carrying key leadership members of the Russian private military company Wagner Group crashes, killing all ten people on board.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Flag_of_Wagner_Group.svg/330px-Flag_of_Wagner_Group.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 39
+    "count": 6
   },
   "natural-disasters": {
     "top_event": {
-      "year": 2011,
-      "description": "A magnitude 5.8 (class: moderate) earthquake occurs in Virginia. Damage occurs to monuments and structures in Washington, D.C. and the resulted damage is estimated at 200 million–300 million USD.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Virginia_earthquake%2C_Aug_23.jpg/330px-Virginia_earthquake%2C_Aug_23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2016,
+      "description": "An earthquake strikes Central Italy with a magnitude of 6.2, with aftershocks felt as far as Rome and Florence. Around 300 people are killed.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Terremoto_centro_Italia_2016_-_Amatrice_%2828700804943%29.jpg/330px-Terremoto_centro_Italia_2016_-_Amatrice_%2828700804943%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 3
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 2010,
-      "description": "The Manila hostage crisis occurs near the Quirino Grandstand in Manila, Philippines, killing 9 people including the perpetrator while injuring 9 others.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/2010_Manila_hostage_crisis_bus.JPG/330px-2010_Manila_hostage_crisis_bus.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 13
+    "count": 4
   },
   "archaeology-discoveries": {
     "top_event": {
-      "year": 2007,
-      "description": "The skeletal remains of Russia's last royal family members Alexei Nikolaevich, Tsarevich of Russia, and his sister Grand Duchess Anastasia are discovered near Yekaterinburg, Russia.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alexei_Nikolaevich_of_Russia_%283x4_cropped%29.jpg/330px-Alexei_Nikolaevich_of_Russia_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2016,
+      "description": "Proxima Centauri b, the closest exoplanet to Earth, is discovered by the European Southern Observatory.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Artist%E2%80%99s_impression_of_Proxima_Centauri_b_shown_hypothetically_as_an_arid_rocky_super-earth.jpg/330px-Artist%E2%80%99s_impression_of_Proxima_Centauri_b_shown_hypothetically_as_an_arid_rocky_super-earth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 1
+    "count": 2
   },
-  "empires-dynasties": {
+  "true-crime": {
     "top_event": {
-      "year": 2000,
-      "description": "Gulf Air Flight 072 crashes into the Persian Gulf near Manama, Bahrain, killing 143.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/A4O-EK_-_Airbus_A-320-212_-_Gulf_Air_at_Sharjah_International_Airport_%28SHJ%29_in_1999.jpg/330px-A4O-EK_-_Airbus_A-320-212_-_Gulf_Air_at_Sharjah_International_Airport_%28SHJ%29_in_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2012,
+      "description": "Anders Behring Breivik, perpetrator of the 2011 Norway attacks, is sentenced to 21 years of preventive detention.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sketch_of_Breivik.png/330px-Sketch_of_Breivik.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 32
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 1994,
-      "description": "Eugene Bullard, the only African American pilot in World War I, is posthumously commissioned as Second Lieutenant in the United States Air Force.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Eugene_Jacques_Bullard%2C_first_African_American_combat_pilot_in_uniform%2C_First_World_War.jpg/330px-Eugene_Jacques_Bullard%2C_first_African_American_combat_pilot_in_uniform%2C_First_World_War.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 37
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 1990,
-      "description": "Saddam Hussein appears on Iraqi state television with a number of Western \"guests\" (actually hostages) to try to prevent the Gulf War.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Saddam_Hussein_1979.jpg/330px-Saddam_Hussein_1979.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 25
-  },
-  "music-history": {
-    "top_event": {
-      "year": 1989,
-      "description": "Singing Revolution: Two million people from Estonia, Latvia and Lithuania stand on the Vilnius–Tallinn road, holding hands.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Leaders_of_the_Supreme_Council_of_Lithuania_on_11_March_1990.jpg/330px-Leaders_of_the_Supreme_Council_of_Lithuania_on_11_March_1990.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 48
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1970,
-      "description": "Organized by Mexican American labor union leader César Chávez, the Salad Bowl strike, the largest farm worker strike in U.S. history, begins.",
-      "image_url": ""
-    },
-    "count": 156
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 1954,
-      "description": "The first flight of the Lockheed C-130 multi-role aircraft takes place.",
-      "image_url": ""
-    },
-    "count": 3
+    "count": 6
   },
   "literature-writers": {
     "top_event": {
-      "year": 2014,
-      "description": "Birgitta Stenberg, Swedish author and illustrator (born 1932)",
-      "image_url": ""
+      "year": 2012,
+      "description": "Anders Behring Breivik, perpetrator of the 2011 Norway attacks, is sentenced to 21 years of preventive detention.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sketch_of_Breivik.png/330px-Sketch_of_Breivik.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 61
+    "count": 58
   },
-  "cinema-film": {
+  "wars-battles": {
     "top_event": {
-      "year": 2013,
-      "description": "Charles Lisanby, American production designer and set director (born 1924)",
+      "year": 2006,
+      "description": "The International Astronomical Union (IAU) redefines the term \"planet\" such that Pluto is now considered a dwarf planet.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/IAU_logo.svg/330px-IAU_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 33
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 1995,
+      "description": "Microsoft releases Windows 95 to the public in North America.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/330px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 15
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 1989,
+      "description": "Tadeusz Mazowiecki is chosen as the first non-communist prime minister in Central and Eastern Europe.",
       "image_url": ""
     },
-    "count": 40
+    "count": 22
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1989,
+      "description": "Tadeusz Mazowiecki is chosen as the first non-communist prime minister in Central and Eastern Europe.",
+      "image_url": ""
+    },
+    "count": 9
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1951,
+      "description": "United Air Lines Flight 615 crashes near Decoto, California, killing 50 people.",
+      "image_url": ""
+    },
+    "count": 136
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1938,
+      "description": "Kweilin incident: A Japanese warplane shoots down the Kweilin, a Chinese civilian airliner, killing 14. It is the first recorded instance of a civilian airliner being shot down.",
+      "image_url": ""
+    },
+    "count": 32
   },
   "women-in-history": {
     "top_event": {
-      "year": 1951,
-      "description": "Queen Noor of Jordan",
+      "year": 1932,
+      "description": "Amelia Earhart becomes the first woman to fly across the United States non-stop (from Los Angeles to Newark, New Jersey).",
       "image_url": ""
     },
-    "count": 2
+    "count": 4
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1781,
+      "description": "American Revolutionary War: A small force of Pennsylvania militia is ambushed and overwhelmed by an American Indian group, which forces George Rogers Clark to abandon his attempt to attack Detroit.",
+      "image_url": ""
+    },
+    "count": 30
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 1690,
+      "description": "Job Charnock of the East India Company establishes a factory in Calcutta, an event formerly considered the founding of the city (in 2003 the Calcutta High Court ruled that the city's foundation date is unknown).",
+      "image_url": ""
+    },
+    "count": 42
   }
 }
