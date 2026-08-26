@@ -1,130 +1,146 @@
 {
-  "art-architecture": {
-    "top_event": {
-      "year": 2017,
-      "description": "Hurricane Harvey makes landfall in Texas as a powerful Category 4 hurricane, the strongest hurricane to make landfall in the United States since 2004.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Harvey_2017-08-25_2337Z.jpg/330px-Harvey_2017-08-25_2337Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 38
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 2017,
-      "description": "Hurricane Harvey makes landfall in Texas as a powerful Category 4 hurricane, the strongest hurricane to make landfall in the United States since 2004.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Harvey_2017-08-25_2337Z.jpg/330px-Harvey_2017-08-25_2337Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 3
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 2017,
-      "description": "Conflict in Rakhine State (2016–present): One hundred seventy people are killed in at least 26 separate attacks carried out by the Arakan Rohingya Salvation Army, leading to the governments of Myanmar and Malaysia designating the group as a terrorist organisation.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rakhine_State%2C_Chin_State%2C_and_Anyar_during_the_Myanmar_Civil_War.png/330px-Rakhine_State%2C_Chin_State%2C_and_Anyar_during_the_Myanmar_Civil_War.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 29
-  },
   "true-crime": {
     "top_event": {
-      "year": 2017,
-      "description": "Conflict in Rakhine State (2016–present): One hundred seventy people are killed in at least 26 separate attacks carried out by the Arakan Rohingya Salvation Army, leading to the governments of Myanmar and Malaysia designating the group as a terrorist organisation.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rakhine_State%2C_Chin_State%2C_and_Anyar_during_the_Myanmar_Civil_War.png/330px-Rakhine_State%2C_Chin_State%2C_and_Anyar_during_the_Myanmar_Civil_War.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2023,
+      "description": "Exactly 5 years after the 2018 Jacksonville Landing shooting, there is another shooting in Jacksonville, Florida, leaving 3 people dead.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_Jacksonville_Landing%2C_Jacksonville_FL%2C_Southeast_view_20160706_1.jpg/330px-The_Jacksonville_Landing%2C_Jacksonville_FL%2C_Southeast_view_20160706_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 7
+    "count": 8
   },
-  "space-exploration": {
+  "art-architecture": {
     "top_event": {
-      "year": 2012,
-      "description": "Voyager 1 spacecraft enters interstellar space, becoming the first man-made object to do so.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2023,
+      "description": "Exactly 5 years after the 2018 Jacksonville Landing shooting, there is another shooting in Jacksonville, Florida, leaving 3 people dead.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_Jacksonville_Landing%2C_Jacksonville_FL%2C_Southeast_view_20160706_1.jpg/330px-The_Jacksonville_Landing%2C_Jacksonville_FL%2C_Southeast_view_20160706_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 11
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 2012,
-      "description": "Voyager 1 spacecraft enters interstellar space, becoming the first man-made object to do so.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 11
-  },
-  "music-history": {
-    "top_event": {
-      "year": 2010,
-      "description": "A Filair Let L-410 Turbolet crashes on approach to Bandundu Airport, killing 20.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/1/15/Filair_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    "count": 50
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 2006,
-      "description": "Former Prime Minister of Ukraine Pavlo Lazarenko is sentenced to nine years imprisonment for money laundering, wire fraud, and extortion.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/%D0%9D%D0%94%D0%A3_3_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE_%D0%86%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    "count": 29
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 2003,
-      "description": "NASA successfully launches the Spitzer Space Telescope into space.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 21
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 2001,
-      "description": "American singer Aaliyah and several members of her entourage are killed as their overloaded aircraft crashes shortly after takeoff from Marsh Harbour Airport, Bahamas.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aaliyah-02.jpg/330px-Aaliyah-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 5
-  },
-  "cinema-film": {
-    "top_event": {
-      "year": 1985,
-      "description": "Bar Harbor Airlines Flight 1808 crashes near Auburn/Lewiston Municipal Airport in Auburn, Maine, killing all eight people on board including peace activist and child actress Samantha Smith.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/N4381Y_Beech_99_Aerodynamics_Worldwide_Inc_%2839564952325%29.jpg/330px-N4381Y_Beech_99_Aerodynamics_Worldwide_Inc_%2839564952325%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 56
-  },
-  "literature-writers": {
-    "top_event": {
-      "year": 1967,
-      "description": "George Lincoln Rockwell, founder of the American Nazi Party, is assassinated by a former member of his group.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/George_Lincoln_Rockwell_in_1963_%283x4_cropped%29.jpg/330px-George_Lincoln_Rockwell_in_1963_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 68
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 1960,
-      "description": "The Games of the XVII Olympiad commence in Rome, Italy.",
-      "image_url": ""
-    },
-    "count": 25
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 1958,
-      "description": "The world's first publicly marketed instant noodles, Chikin Ramen, are introduced by Taiwanese-Japanese businessman Momofuku Ando.",
-      "image_url": ""
-    },
-    "count": 16
+    "count": 30
   },
   "sports-history": {
     "top_event": {
-      "year": 1942,
-      "description": "World War II: Second day of the Battle of the Eastern Solomons; a Japanese naval transport convoy headed towards Guadalcanal is turned back by an Allied air attack.",
+      "year": 2023,
+      "description": "Exactly 5 years after the 2018 Jacksonville Landing shooting, there is another shooting in Jacksonville, Florida, leaving 3 people dead.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_Jacksonville_Landing%2C_Jacksonville_FL%2C_Southeast_view_20160706_1.jpg/330px-The_Jacksonville_Landing%2C_Jacksonville_FL%2C_Southeast_view_20160706_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 28
+  },
+  "wars-battles": {
+    "top_event": {
+      "year": 2021,
+      "description": "During the 2021 Kabul airlift, a suicide bombing at Hamid Karzai International Airport kills 13 US military personnel and at least 169 Afghan civilians.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Afghanistan_Evacuation_210821-M-GQ845-1035.jpg/330px-Afghanistan_Evacuation_210821-M-GQ845-1035.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 25
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 2014,
+      "description": "The Jay Report into the Rotherham child sexual exploitation scandal is published.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Rotherham_town_centre%2C_May_2010.jpg/330px-Rotherham_town_centre%2C_May_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 59
+  },
+  "archaeology-discoveries": {
+    "top_event": {
+      "year": 2009,
+      "description": "Kidnapping victim Jaycee Dugard is discovered alive in California after being missing for over 18 years. Her captors, Phillip and Nancy Garrido, are apprehended.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Jaycee_Lee_Dugard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "count": 1
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 2003,
+      "description": "A Beechcraft 1900 operating as Colgan Air Flight 9446 crashes after taking off from Barnstable Municipal Airport in Yarmouth, Massachusetts, killing both pilots on board.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Beech_1900D%2C_Air_New_Zealand_Link_%28Eagle_Airways%29_JP6920497.jpg/330px-Beech_1900D%2C_Air_New_Zealand_Link_%28Eagle_Airways%29_JP6920497.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 16
+  },
+  "music-history": {
+    "top_event": {
+      "year": 2003,
+      "description": "A Beechcraft 1900 operating as Colgan Air Flight 9446 crashes after taking off from Barnstable Municipal Airport in Yarmouth, Massachusetts, killing both pilots on board.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Beech_1900D%2C_Air_New_Zealand_Link_%28Eagle_Airways%29_JP6920497.jpg/330px-Beech_1900D%2C_Air_New_Zealand_Link_%28Eagle_Airways%29_JP6920497.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 40
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 1978,
+      "description": "Papal conclave: Albino Luciani is elected as Pope John Paul I.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg/330px-Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 27
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1970,
+      "description": "The fiftieth anniversary of American women being able to vote is marked by a nationwide Women's Strike for Equality.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/1970s_women%27s_strike_poster_%28cropped%29.jpg/330px-1970s_women%27s_strike_poster_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 3
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1998,
+      "description": "The first flight of the Boeing Delta III ends in disaster 75 seconds after liftoff, resulting in the loss of the Galaxy X  communications satellite.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Delta_logo.png/330px-Delta_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 3
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1940,
+      "description": "World War II: Chad becomes the first French colony to join the Allies under the administration of Félix Éboué, France's first black colonial governor.",
       "image_url": ""
     },
-    "count": 31
+    "count": 15
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1914,
+      "description": "World War I: The German colony of Togoland surrenders to French and British forces after a 20-day campaign. Togoland is the first German colony to fall to Allied hands in World War I.",
+      "image_url": ""
+    },
+    "count": 3
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 1883,
+      "description": "The 1883 eruption of Krakatoa begins its final, paroxysmal, stage.",
+      "image_url": ""
+    },
+    "count": 2
   },
   "general-history": {
     "top_event": {
-      "year": 1916,
-      "description": "The United States National Park Service is created.",
+      "year": 1863,
+      "description": "The Swedish-language liberal newspaper Helsingfors Dagblad proposed the current blue-and-white cross flag as the flag of Finland.",
       "image_url": ""
     },
-    "count": 145
+    "count": 131
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 1748,
+      "description": "The first Lutheran denomination in North America, the Pennsylvania Ministerium, is founded in Philadelphia.",
+      "image_url": ""
+    },
+    "count": 8
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 2024,
+      "description": "Sid Eudy, American actor and professional wrestler (born 1960)",
+      "image_url": ""
+    },
+    "count": 40
+  },
+  "medicine-health": {
+    "top_event": {
+      "year": 1906,
+      "description": "Albert Sabin, Polish-American physician and virologist, developed the polio vaccine (died 1993)",
+      "image_url": ""
+    },
+    "count": 1
   }
 }
