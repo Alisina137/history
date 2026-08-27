@@ -1,146 +1,146 @@
 {
-  "true-crime": {
+  "natural-disasters": {
     "top_event": {
-      "year": 2023,
-      "description": "Exactly 5 years after the 2018 Jacksonville Landing shooting, there is another shooting in Jacksonville, Florida, leaving 3 people dead.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_Jacksonville_Landing%2C_Jacksonville_FL%2C_Southeast_view_20160706_1.jpg/330px-The_Jacksonville_Landing%2C_Jacksonville_FL%2C_Southeast_view_20160706_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2011,
+      "description": "Hurricane Irene strikes the United States east coast, killing 47 and causing an estimated $15.6 billion in damage.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Irene_2011-08-24_1810Z_%28alt_version%29.jpg/330px-Irene_2011-08-24_1810Z_%28alt_version%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 8
+    "count": 5
   },
   "art-architecture": {
     "top_event": {
-      "year": 2023,
-      "description": "Exactly 5 years after the 2018 Jacksonville Landing shooting, there is another shooting in Jacksonville, Florida, leaving 3 people dead.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_Jacksonville_Landing%2C_Jacksonville_FL%2C_Southeast_view_20160706_1.jpg/330px-The_Jacksonville_Landing%2C_Jacksonville_FL%2C_Southeast_view_20160706_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2011,
+      "description": "Hurricane Irene strikes the United States east coast, killing 47 and causing an estimated $15.6 billion in damage.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Irene_2011-08-24_1810Z_%28alt_version%29.jpg/330px-Irene_2011-08-24_1810Z_%28alt_version%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 30
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 2023,
-      "description": "Exactly 5 years after the 2018 Jacksonville Landing shooting, there is another shooting in Jacksonville, Florida, leaving 3 people dead.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_Jacksonville_Landing%2C_Jacksonville_FL%2C_Southeast_view_20160706_1.jpg/330px-The_Jacksonville_Landing%2C_Jacksonville_FL%2C_Southeast_view_20160706_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 28
+    "count": 34
   },
   "wars-battles": {
     "top_event": {
-      "year": 2021,
-      "description": "During the 2021 Kabul airlift, a suicide bombing at Hamid Karzai International Airport kills 13 US military personnel and at least 169 Afghan civilians.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Afghanistan_Evacuation_210821-M-GQ845-1035.jpg/330px-Afghanistan_Evacuation_210821-M-GQ845-1035.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 25
-  },
-  "literature-writers": {
-    "top_event": {
-      "year": 2014,
-      "description": "The Jay Report into the Rotherham child sexual exploitation scandal is published.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Rotherham_town_centre%2C_May_2010.jpg/330px-Rotherham_town_centre%2C_May_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 59
-  },
-  "archaeology-discoveries": {
-    "top_event": {
       "year": 2009,
-      "description": "Kidnapping victim Jaycee Dugard is discovered alive in California after being missing for over 18 years. Her captors, Phillip and Nancy Garrido, are apprehended.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Jaycee_Lee_Dugard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "description": "Internal conflict in Myanmar: The Burmese military junta and ethnic armies begin three days of violent clashes in the Kokang Special Region.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Myanmar_civil_war.svg/330px-Myanmar_civil_war.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 1
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 2003,
-      "description": "A Beechcraft 1900 operating as Colgan Air Flight 9446 crashes after taking off from Barnstable Municipal Airport in Yarmouth, Massachusetts, killing both pilots on board.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Beech_1900D%2C_Air_New_Zealand_Link_%28Eagle_Airways%29_JP6920497.jpg/330px-Beech_1900D%2C_Air_New_Zealand_Link_%28Eagle_Airways%29_JP6920497.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 16
-  },
-  "music-history": {
-    "top_event": {
-      "year": 2003,
-      "description": "A Beechcraft 1900 operating as Colgan Air Flight 9446 crashes after taking off from Barnstable Municipal Airport in Yarmouth, Massachusetts, killing both pilots on board.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Beech_1900D%2C_Air_New_Zealand_Link_%28Eagle_Airways%29_JP6920497.jpg/330px-Beech_1900D%2C_Air_New_Zealand_Link_%28Eagle_Airways%29_JP6920497.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 40
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 1978,
-      "description": "Papal conclave: Albino Luciani is elected as Pope John Paul I.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg/330px-Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 27
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 1970,
-      "description": "The fiftieth anniversary of American women being able to vote is marked by a nationwide Women's Strike for Equality.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/1970s_women%27s_strike_poster_%28cropped%29.jpg/330px-1970s_women%27s_strike_poster_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 3
+    "count": 32
   },
   "space-exploration": {
     "top_event": {
-      "year": 1998,
-      "description": "The first flight of the Boeing Delta III ends in disaster 75 seconds after liftoff, resulting in the loss of the Galaxy X  communications satellite.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Delta_logo.png/330px-Delta_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2003,
+      "description": "Mars makes its closest approach to Earth in nearly 60,000 years, passing 34,646,418 miles (55,758,005 km) distant.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/330px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 3
+    "count": 5
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 1991,
+      "description": "The European Community recognizes the independence of the Baltic states of Estonia, Latvia and Lithuania.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/330px-Flag_of_Europe.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 26
   },
   "inventions-technology": {
     "top_event": {
-      "year": 1940,
-      "description": "World War II: Chad becomes the first French colony to join the Allies under the administration of Félix Éboué, France's first black colonial governor.",
-      "image_url": ""
+      "year": 1985,
+      "description": "Space Shuttle Discovery is launched on STS-51-I to deploy three communication satellites and repair a fourth malfunctioning one.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 15
+    "count": 20
+  },
+  "true-crime": {
+    "top_event": {
+      "year": 1982,
+      "description": "Turkish military diplomat Colonel Atilla Altıkat is shot and killed in Ottawa. Justice Commandos of the Armenian Genocide claim to be avenging the massacre of 1+1⁄2 million Armenians in the 1915 Armenian genocide.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/US_Navy_100326-N-7058E-249_Lt._Cmdr._Matt_Weber%2C_executive_officer_of_the_littoral_combat_ship_USS_Freedom_%28LCS_1%29%2C_describes_the_ship%27s_Mk_110_57mm_gun.jpg/330px-US_Navy_100326-N-7058E-249_Lt._Cmdr._Matt_Weber%2C_executive_officer_of_the_littoral_combat_ship_USS_Freedom_%28LCS_1%29%2C_describes_the_ship%27s_Mk_110_57mm_gun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 5
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1979,
+      "description": "The Troubles: Eighteen British soldiers are killed at the Warrenpoint ambush by the Provisional Irish Republican Army near Warrenpoint, Northern Ireland, in the deadliest attack on British forces during Operation Banner. An IRA bomb also kills British royal family member Lord Mountbatten and three others on his boat at Mullaghmore, Republic of Ireland.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Map_of_Ireland%27s_capitals.png/330px-Map_of_Ireland%27s_capitals.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 45
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 1971,
+      "description": "An attempted coup d'état fails in the African nation of Chad. The Government of Chad accuses Egypt of playing a role in the attempt and breaks off diplomatic relations.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg/330px-Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 25
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 1963,
+      "description": "An explosion at the Cane Creek potash mine near Moab, Utah kills 18 miners.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Potash_evaporation_ponds_near_Moab%2C_Utah.jpg/330px-Potash_evaporation_ponds_near_Moab%2C_Utah.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 11
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 1955,
+      "description": "The first edition of the Guinness Book of Records is published in Great Britain.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Guinness_World_Records_logo.svg/330px-Guinness_World_Records_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 68
   },
   "firsts-in-history": {
     "top_event": {
-      "year": 1914,
-      "description": "World War I: The German colony of Togoland surrenders to French and British forces after a 20-day campaign. Togoland is the first German colony to fall to Allied hands in World War I.",
+      "year": 2003,
+      "description": "The first six-party talks, involving South and North Korea, the United States, China, Japan and Russia, convene to find a peaceful resolution to the security concerns of the North Korean nuclear weapons program.",
+      "image_url": ""
+    },
+    "count": 6
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1927,
+      "description": "Five Canadian women file a petition to the Supreme Court of Canada, asking: \"Does the word 'Persons' in Section 24 of the British North America Act, 1867, include female persons?\"",
+      "image_url": ""
+    },
+    "count": 6
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1915,
+      "description": "Attempted assassination of Bishop Patrick Heffron, bishop of the Diocese of Winona, by Rev. Louis M. Lesches.",
+      "image_url": ""
+    },
+    "count": 145
+  },
+  "archaeology-discoveries": {
+    "top_event": {
+      "year": 1859,
+      "description": "Petroleum is discovered in Titusville, Pennsylvania, leading to the world's first commercially successful oil well.",
       "image_url": ""
     },
     "count": 3
   },
-  "natural-disasters": {
+  "sports-history": {
     "top_event": {
-      "year": 1883,
-      "description": "The 1883 eruption of Krakatoa begins its final, paroxysmal, stage.",
+      "year": 2024,
+      "description": "Juan Izquierdo, Uruguayan footballer (born 1997)",
       "image_url": ""
     },
-    "count": 2
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1863,
-      "description": "The Swedish-language liberal newspaper Helsingfors Dagblad proposed the current blue-and-white cross flag as the flag of Finland.",
-      "image_url": ""
-    },
-    "count": 131
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 1748,
-      "description": "The first Lutheran denomination in North America, the Pennsylvania Ministerium, is founded in Philadelphia.",
-      "image_url": ""
-    },
-    "count": 8
+    "count": 38
   },
   "cinema-film": {
     "top_event": {
-      "year": 2024,
-      "description": "Sid Eudy, American actor and professional wrestler (born 1960)",
+      "year": 2007,
+      "description": "Ariana Greenblatt, American actress",
       "image_url": ""
     },
-    "count": 40
+    "count": 49
   },
   "medicine-health": {
     "top_event": {
       "year": 1906,
-      "description": "Albert Sabin, Polish-American physician and virologist, developed the polio vaccine (died 1993)",
+      "description": "Edmund Wojtyła, Polish doctor (died 1932)",
       "image_url": ""
     },
-    "count": 1
+    "count": 2
   }
 }
