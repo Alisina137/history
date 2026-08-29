@@ -1,138 +1,130 @@
 {
-  "general-history": {
-    "top_event": {
-      "year": 2022,
-      "description": "Phoenix shooting: A man opens fire on pedestrians outside of a hotel in Phoenix, Arizona, resulting in the deaths of three people, including the perpetrator.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Phoenix_shooting_perpetrator_2.jpg/330px-Phoenix_shooting_perpetrator_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 105
-  },
   "wars-battles": {
     "top_event": {
-      "year": 2017,
-      "description": "China–India border standoff: China and India both pull their troops out of Doklam, putting an end to a two-month-long stalemate over China's construction of a road in disputed territory.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Chinese_photograph_of_Indian_troops_at_Doklam_standoff.png/330px-Chinese_photograph_of_Indian_troops_at_Doklam_standoff.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 30
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 2016,
-      "description": "The first experimental mission of ISRO's Scramjet Engine towards the realisation of an Air Breathing Propulsion System is successfully conducted from Satish Dhawan Space Centre SHAR, Sriharikota.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Indian_Space_Research_Organisation_Logo.svg/330px-Indian_Space_Research_Organisation_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 8
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 2016,
-      "description": "The first experimental mission of ISRO's Scramjet Engine towards the realisation of an Air Breathing Propulsion System is successfully conducted from Satish Dhawan Space Centre SHAR, Sriharikota.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Indian_Space_Research_Organisation_Logo.svg/330px-Indian_Space_Research_Organisation_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 9
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 2003,
-      "description": "In \"one of the most complicated and bizarre crimes in the annals of the FBI\", Brian Wells dies after becoming involved in a complex plot involving a bank robbery, a scavenger hunt, and a homemade explosive device.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/New_seal_of_the_Federal_Bureau_of_Investigation.svg/330px-New_seal_of_the_Federal_Bureau_of_Investigation.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 6
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 2003,
-      "description": "In \"one of the most complicated and bizarre crimes in the annals of the FBI\", Brian Wells dies after becoming involved in a complex plot involving a bank robbery, a scavenger hunt, and a homemade explosive device.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/New_seal_of_the_Federal_Bureau_of_Investigation.svg/330px-New_seal_of_the_Federal_Bureau_of_Investigation.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 12
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 1998,
-      "description": "Pakistan's National Assembly passes a constitutional amendment to make the \"Qur'an and Sunnah\" the \"supreme law\" but the bill is defeated in the Senate.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/330px-Flag_of_Pakistan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 14
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 1993,
-      "description": "NASA's Galileo probe performs a flyby of the asteroid 243 Ida. Astronomers later discover a moon, the first known asteroid moon, in pictures from the flyby and name it Dactyl.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 4
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 1990,
-      "description": "An F5 tornado strikes the Illinois cities of Plainfield and Joliet, killing 29 people.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fujita_Plainfield_path.png/330px-Fujita_Plainfield_path.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 3
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 1973,
-      "description": "Norrmalmstorg robbery: Stockholm police secure the surrenders of hostage-takers Jan-Erik Olsson and Clark Olofsson, defusing the Norrmalmstorg hostage crisis. The behaviours of the hostages later give rise to the term Stockholm syndrome.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Norrmalmstorgsdramat%2C_AK4_skytt.png/330px-Norrmalmstorgsdramat%2C_AK4_skytt.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 26
-  },
-  "medicine-health": {
-    "top_event": {
-      "year": 1973,
-      "description": "Norrmalmstorg robbery: Stockholm police secure the surrenders of hostage-takers Jan-Erik Olsson and Clark Olofsson, defusing the Norrmalmstorg hostage crisis. The behaviours of the hostages later give rise to the term Stockholm syndrome.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Norrmalmstorgsdramat%2C_AK4_skytt.png/330px-Norrmalmstorgsdramat%2C_AK4_skytt.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 2
-  },
-  "art-architecture": {
-    "top_event": {
-      "year": 1996,
-      "description": "Chicago Seven defendant David Dellinger, antiwar activist Bradford Lyttle, Civil Rights Movement historian Randy Kryn, and eight others are arrested by the Federal Protective Service while protesting in a demonstration at the Kluczynski Federal Building in downtown Chicago during that year's Democratic National Convention.",
-      "image_url": ""
-    },
-    "count": 11
-  },
-  "literature-writers": {
-    "top_event": {
-      "year": 1957,
-      "description": "U.S. Senator Strom Thurmond begins a filibuster to prevent the United States Senate from voting on the Civil Rights Act of 1957; he stopped speaking 24 hours and 18 minutes later. This would remain the longest speech ever conducted by a single Senator until Cory Booker spoke for 25 hours and five minutes, beginning on March 31, 2025.",
-      "image_url": ""
-    },
-    "count": 40
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 1955,
-      "description": "Black teenager Emmett Till is lynched in Mississippi for whistling at a white woman, galvanizing the nascent civil rights movement.",
-      "image_url": ""
-    },
-    "count": 7
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 1859,
-      "description": "The Carrington event is the strongest geomagnetic storm on record to strike the Earth. Electrical telegraph service is widely disrupted.",
-      "image_url": ""
-    },
-    "count": 29
-  },
-  "cinema-film": {
-    "top_event": {
-      "year": 1850,
-      "description": "Richard Wagner's Lohengrin premieres at the Staatskapelle Weimar.",
-      "image_url": ""
+      "year": 2022,
+      "description": "Russo-Ukrainian war: Ukraine begins its southern counteroffensive in the Kherson Oblast, eventually culminating in the liberation of the city of Kherson.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 35
   },
-  "music-history": {
+  "art-architecture": {
     "top_event": {
-      "year": 1996,
-      "description": "Kim Se-jeong, South Korean actress and singer",
+      "year": 2022,
+      "description": "Russo-Ukrainian war: Ukraine begins its southern counteroffensive in the Kherson Oblast, eventually culminating in the liberation of the city of Kherson.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 35
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 2012,
+      "description": "The XIV Paralympic Games open in London, England, United Kingdom.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/London_Paralympics_2012.svg/330px-London_Paralympics_2012.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 31
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 2012,
+      "description": "The XIV Paralympic Games open in London, England, United Kingdom.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/London_Paralympics_2012.svg/330px-London_Paralympics_2012.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 27
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 2020,
+      "description": "2020 Women's FA Community Shield.",
       "image_url": ""
     },
-    "count": 26
+    "count": 2
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 2005,
+      "description": "Hurricane Katrina devastates much of the U.S. Gulf Coast from Louisiana to the Florida Panhandle, killing up to 1,392 people and causing $125 billion in damage.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Katrina_2005-08-28_1700Z.jpg/330px-Katrina_2005-08-28_1700Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 2
+  },
+  "true-crime": {
+    "top_event": {
+      "year": 2001,
+      "description": "Four people are killed when Binter Mediterráneo Flight 8261 crashes into the N-340 highway near Málaga Airport.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Binter_Mediterraneo_CASA_CN-235-100_EC-GEJ.jpg/330px-Binter_Mediterraneo_CASA_CN-235-100_EC-GEJ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 9
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1997,
+      "description": "Netflix is launched as an internet DVD rental service.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Netflix_UI_for_Web.png/330px-Netflix_UI_for_Web.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 16
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1997,
+      "description": "Netflix is launched as an internet DVD rental service.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Netflix_UI_for_Web.png/330px-Netflix_UI_for_Web.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 38
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 1991,
+      "description": "Supreme Soviet of the Soviet Union suspends all activities of the Soviet Communist Party.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Badge_of_the_Supreme_Soviet_of_the_Soviet_Union.svg/330px-Badge_of_the_Supreme_Soviet_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 25
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 1970,
+      "description": "Chicano Moratorium against the Vietnam War, East Los Angeles, California. Police riot kills three people, including journalist Rubén Salazar.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/1969_National_Chicano_Moratorium_Committee_Pinback_Button.jpg/330px-1969_National_Chicano_Moratorium_Committee_Pinback_Button.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 69
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1965,
+      "description": "The Gemini V spacecraft returns to Earth, landing in the Atlantic Ocean.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/S65-45753.jpg/330px-S65-45753.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 3
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1982,
+      "description": "Meitnerium, a synthetic chemical element with the atomic number 109, is first synthesized at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany.",
+      "image_url": ""
+    },
+    "count": 8
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1960,
+      "description": "Air France Flight 343 crashes on approach to Yoff Airport in Senegal, killing all 63 aboard.",
+      "image_url": ""
+    },
+    "count": 139
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 1952,
+      "description": "American experimental composer John Cage's 4’33” premieres at Maverick Concert Hall, played by American pianist David Tudor.",
+      "image_url": ""
+    },
+    "count": 46
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 1898,
+      "description": "The Goodyear tire company is founded in Akron, Ohio.",
+      "image_url": ""
+    },
+    "count": 22
   }
 }
