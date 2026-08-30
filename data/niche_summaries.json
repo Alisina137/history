@@ -1,130 +1,146 @@
 {
   "wars-battles": {
     "top_event": {
-      "year": 2022,
-      "description": "Russo-Ukrainian war: Ukraine begins its southern counteroffensive in the Kherson Oblast, eventually culminating in the liberation of the city of Kherson.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2023,
+      "description": "Gabonese coup d'état: After Ali Bongo Ondimba's reelection, a military coup ousts him, ending 56 years of Bongo family rule in Gabon.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Topographic_map_of_Gabon-fr.svg/330px-Topographic_map_of_Gabon-fr.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 35
+    "count": 34
   },
   "art-architecture": {
     "top_event": {
-      "year": 2022,
-      "description": "Russo-Ukrainian war: Ukraine begins its southern counteroffensive in the Kherson Oblast, eventually culminating in the liberation of the city of Kherson.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2023,
+      "description": "Gabonese coup d'état: After Ali Bongo Ondimba's reelection, a military coup ousts him, ending 56 years of Bongo family rule in Gabon.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Topographic_map_of_Gabon-fr.svg/330px-Topographic_map_of_Gabon-fr.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 35
   },
-  "sports-history": {
+  "politics-revolutions": {
     "top_event": {
-      "year": 2012,
-      "description": "The XIV Paralympic Games open in London, England, United Kingdom.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/London_Paralympics_2012.svg/330px-London_Paralympics_2012.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2023,
+      "description": "Gabonese coup d'état: After Ali Bongo Ondimba's reelection, a military coup ousts him, ending 56 years of Bongo family rule in Gabon.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Topographic_map_of_Gabon-fr.svg/330px-Topographic_map_of_Gabon-fr.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 31
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 2012,
-      "description": "The XIV Paralympic Games open in London, England, United Kingdom.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/London_Paralympics_2012.svg/330px-London_Paralympics_2012.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 27
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 2020,
-      "description": "2020 Women's FA Community Shield.",
-      "image_url": ""
-    },
-    "count": 2
+    "count": 23
   },
   "natural-disasters": {
     "top_event": {
-      "year": 2005,
-      "description": "Hurricane Katrina devastates much of the U.S. Gulf Coast from Louisiana to the Florida Panhandle, killing up to 1,392 people and causing $125 billion in damage.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Katrina_2005-08-28_1700Z.jpg/330px-Katrina_2005-08-28_1700Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2008,
+      "description": "A Conviasa Boeing 737 crashes into Illiniza Volcano in Ecuador, killing all three people on board.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Conviasa_Airbus_A340-211_Ramirez-1.jpg/330px-Conviasa_Airbus_A340-211_Ramirez-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 2
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 2001,
-      "description": "Four people are killed when Binter Mediterráneo Flight 8261 crashes into the N-340 highway near Málaga Airport.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Binter_Mediterraneo_CASA_CN-235-100_EC-GEJ.jpg/330px-Binter_Mediterraneo_CASA_CN-235-100_EC-GEJ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 9
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 1997,
-      "description": "Netflix is launched as an internet DVD rental service.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Netflix_UI_for_Web.png/330px-Netflix_UI_for_Web.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 16
+    "count": 1
   },
   "music-history": {
     "top_event": {
-      "year": 1997,
-      "description": "Netflix is launched as an internet DVD rental service.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Netflix_UI_for_Web.png/330px-Netflix_UI_for_Web.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1995,
+      "description": "Bosnian War: NATO launches Operation Deliberate Force against Bosnian Serb forces.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Krupa_nakon_rata.JPG/330px-Krupa_nakon_rata.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 38
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 1991,
-      "description": "Supreme Soviet of the Soviet Union suspends all activities of the Soviet Communist Party.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Badge_of_the_Supreme_Soviet_of_the_Soviet_Union.svg/330px-Badge_of_the_Supreme_Soviet_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 25
+    "count": 40
   },
   "literature-writers": {
     "top_event": {
-      "year": 1970,
-      "description": "Chicano Moratorium against the Vietnam War, East Los Angeles, California. Police riot kills three people, including journalist Rubén Salazar.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/1969_National_Chicano_Moratorium_Committee_Pinback_Button.jpg/330px-1969_National_Chicano_Moratorium_Committee_Pinback_Button.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1992,
+      "description": "The 11-day Ruby Ridge standoff ends with Randy Weaver surrendering to federal authorities.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/VickiWeaverLastPhoto1992.jpg/330px-VickiWeaverLastPhoto1992.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 69
+    "count": 56
   },
   "space-exploration": {
     "top_event": {
-      "year": 1965,
-      "description": "The Gemini V spacecraft returns to Earth, landing in the Atlantic Ocean.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/S65-45753.jpg/330px-S65-45753.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1984,
+      "description": "STS-41-D: The Space Shuttle Discovery takes off on its maiden voyage.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/STS41D-01-021.jpg/330px-STS41D-01-021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 3
+    "count": 7
   },
-  "firsts-in-history": {
+  "inventions-technology": {
     "top_event": {
-      "year": 1982,
-      "description": "Meitnerium, a synthetic chemical element with the atomic number 109, is first synthesized at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany.",
-      "image_url": ""
+      "year": 1983,
+      "description": "STS-8: The Space Shuttle Challenger takes off on the first night launch of the shuttle program. Guion Bluford becomes the first African-American in space on this mission.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/View_of_the_INSAT-1B_PAM-D_being_deployed_S08-49-1722.jpg/330px-View_of_the_INSAT-1B_PAM-D_being_deployed_S08-49-1722.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 8
+    "count": 9
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 1981,
+      "description": "President Mohammad-Ali Rajai and Prime Minister Mohammad-Javad Bahonar of Iran are assassinated in a bombing. The office of Iran's Prosecutor General blames the People's Mujahedin of Iran.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Mohammad-Ali_Rajai_picture.jpg/330px-Mohammad-Ali_Rajai_picture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 18
+  },
+  "true-crime": {
+    "top_event": {
+      "year": 1974,
+      "description": "A powerful bomb explodes at the Mitsubishi Heavy Industries headquarters in Marunouchi, Tokyo. Eight are killed, 378 are injured. Eight left-wing activists are arrested on May 19, 1975, by Japanese authorities.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Marunouchi_2chome_Building_2012-10-08.JPG/330px-Marunouchi_2chome_Building_2012-10-08.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 4
+  },
+  "medicine-health": {
+    "top_event": {
+      "year": 1959,
+      "description": "South Vietnamese opposition figure Phan Quang Dan is elected to the National Assembly despite soldiers being bussed in to vote for President Ngo Dinh Diem's candidate.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a1/Phan_Quang_%C4%90%C3%A1n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "count": 2
   },
   "general-history": {
     "top_event": {
-      "year": 1960,
-      "description": "Air France Flight 343 crashes on approach to Yoff Airport in Senegal, killing all 63 aboard.",
+      "year": 1945,
+      "description": "The Japanese occupation of Hong Kong comes to an end.",
       "image_url": ""
     },
-    "count": 139
+    "count": 148
   },
-  "cinema-film": {
+  "women-in-history": {
     "top_event": {
-      "year": 1952,
-      "description": "American experimental composer John Cage's 4’33” premieres at Maverick Concert Hall, played by American pianist David Tudor.",
+      "year": 1936,
+      "description": "The RMS Queen Mary wins the Blue Riband by setting the fastest transatlantic crossing.",
       "image_url": ""
     },
-    "count": 46
+    "count": 2
+  },
+  "archaeology-discoveries": {
+    "top_event": {
+      "year": 1909,
+      "description": "Burgess Shale fossils are discovered by Charles Doolittle Walcott.",
+      "image_url": ""
+    },
+    "count": 2
   },
   "business-economics": {
     "top_event": {
-      "year": 1898,
-      "description": "The Goodyear tire company is founded in Akron, Ohio.",
+      "year": 1836,
+      "description": "The city of Houston is founded by Augustus Chapman Allen and John Kirby Allen.",
       "image_url": ""
     },
-    "count": 22
+    "count": 14
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1813,
+      "description": "First Battle of Kulm: French forces are defeated by an Austrian-Prussian-Russian alliance.",
+      "image_url": ""
+    },
+    "count": 2
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1808,
+      "description": "The convention of Cintra allows the defeated French troops to be transported out of Iberia on British ships, including their loot.",
+      "image_url": ""
+    },
+    "count": 34
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 2019,
+      "description": "Valerie Harper, American actress and writer (born 1939)",
+      "image_url": ""
+    },
+    "count": 55
   }
 }
