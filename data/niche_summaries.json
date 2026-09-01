@@ -1,136 +1,144 @@
 {
   "art-architecture": {
     "top_event": {
-      "year": 2025,
-      "description": "A landslide in the Darfur region of Sudan kills over 1000 people.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ISS012-E-6198_-_View_of_Sudan.jpg/330px-ISS012-E-6198_-_View_of_Sudan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2008,
+      "description": "Iraq War: The United States Armed Forces transfers control of Anbar Province to the Iraqi Armed Forces.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/330px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 45
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 2016,
-      "description": "Brazil's President Dilma Rousseff is impeached and removed from office.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dilma_Rousseff_-_foto_oficial_2011-01-09.jpg/330px-Dilma_Rousseff_-_foto_oficial_2011-01-09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 6
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 2016,
-      "description": "Brazil's President Dilma Rousseff is impeached and removed from office.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dilma_Rousseff_-_foto_oficial_2011-01-09.jpg/330px-Dilma_Rousseff_-_foto_oficial_2011-01-09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 27
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 2025,
-      "description": "An earthquake in eastern Afghanistan kills over 1400 people.",
-      "image_url": ""
-    },
-    "count": 3
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 1999,
-      "description": "The first of a series of bombings in Moscow kills one person and wounds 40 others.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Apartment_bombing.jpg/330px-Apartment_bombing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 2
+    "count": 41
   },
   "wars-battles": {
     "top_event": {
-      "year": 1999,
-      "description": "The first of a series of bombings in Moscow kills one person and wounds 40 others.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Apartment_bombing.jpg/330px-Apartment_bombing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2008,
+      "description": "Iraq War: The United States Armed Forces transfers control of Anbar Province to the Iraqi Armed Forces.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/330px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 25
+    "count": 21
   },
-  "business-economics": {
-    "top_event": {
-      "year": 1999,
-      "description": "A LAPA Boeing 737-200 crashes during takeoff from Jorge Newbury Airport in Buenos Aires, killing 65, including two on the ground.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/LAPA_Boeing_737-76N%3B_LV-ZHX%40AEP%2C_February_2001_CLA_%285288392407%29.jpg/330px-LAPA_Boeing_737-76N%3B_LV-ZHX%40AEP%2C_February_2001_CLA_%285288392407%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 9
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1972,
-      "description": "Aeroflot Flight 558 crashes in the Abzelilovsky District in Bashkortostan, Russia (then the Soviet Union), killing all 102 people aboard.",
-      "image_url": ""
-    },
-    "count": 167
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 1959,
-      "description": "A parcel bomb sent by Ngô Đình Nhu, younger brother and chief adviser of South Vietnamese President Ngô Đình Diệm, fails to kill King Norodom Sihanouk of Cambodia.",
-      "image_url": ""
-    },
-    "count": 33
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 1943,
-      "description": "USS Harmon, the first U.S. Navy ship to be named after a black person, is commissioned.",
-      "image_url": ""
-    },
-    "count": 13
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 1943,
-      "description": "USS Harmon, the first U.S. Navy ship to be named after a black person, is commissioned.",
-      "image_url": ""
-    },
-    "count": 6
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 2024,
-      "description": "Sol Bamba, Ivorian-French footballer (born 1985)",
-      "image_url": ""
-    },
-    "count": 35
-  },
-  "cinema-film": {
-    "top_event": {
-      "year": 2023,
-      "description": "Silvina Luna, Argentine model and actress (born 1980)",
-      "image_url": ""
-    },
-    "count": 48
-  },
-  "music-history": {
+  "true-crime": {
     "top_event": {
       "year": 2004,
-      "description": "Jang Won-young, South Korean singer and model",
-      "image_url": ""
-    },
-    "count": 40
-  },
-  "literature-writers": {
-    "top_event": {
-      "year": 2014,
-      "description": "Bapu, Indian director and screenwriter (born 1933)",
-      "image_url": ""
-    },
-    "count": 54
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 1953,
-      "description": "Pavel Vinogradov, Russian astronaut and engineer",
-      "image_url": ""
+      "description": "The Beslan school siege begins when armed terrorists take schoolchildren and school staff hostage in North Ossetia, Russia; by the end of the siege, three days later, more than 385 people are dead (including hostages, other civilians, security personnel and terrorists).",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Beslan_foto_pogibshih.jpg/330px-Beslan_foto_pogibshih.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 2
   },
-  "strange-unexplained": {
+  "archaeology-discoveries": {
     "top_event": {
-      "year": 1946,
-      "description": "Jerome Corsi, American conspiracy theorist and author",
+      "year": 1985,
+      "description": "The wreck of the Titanic is discovered by an American-French expedition led by Robert Ballard and Jean-Louis Michel.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/RMS_Titanic_3_%28cropped_to_ship%29.jpg/330px-RMS_Titanic_3_%28cropped_to_ship%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 2
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 1983,
+      "description": "Cold War: Korean Air Lines Flight 007 is shot down by a Soviet jet fighter after the commercial aircraft strayed into Soviet airspace, killing all 269 on board, including Congressman Lawrence McDonald.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/NATO_vs._Warsaw_Pact_%281949-1990%29.svg/330px-NATO_vs._Warsaw_Pact_%281949-1990%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 20
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1982,
+      "description": "The United States Air Force Space Command is founded.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/USSF_Combat_Forces_Command_emblem.png/330px-USSF_Combat_Forces_Command_emblem.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 3
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 1969,
+      "description": "A coup in Libya brings Muammar Gaddafi to power.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nasser_Qaddafi_Atassi_1969.jpg/330px-Nasser_Qaddafi_Atassi_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 51
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1961,
+      "description": "TWA Flight 529 crashed shortly after takeoff from Midway Airport in Chicago, killing all 78 people on board. At the time, it was the deadliest single plane disaster in U.S. history.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Chicago_Midway_Airport_-_TWA_Lockheed_L-049_Constellation_N86511_-_Flight_529.jpg/330px-Chicago_Midway_Airport_-_TWA_Lockheed_L-049_Constellation_N86511_-_Flight_529.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 10
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 1961,
+      "description": "TWA Flight 529 crashed shortly after takeoff from Midway Airport in Chicago, killing all 78 people on board. At the time, it was the deadliest single plane disaster in U.S. history.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Chicago_Midway_Airport_-_TWA_Lockheed_L-049_Constellation_N86511_-_Flight_529.jpg/330px-Chicago_Midway_Airport_-_TWA_Lockheed_L-049_Constellation_N86511_-_Flight_529.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 5
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1944,
+      "description": "World War II: Launch of Operation Ratweek, complicating German retreat.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 47
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1939,
+      "description": "J. Robert Oppenheimer and his student Hartland Snyder publish the Oppenheimer–Snyder model, proving for the first time in contemporary physics how black holes could develop.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Oppenheimer_%28cropped%29.jpg/330px-Oppenheimer_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 4
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 1880,
+      "description": "The army of Mohammad Ayub Khan is routed by the British at the Battle of Kandahar, ending the Second Anglo-Afghan War.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/MohammadAyoubKhan.jpg/330px-MohammadAyoubKhan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 19
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1878,
+      "description": "Emma Nutt becomes the world's first female telephone operator when she is recruited by Alexander Graham Bell to the Boston Telephone Dispatch Company.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Emma_Nutt_circa_1878-1900.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "count": 4
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1859,
+      "description": "Carrington Event started - the most intense geomagnetic storm in recorded history.",
+      "image_url": ""
+    },
+    "count": 37
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1838,
+      "description": "Saint Andrew's Scots School, the oldest school of British origin in South America, is established.",
+      "image_url": ""
+    },
+    "count": 142
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 1772,
+      "description": "The Mission San Luis Obispo de Tolosa is founded in San Luis Obispo, California.",
+      "image_url": ""
+    },
+    "count": 12
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 2025,
+      "description": "Joe Bugner, Hungarian-British boxer and actor (born 1950)",
+      "image_url": ""
+    },
+    "count": 44
+  },
+  "medicine-health": {
+    "top_event": {
+      "year": 1327,
+      "description": "Foulques de Villaret, Grand Master of the Knights Hospitaller",
       "image_url": ""
     },
     "count": 1
