@@ -1,128 +1,128 @@
 {
   "art-architecture": {
     "top_event": {
-      "year": 2017,
-      "description": "North Korea conducts its sixth and most powerful nuclear test.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Flag_of_North_Korea_%2820-33%29.svg/330px-Flag_of_North_Korea_%2820-33%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2024,
+      "description": "A 14-year-old gunman kills four people and injures seven in a mass shooting at Apalachee High School near Winder, Georgia.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Colt_Gray_in_Hallway.png/330px-Colt_Gray_in_Hallway.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 40
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 2010,
-      "description": "After taking off from Dubai International Airport, UPS Airlines Flight 6 develops an in-flight fire in the cargo hold and crashes near Nad Al Sheba, killing both crew members on board.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DXB_word_mark.svg/330px-DXB_word_mark.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 22
+    "count": 42
   },
   "true-crime": {
     "top_event": {
-      "year": 2004,
-      "description": "Beslan school siege results in over 330 fatalities, including 186 children.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Beslan_foto_pogibshih.jpg/330px-Beslan_foto_pogibshih.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2024,
+      "description": "A 14-year-old gunman kills four people and injures seven in a mass shooting at Apalachee High School near Winder, Georgia.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Colt_Gray_in_Hallway.png/330px-Colt_Gray_in_Hallway.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 6
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 2004,
-      "description": "Beslan school siege results in over 330 fatalities, including 186 children.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Beslan_foto_pogibshih.jpg/330px-Beslan_foto_pogibshih.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 29
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 1981,
-      "description": "The Convention on the Elimination of All Forms of Discrimination Against Women, an international bill of rights for women, is instituted by the United Nations.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/CEDAW_Participation.svg/330px-CEDAW_Participation.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 3
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 1981,
-      "description": "The Convention on the Elimination of All Forms of Discrimination Against Women, an international bill of rights for women, is instituted by the United Nations.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/CEDAW_Participation.svg/330px-CEDAW_Participation.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 20
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 1976,
-      "description": "Viking program: The American Viking 2 spacecraft lands at Utopia Planitia on Mars.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Viking_Orbiter_releasing_the_lander.jpg/330px-Viking_Orbiter_releasing_the_lander.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 2
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 1954,
-      "description": "The People's Liberation Army begins shelling the Republic of China-controlled islands of Quemoy, starting the First Taiwan Strait Crisis.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/China_Emblem_PLA_shaded.svg/330px-China_Emblem_PLA_shaded.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 13
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 1950,
-      "description": "\"Nino\" Farina becomes the first Formula One Drivers' champion after winning the 1950 Italian Grand Prix.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Giuseppe_Farina_-_El_Gr%C3%A1fico_1750.jpg/330px-Giuseppe_Farina_-_El_Gr%C3%A1fico_1750.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 8
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 1944,
-      "description": "Holocaust: Diarist Anne Frank and her family are placed on the last transport train from the Westerbork transit camp to the Auschwitz concentration camp, arriving three days later.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg/330px-The_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 43
-  },
-  "music-history": {
-    "top_event": {
-      "year": 1943,
-      "description": "World War II: British and Canadian troops land on the Italian mainland. On the same day, Walter Bedell Smith and Giuseppe Castellano sign the Armistice of Cassibile, although it is not announced for another five days.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/The_Allied_Landings_in_Italy%2C_September_1943-_Reggio%2C_Taranto_and_Salerno_NA6258.jpg/330px-The_Allied_Landings_in_Italy%2C_September_1943-_Reggio%2C_Taranto_and_Salerno_NA6258.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 44
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1941,
-      "description": "The Holocaust: Karl Fritzsch, deputy camp commandant of the Auschwitz concentration camp, experiments with the use of Zyklon B in the gassing of Soviet POWs.",
-      "image_url": ""
-    },
-    "count": 131
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 301,
-      "description": "San Marino, one of the smallest nations in the world and the world's oldest republic still in existence, is founded by Saint Marinus.",
-      "image_url": ""
-    },
-    "count": 23
+    "count": 4
   },
   "literature-writers": {
     "top_event": {
-      "year": 2017,
-      "description": "Walter Becker, American musician, songwriter, and record producer  (born 1950)",
-      "image_url": ""
+      "year": 2020,
+      "description": "Pope Benedict XVI becomes the longest-lived pope, 93 years, four months, 16 days, surpassing Pope Leo XIII, who died in 1903.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Benedykt_XVI_%282010-10-17%29_2.jpg/330px-Benedykt_XVI_%282010-10-17%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 62
+    "count": 69
+  },
+  "wars-battles": {
+    "top_event": {
+      "year": 2007,
+      "description": "Three terrorists suspected to be a part of Al-Qaeda are arrested in Germany after allegedly planning attacks on both the Frankfurt International airport and US military installations.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Jihad.svg/330px-Flag_of_Jihad.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 24
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 2002,
+      "description": "The Oakland Athletics win their 20th consecutive game, an American League record, until the Cleveland Indians surpassed it in 2017.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/330px-Oakland_A%27s_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 39
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 1998,
+      "description": "Google is founded by Larry Page and Sergey Brin, two PhD students at Stanford University.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/330px-Googleplex_HQ_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 12
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1989,
+      "description": "In Leipzig, East Germany, the first of weekly demonstration for the legalisation of opposition groups and democratic reforms takes place.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blick_vom_City-Hochhaus_Leipzig_05.jpg/330px-Blick_vom_City-Hochhaus_Leipzig_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 26
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1989,
+      "description": "In Leipzig, East Germany, the first of weekly demonstration for the legalisation of opposition groups and democratic reforms takes place.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blick_vom_City-Hochhaus_Leipzig_05.jpg/330px-Blick_vom_City-Hochhaus_Leipzig_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 11
   },
   "cinema-film": {
     "top_event": {
-      "year": 2003,
-      "description": "Jack Dylan Grazer, American actor",
-      "image_url": ""
+      "year": 1972,
+      "description": "The Price Is Right premieres on CBS. It currently is the longest running game show on American television.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TPIR_Wordmark.svg/330px-TPIR_Wordmark.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 44
+    "count": 42
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 1970,
+      "description": "Salvador Allende is elected President of Chile.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Salvador_Allende_Gossens-.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "count": 26
   },
   "medicine-health": {
     "top_event": {
-      "year": 1957,
-      "description": "Earl Cureton, American basketball player and coach (died 2024)",
+      "year": 1970,
+      "description": "Salvador Allende is elected President of Chile.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Salvador_Allende_Gossens-.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "count": 2
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1967,
+      "description": "Vietnam War: Operation Swift begins when U.S. Marines engage the North Vietnamese in battle in the Que Son Valley.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 51
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 1948,
+      "description": "Queen Wilhelmina of the Netherlands abdicates for health reasons.",
+      "image_url": ""
+    },
+    "count": 22
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1948,
+      "description": "Queen Wilhelmina of the Netherlands abdicates for health reasons.",
+      "image_url": ""
+    },
+    "count": 5
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1827,
+      "description": "The Great Fire of Turku almost completely destroys Finland's former capital city.",
+      "image_url": ""
+    },
+    "count": 140
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1984,
+      "description": "Kyle Mooney, American comedian, actor, and screenwriter",
       "image_url": ""
     },
     "count": 2
