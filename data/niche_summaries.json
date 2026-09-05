@@ -1,130 +1,138 @@
 {
   "art-architecture": {
     "top_event": {
-      "year": 2024,
-      "description": "A 14-year-old gunman kills four people and injures seven in a mass shooting at Apalachee High School near Winder, Georgia.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Colt_Gray_in_Hallway.png/330px-Colt_Gray_in_Hallway.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2022,
+      "description": "Liz Truss is declared the winner of the UK Conservative Party leadership election, beating Rishi Sunak.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg/330px-Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 42
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 2024,
-      "description": "A 14-year-old gunman kills four people and injures seven in a mass shooting at Apalachee High School near Winder, Georgia.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Colt_Gray_in_Hallway.png/330px-Colt_Gray_in_Hallway.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 4
-  },
-  "literature-writers": {
-    "top_event": {
-      "year": 2020,
-      "description": "Pope Benedict XVI becomes the longest-lived pope, 93 years, four months, 16 days, surpassing Pope Leo XIII, who died in 1903.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Benedykt_XVI_%282010-10-17%29_2.jpg/330px-Benedykt_XVI_%282010-10-17%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 69
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 2007,
-      "description": "Three terrorists suspected to be a part of Al-Qaeda are arrested in Germany after allegedly planning attacks on both the Frankfurt International airport and US military installations.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Jihad.svg/330px-Flag_of_Jihad.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 24
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 2002,
-      "description": "The Oakland Athletics win their 20th consecutive game, an American League record, until the Cleveland Indians surpassed it in 2017.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/330px-Oakland_A%27s_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 39
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 1998,
-      "description": "Google is founded by Larry Page and Sergey Brin, two PhD students at Stanford University.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/330px-Googleplex_HQ_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 12
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 1989,
-      "description": "In Leipzig, East Germany, the first of weekly demonstration for the legalisation of opposition groups and democratic reforms takes place.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blick_vom_City-Hochhaus_Leipzig_05.jpg/330px-Blick_vom_City-Hochhaus_Leipzig_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 26
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 1989,
-      "description": "In Leipzig, East Germany, the first of weekly demonstration for the legalisation of opposition groups and democratic reforms takes place.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blick_vom_City-Hochhaus_Leipzig_05.jpg/330px-Blick_vom_City-Hochhaus_Leipzig_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 11
-  },
-  "cinema-film": {
-    "top_event": {
-      "year": 1972,
-      "description": "The Price Is Right premieres on CBS. It currently is the longest running game show on American television.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TPIR_Wordmark.svg/330px-TPIR_Wordmark.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 42
+    "count": 41
   },
   "politics-revolutions": {
     "top_event": {
-      "year": 1970,
-      "description": "Salvador Allende is elected President of Chile.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Salvador_Allende_Gossens-.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "year": 2022,
+      "description": "Liz Truss is declared the winner of the UK Conservative Party leadership election, beating Rishi Sunak.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg/330px-Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 26
   },
-  "medicine-health": {
+  "women-in-history": {
     "top_event": {
-      "year": 1970,
-      "description": "Salvador Allende is elected President of Chile.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Salvador_Allende_Gossens-.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "year": 2022,
+      "description": "Liz Truss is declared the winner of the UK Conservative Party leadership election, beating Rishi Sunak.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg/330px-Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 6
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 2022,
+      "description": "At least 93 people die and 25 are missing after a magnitude 6.8 earthquake strikes Sichuan, China.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2022_Luding_earthquake_-_street_damage.png/330px-2022_Luding_earthquake_-_street_damage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 2
   },
-  "music-history": {
+  "literature-writers": {
     "top_event": {
-      "year": 1967,
-      "description": "Vietnam War: Operation Swift begins when U.S. Marines engage the North Vietnamese in battle in the Que Son Valley.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2022,
+      "description": "At least 93 people die and 25 are missing after a magnitude 6.8 earthquake strikes Sichuan, China.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2022_Luding_earthquake_-_street_damage.png/330px-2022_Luding_earthquake_-_street_damage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 51
+    "count": 76
+  },
+  "wars-battles": {
+    "top_event": {
+      "year": 2012,
+      "description": "An accidental explosion at a Turkish Army ammunition store in Afyon, western Turkey kills 25 soldiers and wounds four others.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Latrans-Turkey_location_Afyonkarahisar.svg/330px-Latrans-Turkey_location_Afyonkarahisar.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 32
+  },
+  "true-crime": {
+    "top_event": {
+      "year": 1996,
+      "description": "Hurricane Fran makes landfall near Cape Fear, North Carolina as a Category 3 storm with 115 mph sustained winds. Fran caused over $3 billion in damage and killed 27 people.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fran_1996-09-04_1515Z.png/330px-Fran_1996-09-04_1515Z.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 8
   },
   "empires-dynasties": {
     "top_event": {
-      "year": 1948,
-      "description": "Queen Wilhelmina of the Netherlands abdicates for health reasons.",
-      "image_url": ""
+      "year": 1986,
+      "description": "Pan Am Flight 73 from Mumbai, India with 358 people on board is hijacked at Karachi International Airport.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/N656PA_Boeing_747-121%2C_Miami_International%2C_1983.jpg/330px-N656PA_Boeing_747-121%2C_Miami_International%2C_1983.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 22
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 1948,
-      "description": "Queen Wilhelmina of the Netherlands abdicates for health reasons.",
-      "image_url": ""
-    },
-    "count": 5
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1827,
-      "description": "The Great Fire of Turku almost completely destroys Finland's former capital city.",
-      "image_url": ""
-    },
-    "count": 140
+    "count": 18
   },
   "space-exploration": {
     "top_event": {
       "year": 1984,
-      "description": "Kyle Mooney, American comedian, actor, and screenwriter",
+      "description": "STS-41-D: The Space Shuttle Discovery lands after its maiden voyage.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/STS41D-01-021.jpg/330px-STS41D-01-021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 5
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1981,
+      "description": "The first women arrive at what becomes Greenham Common Women's Peace Camp in the UK.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Greenham_Common_women%27s_protest_1982%2C_gathering_around_the_base_-_geograph.org.uk_-_759136.jpg/330px-Greenham_Common_women%27s_protest_1982%2C_gathering_around_the_base_-_geograph.org.uk_-_759136.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 11
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1972,
+      "description": "Munich massacre: A Palestinian terrorist group called \"Black September\" attacks and takes hostage 11 Israeli athletes at the Munich Olympic Games. Two die in the attack and nine are murdered the following day.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Germany_Israel_Olympics_Attack.jpg/330px-Germany_Israel_Olympics_Attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 40
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1970,
+      "description": "Vietnam War: Operation Jefferson Glenn begins: The United States 101st Airborne Division and the South Vietnamese 1st Infantry Division initiate a new operation in Thừa Thiên–Huế Province.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 58
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1954,
+      "description": "KLM Flight 633 crashes into the River Shannon in Shannon, County Clare, Ireland, killing 28.",
       "image_url": ""
     },
-    "count": 2
+    "count": 181
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1942,
+      "description": "World War II: Japanese high command orders withdrawal at Milne Bay, the first major Japanese defeat in land warfare during the Pacific War.",
+      "image_url": ""
+    },
+    "count": 5
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 2024,
+      "description": "Laurent Tirard, French film director and screenwriter (born 1967)",
+      "image_url": ""
+    },
+    "count": 58
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 2015,
+      "description": "Goh Eng Wah, Malaysian-Singaporean businessman, founded Eng Wah Global (born 1923)",
+      "image_url": ""
+    },
+    "count": 16
+  },
+  "medicine-health": {
+    "top_event": {
+      "year": 1999,
+      "description": "Alan Clark, English historian and politician, Minister for Defence Procurement (born 1928)",
+      "image_url": ""
+    },
+    "count": 1
   }
 }
