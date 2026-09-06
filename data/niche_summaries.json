@@ -1,136 +1,144 @@
 {
-  "art-architecture": {
-    "top_event": {
-      "year": 2022,
-      "description": "Liz Truss is declared the winner of the UK Conservative Party leadership election, beating Rishi Sunak.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg/330px-Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 41
-  },
   "politics-revolutions": {
     "top_event": {
       "year": 2022,
-      "description": "Liz Truss is declared the winner of the UK Conservative Party leadership election, beating Rishi Sunak.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg/330px-Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "description": "Boris Johnson resigns as Prime Minister of the United Kingdom, and is replaced by Liz Truss. Their meetings with Queen Elizabeth II at Balmoral Castle were the Queen's final official duties before her death two days later.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/330px-Boris_Johnson_official_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 26
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 2022,
-      "description": "Liz Truss is declared the winner of the UK Conservative Party leadership election, beating Rishi Sunak.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg/330px-Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 6
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 2022,
-      "description": "At least 93 people die and 25 are missing after a magnitude 6.8 earthquake strikes Sichuan, China.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2022_Luding_earthquake_-_street_damage.png/330px-2022_Luding_earthquake_-_street_damage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 2
   },
   "literature-writers": {
     "top_event": {
       "year": 2022,
-      "description": "At least 93 people die and 25 are missing after a magnitude 6.8 earthquake strikes Sichuan, China.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2022_Luding_earthquake_-_street_damage.png/330px-2022_Luding_earthquake_-_street_damage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "description": "Boris Johnson resigns as Prime Minister of the United Kingdom, and is replaced by Liz Truss. Their meetings with Queen Elizabeth II at Balmoral Castle were the Queen's final official duties before her death two days later.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/330px-Boris_Johnson_official_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 76
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 2012,
-      "description": "An accidental explosion at a Turkish Army ammunition store in Afyon, western Turkey kills 25 soldiers and wounds four others.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Latrans-Turkey_location_Afyonkarahisar.svg/330px-Latrans-Turkey_location_Afyonkarahisar.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 32
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 1996,
-      "description": "Hurricane Fran makes landfall near Cape Fear, North Carolina as a Category 3 storm with 115 mph sustained winds. Fran caused over $3 billion in damage and killed 27 people.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fran_1996-09-04_1515Z.png/330px-Fran_1996-09-04_1515Z.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 8
+    "count": 66
   },
   "empires-dynasties": {
     "top_event": {
-      "year": 1986,
-      "description": "Pan Am Flight 73 from Mumbai, India with 358 people on board is hijacked at Karachi International Airport.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/N656PA_Boeing_747-121%2C_Miami_International%2C_1983.jpg/330px-N656PA_Boeing_747-121%2C_Miami_International%2C_1983.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2022,
+      "description": "Boris Johnson resigns as Prime Minister of the United Kingdom, and is replaced by Liz Truss. Their meetings with Queen Elizabeth II at Balmoral Castle were the Queen's final official duties before her death two days later.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/330px-Boris_Johnson_official_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 18
+    "count": 13
   },
-  "space-exploration": {
+  "wars-battles": {
     "top_event": {
-      "year": 1984,
-      "description": "STS-41-D: The Space Shuttle Discovery lands after its maiden voyage.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/STS41D-01-021.jpg/330px-STS41D-01-021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2022,
+      "description": "Russo-Ukrainian war: Ukraine begins its Kharkiv counteroffensive, surprising Russian forces and retaking over 3,000 square kilometers of land, recapturing the entire Kharkiv Oblast west of the Oskil River, within the next week.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 5
+    "count": 22
   },
-  "inventions-technology": {
+  "art-architecture": {
     "top_event": {
-      "year": 1981,
-      "description": "The first women arrive at what becomes Greenham Common Women's Peace Camp in the UK.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Greenham_Common_women%27s_protest_1982%2C_gathering_around_the_base_-_geograph.org.uk_-_759136.jpg/330px-Greenham_Common_women%27s_protest_1982%2C_gathering_around_the_base_-_geograph.org.uk_-_759136.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2022,
+      "description": "Russo-Ukrainian war: Ukraine begins its Kharkiv counteroffensive, surprising Russian forces and retaking over 3,000 square kilometers of land, recapturing the entire Kharkiv Oblast west of the Oskil River, within the next week.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 11
+    "count": 38
   },
-  "sports-history": {
+  "true-crime": {
     "top_event": {
-      "year": 1972,
-      "description": "Munich massacre: A Palestinian terrorist group called \"Black September\" attacks and takes hostage 11 Israeli athletes at the Munich Olympic Games. Two die in the attack and nine are murdered the following day.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Germany_Israel_Olympics_Attack.jpg/330px-Germany_Israel_Olympics_Attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2018,
+      "description": "Brazilian presidential candidate Jair Bolsonaro survives a stabbing at a campaign rally in Juiz de Fora, Minas Gerais.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%28cropped%29.jpg/330px-Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 40
+    "count": 4
   },
   "music-history": {
     "top_event": {
-      "year": 1970,
-      "description": "Vietnam War: Operation Jefferson Glenn begins: The United States 101st Airborne Division and the South Vietnamese 1st Infantry Division initiate a new operation in Thừa Thiên–Huế Province.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2007,
+      "description": "Israel executes the air strike Operation Orchard to destroy a nuclear reactor in Syria.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/330px-Flag_of_Israel.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 58
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1954,
-      "description": "KLM Flight 633 crashes into the River Shannon in Shannon, County Clare, Ireland, killing 28.",
-      "image_url": ""
-    },
-    "count": 181
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 1942,
-      "description": "World War II: Japanese high command orders withdrawal at Milne Bay, the first major Japanese defeat in land warfare during the Pacific War.",
-      "image_url": ""
-    },
-    "count": 5
+    "count": 64
   },
   "cinema-film": {
     "top_event": {
-      "year": 2024,
-      "description": "Laurent Tirard, French film director and screenwriter (born 1967)",
+      "year": 2007,
+      "description": "Israel executes the air strike Operation Orchard to destroy a nuclear reactor in Syria.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/330px-Flag_of_Israel.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 59
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1997,
+      "description": "The funeral of Diana, Princess of Wales takes place in London. Well over a million people line the streets and 21⁄2 billion watch around the world on television.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Princess_Diana_Funeral_St_James_Park_1997.jpg/330px-Princess_Diana_Funeral_St_James_Park_1997.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 10
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1995,
+      "description": "Cal Ripken Jr. of the Baltimore Orioles plays in his 2,131st consecutive game, breaking a record that had stood for 56 years.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lieutenant_Governor_Boyd_Rutherford_with_Cal_Ripken_Jr_%28cropped%29.jpg/330px-Lieutenant_Governor_Boyd_Rutherford_with_Cal_Ripken_Jr_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 34
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1983,
+      "description": "The Soviet Union admits to shooting down Korean Air Lines Flight 007, stating that its operatives did not know that it was a civilian aircraft when it reportedly violated Soviet airspace.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/330px-Flag_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 4
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1971,
+      "description": "Paninternational Flight 112 crashes on the Bundesautobahn 7 highway near Hamburg Airport, in Hamburg, Germany, killing 22.",
       "image_url": ""
     },
-    "count": 58
+    "count": 162
+  },
+  "archaeology-discoveries": {
+    "top_event": {
+      "year": 1962,
+      "description": "Archaeologist Peter Marsden discovers the first of the Blackfriars Ships dating back to the second century AD in the Blackfriars area of the banks of the River Thames in London.",
+      "image_url": ""
+    },
+    "count": 2
   },
   "business-economics": {
     "top_event": {
-      "year": 2015,
-      "description": "Goh Eng Wah, Malaysian-Singaporean businessman, founded Eng Wah Global (born 1923)",
+      "year": 1943,
+      "description": "The Monterrey Institute of Technology is founded in Monterrey, Mexico as one of the largest and most influential private universities in Latin America.",
       "image_url": ""
     },
-    "count": 16
+    "count": 15
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1915,
+      "description": "World War I: The first tank prototype, developed by William Foster & Co. for the British army, is completed and given its first test drive.",
+      "image_url": ""
+    },
+    "count": 6
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1870,
+      "description": "Louisa Ann Swain of Laramie, Wyoming becomes the first woman in the United States to cast a vote legally after 1807.",
+      "image_url": ""
+    },
+    "count": 3
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 1622,
+      "description": "The Spanish treasure galleon Atocha sinks during a hurricane off Key West in the Straits of Florida, taking 40 short tons (36 t) of gold and silver and 260 of its 265 passengers and crew to the bottom.",
+      "image_url": ""
+    },
+    "count": 1
   },
   "medicine-health": {
     "top_event": {
-      "year": 1999,
-      "description": "Alan Clark, English historian and politician, Minister for Defence Procurement (born 1928)",
+      "year": 1553,
+      "description": "Juan de Homedes y Coscon, 47th Grandmaster of the Knights Hospitaller (born c.1477)",
       "image_url": ""
     },
     "count": 1
