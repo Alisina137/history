@@ -1,144 +1,136 @@
 {
-  "politics-revolutions": {
+  "art-architecture": {
     "top_event": {
-      "year": 2022,
-      "description": "Boris Johnson resigns as Prime Minister of the United Kingdom, and is replaced by Liz Truss. Their meetings with Queen Elizabeth II at Balmoral Castle were the Queen's final official duties before her death two days later.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/330px-Boris_Johnson_official_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2021,
+      "description": "Bitcoin becomes legal tender in El Salvador.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/330px-Bitcoin.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 26
-  },
-  "literature-writers": {
-    "top_event": {
-      "year": 2022,
-      "description": "Boris Johnson resigns as Prime Minister of the United Kingdom, and is replaced by Liz Truss. Their meetings with Queen Elizabeth II at Balmoral Castle were the Queen's final official duties before her death two days later.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/330px-Boris_Johnson_official_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 66
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 2022,
-      "description": "Boris Johnson resigns as Prime Minister of the United Kingdom, and is replaced by Liz Truss. Their meetings with Queen Elizabeth II at Balmoral Castle were the Queen's final official duties before her death two days later.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/330px-Boris_Johnson_official_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 13
+    "count": 41
   },
   "wars-battles": {
     "top_event": {
-      "year": 2022,
-      "description": "Russo-Ukrainian war: Ukraine begins its Kharkiv counteroffensive, surprising Russian forces and retaking over 3,000 square kilometers of land, recapturing the entire Kharkiv Oblast west of the Oskil River, within the next week.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2021,
+      "description": "The National Unity Government of Myanmar declares a people's defensive war against the military junta during the Myanmar civil war.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/State_Seal_of_the_Republic_of_the_Union_of_Myanmar.svg/330px-State_Seal_of_the_Republic_of_the_Union_of_Myanmar.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 22
-  },
-  "art-architecture": {
-    "top_event": {
-      "year": 2022,
-      "description": "Russo-Ukrainian war: Ukraine begins its Kharkiv counteroffensive, surprising Russian forces and retaking over 3,000 square kilometers of land, recapturing the entire Kharkiv Oblast west of the Oskil River, within the next week.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 38
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 2018,
-      "description": "Brazilian presidential candidate Jair Bolsonaro survives a stabbing at a campaign rally in Juiz de Fora, Minas Gerais.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%28cropped%29.jpg/330px-Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 4
-  },
-  "music-history": {
-    "top_event": {
-      "year": 2007,
-      "description": "Israel executes the air strike Operation Orchard to destroy a nuclear reactor in Syria.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/330px-Flag_of_Israel.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 64
+    "count": 36
   },
   "cinema-film": {
     "top_event": {
-      "year": 2007,
-      "description": "Israel executes the air strike Operation Orchard to destroy a nuclear reactor in Syria.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/330px-Flag_of_Israel.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2019,
+      "description": "Ukrainian filmmaker Oleg Sentsov and 66 others are released in a prisoner exchange between Ukraine and Russia.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sakharov_Prize_2018_laureate_Oleg_Sentsov_receives_his_award_%2849127359156%29_cropped.jpg/330px-Sakharov_Prize_2018_laureate_Oleg_Sentsov_receives_his_award_%2849127359156%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 59
+    "count": 58
   },
-  "inventions-technology": {
+  "true-crime": {
     "top_event": {
-      "year": 1997,
-      "description": "The funeral of Diana, Princess of Wales takes place in London. Well over a million people line the streets and 21⁄2 billion watch around the world on television.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Princess_Diana_Funeral_St_James_Park_1997.jpg/330px-Princess_Diana_Funeral_St_James_Park_1997.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2019,
+      "description": "Ukrainian filmmaker Oleg Sentsov and 66 others are released in a prisoner exchange between Ukraine and Russia.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sakharov_Prize_2018_laureate_Oleg_Sentsov_receives_his_award_%2849127359156%29_cropped.jpg/330px-Sakharov_Prize_2018_laureate_Oleg_Sentsov_receives_his_award_%2849127359156%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 10
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 1995,
-      "description": "Cal Ripken Jr. of the Baltimore Orioles plays in his 2,131st consecutive game, breaking a record that had stood for 56 years.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lieutenant_Governor_Boyd_Rutherford_with_Cal_Ripken_Jr_%28cropped%29.jpg/330px-Lieutenant_Governor_Boyd_Rutherford_with_Cal_Ripken_Jr_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 34
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 1983,
-      "description": "The Soviet Union admits to shooting down Korean Air Lines Flight 007, stating that its operatives did not know that it was a civilian aircraft when it reportedly violated Soviet airspace.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/330px-Flag_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 4
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1971,
-      "description": "Paninternational Flight 112 crashes on the Bundesautobahn 7 highway near Hamburg Airport, in Hamburg, Germany, killing 22.",
-      "image_url": ""
-    },
-    "count": 162
-  },
-  "archaeology-discoveries": {
-    "top_event": {
-      "year": 1962,
-      "description": "Archaeologist Peter Marsden discovers the first of the Blackfriars Ships dating back to the second century AD in the Blackfriars area of the banks of the River Thames in London.",
-      "image_url": ""
-    },
-    "count": 2
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 1943,
-      "description": "The Monterrey Institute of Technology is founded in Monterrey, Mexico as one of the largest and most influential private universities in Latin America.",
-      "image_url": ""
-    },
-    "count": 15
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 1915,
-      "description": "World War I: The first tank prototype, developed by William Foster & Co. for the British army, is completed and given its first test drive.",
-      "image_url": ""
-    },
-    "count": 6
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 1870,
-      "description": "Louisa Ann Swain of Laramie, Wyoming becomes the first woman in the United States to cast a vote legally after 1807.",
-      "image_url": ""
-    },
-    "count": 3
+    "count": 11
   },
   "natural-disasters": {
     "top_event": {
-      "year": 1622,
-      "description": "The Spanish treasure galleon Atocha sinks during a hurricane off Key West in the Straits of Florida, taking 40 short tons (36 t) of gold and silver and 260 of its 265 passengers and crew to the bottom.",
+      "year": 2017,
+      "description": "The 8.2 Mw 2017 Chiapas earthquake strikes southern Mexico, killing at least 60 people.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/2017_Intensity_of_the_earthquake_in_Mexico_%28Chiapas%29.jpg/330px-2017_Intensity_of_the_earthquake_in_Mexico_%28Chiapas%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 3
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 2012,
+      "description": "Canada officially cuts diplomatic ties with Iran by closing its embassy in Tehran and orders the expulsion of Iranian diplomats from Ottawa, over nuclear plans and purported human rights abuses.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Canada_Iran_Locator.png/330px-Canada_Iran_Locator.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 30
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 2008,
+      "description": "The United States government takes control of the two largest mortgage financing companies in the US, Fannie Mae and Freddie Mac.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fannie_Mae_Headquarters.JPG/330px-Fannie_Mae_Headquarters.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 17
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 2005,
+      "description": "Egypt holds its first-ever multi-party presidential election.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Results_of_the_2005_Egyptian_Presidential_election_by_governorate.png/330px-Results_of_the_2005_Egyptian_Presidential_election_by_governorate.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 7
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1995,
+      "description": "Space Shuttle Endeavour is launched on STS-69, the second flight of the Wake Shield Facility.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 6
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1995,
+      "description": "Space Shuttle Endeavour is launched on STS-69, the second flight of the Wake Shield Facility.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 18
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 1986,
+      "description": "Desmond Tutu becomes the first black man to lead the Anglican Diocese of Cape Town.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Archbishop-Tutu-medium.jpg/330px-Archbishop-Tutu-medium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 68
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1984,
+      "description": "An explosion on board a Maltese patrol boat disposing of illegal fireworks at sea off Gozo kills seven soldiers and policemen.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Malta_251.jpg/330px-Malta_251.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 45
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1963,
+      "description": "The Pro Football Hall of Fame opens in Canton, Ohio with 17 charter members.",
+      "image_url": ""
+    },
+    "count": 41
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1945,
+      "description": "The Berlin Victory Parade of 1945 is held.",
+      "image_url": ""
+    },
+    "count": 194
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 1940,
+      "description": "Romania returns Southern Dobruja to Bulgaria under the Treaty of Craiova.",
+      "image_url": ""
+    },
+    "count": 23
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1571,
+      "description": "Thomas Howard, 4th Duke of Norfolk, is arrested for his role in the Ridolfi plot to assassinate Queen Elizabeth I of England and replace her with Mary, Queen of Scots.",
       "image_url": ""
     },
     "count": 1
   },
-  "medicine-health": {
+  "strange-unexplained": {
     "top_event": {
-      "year": 1553,
-      "description": "Juan de Homedes y Coscon, 47th Grandmaster of the Knights Hospitaller (born c.1477)",
+      "year": 1926,
+      "description": "Ed Warren, American paranormal investigator and author (died 2006)",
       "image_url": ""
     },
     "count": 1
