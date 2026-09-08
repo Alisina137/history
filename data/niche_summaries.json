@@ -1,136 +1,144 @@
 {
-  "art-architecture": {
-    "top_event": {
-      "year": 2021,
-      "description": "Bitcoin becomes legal tender in El Salvador.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/330px-Bitcoin.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 41
-  },
   "wars-battles": {
     "top_event": {
-      "year": 2021,
-      "description": "The National Unity Government of Myanmar declares a people's defensive war against the military junta during the Myanmar civil war.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/State_Seal_of_the_Republic_of_the_Union_of_Myanmar.svg/330px-State_Seal_of_the_Republic_of_the_Union_of_Myanmar.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2025,
+      "description": "Balçova police station shooting: 4 people, including the perpetrator are killed an attack on a police station in Turkey.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Syrian_Civil_War_map.svg/330px-Syrian_Civil_War_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 36
-  },
-  "cinema-film": {
-    "top_event": {
-      "year": 2019,
-      "description": "Ukrainian filmmaker Oleg Sentsov and 66 others are released in a prisoner exchange between Ukraine and Russia.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sakharov_Prize_2018_laureate_Oleg_Sentsov_receives_his_award_%2849127359156%29_cropped.jpg/330px-Sakharov_Prize_2018_laureate_Oleg_Sentsov_receives_his_award_%2849127359156%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 58
+    "count": 37
   },
   "true-crime": {
     "top_event": {
-      "year": 2019,
-      "description": "Ukrainian filmmaker Oleg Sentsov and 66 others are released in a prisoner exchange between Ukraine and Russia.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sakharov_Prize_2018_laureate_Oleg_Sentsov_receives_his_award_%2849127359156%29_cropped.jpg/330px-Sakharov_Prize_2018_laureate_Oleg_Sentsov_receives_his_award_%2849127359156%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2025,
+      "description": "Balçova police station shooting: 4 people, including the perpetrator are killed an attack on a police station in Turkey.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Syrian_Civil_War_map.svg/330px-Syrian_Civil_War_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 11
+    "count": 14
+  },
+  "art-architecture": {
+    "top_event": {
+      "year": 2023,
+      "description": "A magnitude 6.9 earthquake strikes Morocco, killing nearly 3,000 people and damaging historic sites in Marrakesh.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Amerzeggan_%E2%B4%B0%E2%B5%8E%E2%B5%94%E2%B5%A3%E2%B4%B3%E2%B4%B3%E2%B4%B0%E2%B5%8F_viyaedje_distr%C3%BBt_hosmint_tere_Hawse.jpg/330px-Amerzeggan_%E2%B4%B0%E2%B5%8E%E2%B5%94%E2%B5%A3%E2%B4%B3%E2%B4%B3%E2%B4%B0%E2%B5%8F_viyaedje_distr%C3%BBt_hosmint_tere_Hawse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 37
   },
   "natural-disasters": {
     "top_event": {
-      "year": 2017,
-      "description": "The 8.2 Mw 2017 Chiapas earthquake strikes southern Mexico, killing at least 60 people.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/2017_Intensity_of_the_earthquake_in_Mexico_%28Chiapas%29.jpg/330px-2017_Intensity_of_the_earthquake_in_Mexico_%28Chiapas%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2023,
+      "description": "A magnitude 6.9 earthquake strikes Morocco, killing nearly 3,000 people and damaging historic sites in Marrakesh.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Amerzeggan_%E2%B4%B0%E2%B5%8E%E2%B5%94%E2%B5%A3%E2%B4%B3%E2%B4%B3%E2%B4%B0%E2%B5%8F_viyaedje_distr%C3%BBt_hosmint_tere_Hawse.jpg/330px-Amerzeggan_%E2%B4%B0%E2%B5%8E%E2%B5%94%E2%B5%A3%E2%B4%B3%E2%B4%B3%E2%B4%B0%E2%B5%8F_viyaedje_distr%C3%BBt_hosmint_tere_Hawse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 3
+    "count": 5
   },
-  "politics-revolutions": {
+  "sports-history": {
     "top_event": {
-      "year": 2012,
-      "description": "Canada officially cuts diplomatic ties with Iran by closing its embassy in Tehran and orders the expulsion of Iranian diplomats from Ottawa, over nuclear plans and purported human rights abuses.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Canada_Iran_Locator.png/330px-Canada_Iran_Locator.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2023,
+      "description": "The 2023 Rugby World Cup, the tenth men's Rugby World Cup is held in France. The opening ceremony, directed and written by Jean Dujardin, Olivier Ferracci and Nora Matthey, took place at the Stade de France in Saint-Denis, before the opening match between France and New Zealand, which saw the host nation winning 27 to 13.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Rugby_World_Cup_2023_logo.svg/330px-Rugby_World_Cup_2023_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 30
+    "count": 66
   },
-  "business-economics": {
+  "empires-dynasties": {
     "top_event": {
-      "year": 2008,
-      "description": "The United States government takes control of the two largest mortgage financing companies in the US, Fannie Mae and Freddie Mac.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fannie_Mae_Headquarters.JPG/330px-Fannie_Mae_Headquarters.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2022,
+      "description": "Queen Elizabeth II of the United Kingdom dies at Balmoral Castle in Scotland after reigning for 70 years. Her son Charles, Prince of Wales, ascends the throne upon her death as Charles III.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 17
+    "count": 21
   },
-  "firsts-in-history": {
+  "women-in-history": {
     "top_event": {
-      "year": 2005,
-      "description": "Egypt holds its first-ever multi-party presidential election.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Results_of_the_2005_Egyptian_Presidential_election_by_governorate.png/330px-Results_of_the_2005_Egyptian_Presidential_election_by_governorate.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2022,
+      "description": "Queen Elizabeth II of the United Kingdom dies at Balmoral Castle in Scotland after reigning for 70 years. Her son Charles, Prince of Wales, ascends the throne upon her death as Charles III.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 7
+    "count": 8
   },
   "space-exploration": {
     "top_event": {
-      "year": 1995,
-      "description": "Space Shuttle Endeavour is launched on STS-69, the second flight of the Wake Shield Facility.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2016,
+      "description": "NASA launches OSIRIS-REx, its first asteroid sample return mission. The probe visited 101955 Bennu and returned with samples in September 2023.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/OSIRIS-REx_spacecraft_model.png/330px-OSIRIS-REx_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 6
   },
   "inventions-technology": {
     "top_event": {
-      "year": 1995,
-      "description": "Space Shuttle Endeavour is launched on STS-69, the second flight of the Wake Shield Facility.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2016,
+      "description": "NASA launches OSIRIS-REx, its first asteroid sample return mission. The probe visited 101955 Bennu and returned with samples in September 2023.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/OSIRIS-REx_spacecraft_model.png/330px-OSIRIS-REx_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 18
+    "count": 29
   },
-  "literature-writers": {
+  "firsts-in-history": {
     "top_event": {
-      "year": 1986,
-      "description": "Desmond Tutu becomes the first black man to lead the Anglican Diocese of Cape Town.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Archbishop-Tutu-medium.jpg/330px-Archbishop-Tutu-medium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2005,
+      "description": "Two Ilyushin Il-76 aircraft from EMERCOM land at a disaster aid staging area at Little Rock Air Force Base; the first time Russia has flown such a mission to North America.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Il-76MD-90A_RF-78653.jpg/330px-Il-76MD-90A_RF-78653.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 68
+    "count": 14
   },
-  "music-history": {
+  "politics-revolutions": {
     "top_event": {
-      "year": 1984,
-      "description": "An explosion on board a Maltese patrol boat disposing of illegal fireworks at sea off Gozo kills seven soldiers and policemen.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Malta_251.jpg/330px-Malta_251.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1974,
+      "description": "Watergate scandal: US President Gerald Ford signs the pardon of Richard Nixon for any crimes Nixon may have committed while in office.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Watergate_complex.jpg/330px-Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 45
+    "count": 26
   },
-  "sports-history": {
+  "cinema-film": {
     "top_event": {
-      "year": 1963,
-      "description": "The Pro Football Hall of Fame opens in Canton, Ohio with 17 charter members.",
-      "image_url": ""
+      "year": 1971,
+      "description": "In Washington, D.C., the John F. Kennedy Center for the Performing Arts is inaugurated, with the opening feature being the premiere of Leonard Bernstein's Mass.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kennedy_Center_for_the_Performing_Arts%2C_Washington%2C_D.C.%2C_LCCN2011632175_%28cropped%29.jpg/330px-Kennedy_Center_for_the_Performing_Arts%2C_Washington%2C_D.C.%2C_LCCN2011632175_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 41
+    "count": 50
   },
   "general-history": {
     "top_event": {
-      "year": 1945,
-      "description": "The Berlin Victory Parade of 1945 is held.",
+      "year": 1962,
+      "description": "Last run of the famous Pines Express over the Somerset and Dorset Railway line (UK) fittingly using the last steam locomotive built by British Railways, BR Standard Class 9F 92220 Evening Star.",
       "image_url": ""
     },
-    "count": 194
+    "count": 211
   },
-  "empires-dynasties": {
+  "business-economics": {
     "top_event": {
-      "year": 1940,
-      "description": "Romania returns Southern Dobruja to Bulgaria under the Treaty of Craiova.",
+      "year": 1952,
+      "description": "The Canadian Broadcasting Corporation makes its first televised broadcast on the second escape of the Boyd Gang.",
       "image_url": ""
     },
-    "count": 23
+    "count": 22
   },
-  "women-in-history": {
+  "medicine-health": {
     "top_event": {
-      "year": 1571,
-      "description": "Thomas Howard, 4th Duke of Norfolk, is arrested for his role in the Ridolfi plot to assassinate Queen Elizabeth I of England and replace her with Mary, Queen of Scots.",
+      "year": 70,
+      "description": "After the capture of Herod's Palace the previous day, a Roman army under Titus secures and plunders the city of Jerusalem.",
       "image_url": ""
     },
     "count": 1
   },
-  "strange-unexplained": {
+  "music-history": {
     "top_event": {
-      "year": 1926,
-      "description": "Ed Warren, American paranormal investigator and author (died 2006)",
+      "year": 2024,
+      "description": "Zoot Money, English musician (born 1942)",
+      "image_url": ""
+    },
+    "count": 53
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 2017,
+      "description": "Jerry Pournelle, American author and journalist (born 1933)",
+      "image_url": ""
+    },
+    "count": 69
+  },
+  "archaeology-discoveries": {
+    "top_event": {
+      "year": 1814,
+      "description": "Charles Étienne Brasseur de Bourbourg, French archaeologist, ethnographer, and historian (died 1874)",
       "image_url": ""
     },
     "count": 1
