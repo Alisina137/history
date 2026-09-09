@@ -1,146 +1,138 @@
 {
-  "wars-battles": {
+  "art-architecture": {
     "top_event": {
       "year": 2025,
-      "description": "Balçova police station shooting: 4 people, including the perpetrator are killed an attack on a police station in Turkey.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Syrian_Civil_War_map.svg/330px-Syrian_Civil_War_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "description": "Six people are killed when Israel carries out an airstrike on Doha in a failed attempt to decapitate the Hamas leadership.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/330px-Flag_of_Israel.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 37
+    "count": 39
   },
   "true-crime": {
     "top_event": {
       "year": 2025,
-      "description": "Balçova police station shooting: 4 people, including the perpetrator are killed an attack on a police station in Turkey.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Syrian_Civil_War_map.svg/330px-Syrian_Civil_War_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 14
-  },
-  "art-architecture": {
-    "top_event": {
-      "year": 2023,
-      "description": "A magnitude 6.9 earthquake strikes Morocco, killing nearly 3,000 people and damaging historic sites in Marrakesh.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Amerzeggan_%E2%B4%B0%E2%B5%8E%E2%B5%94%E2%B5%A3%E2%B4%B3%E2%B4%B3%E2%B4%B0%E2%B5%8F_viyaedje_distr%C3%BBt_hosmint_tere_Hawse.jpg/330px-Amerzeggan_%E2%B4%B0%E2%B5%8E%E2%B5%94%E2%B5%A3%E2%B4%B3%E2%B4%B3%E2%B4%B0%E2%B5%8F_viyaedje_distr%C3%BBt_hosmint_tere_Hawse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 37
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 2023,
-      "description": "A magnitude 6.9 earthquake strikes Morocco, killing nearly 3,000 people and damaging historic sites in Marrakesh.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Amerzeggan_%E2%B4%B0%E2%B5%8E%E2%B5%94%E2%B5%A3%E2%B4%B3%E2%B4%B3%E2%B4%B0%E2%B5%8F_viyaedje_distr%C3%BBt_hosmint_tere_Hawse.jpg/330px-Amerzeggan_%E2%B4%B0%E2%B5%8E%E2%B5%94%E2%B5%A3%E2%B4%B3%E2%B4%B3%E2%B4%B0%E2%B5%8F_viyaedje_distr%C3%BBt_hosmint_tere_Hawse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 5
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 2023,
-      "description": "The 2023 Rugby World Cup, the tenth men's Rugby World Cup is held in France. The opening ceremony, directed and written by Jean Dujardin, Olivier Ferracci and Nora Matthey, took place at the Stade de France in Saint-Denis, before the opening match between France and New Zealand, which saw the host nation winning 27 to 13.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Rugby_World_Cup_2023_logo.svg/330px-Rugby_World_Cup_2023_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 66
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 2022,
-      "description": "Queen Elizabeth II of the United Kingdom dies at Balmoral Castle in Scotland after reigning for 70 years. Her son Charles, Prince of Wales, ascends the throne upon her death as Charles III.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 21
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 2022,
-      "description": "Queen Elizabeth II of the United Kingdom dies at Balmoral Castle in Scotland after reigning for 70 years. Her son Charles, Prince of Wales, ascends the throne upon her death as Charles III.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "description": "Six people are killed when Israel carries out an airstrike on Doha in a failed attempt to decapitate the Hamas leadership.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/330px-Flag_of_Israel.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 8
   },
-  "space-exploration": {
+  "wars-battles": {
     "top_event": {
-      "year": 2016,
-      "description": "NASA launches OSIRIS-REx, its first asteroid sample return mission. The probe visited 101955 Bennu and returned with samples in September 2023.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/OSIRIS-REx_spacecraft_model.png/330px-OSIRIS-REx_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2025,
+      "description": "Several Russian drones incur on Polish airspace and are subsequently shot down, marking the first time a NATO member has engaged Russian military assets.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/9-10_September_2025_Russian_drone_incursion_into_Poland.jpg/330px-9-10_September_2025_Russian_drone_incursion_into_Poland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 6
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 2016,
-      "description": "NASA launches OSIRIS-REx, its first asteroid sample return mission. The probe visited 101955 Bennu and returned with samples in September 2023.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/OSIRIS-REx_spacecraft_model.png/330px-OSIRIS-REx_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 29
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 2005,
-      "description": "Two Ilyushin Il-76 aircraft from EMERCOM land at a disaster aid staging area at Little Rock Air Force Base; the first time Russia has flown such a mission to North America.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Il-76MD-90A_RF-78653.jpg/330px-Il-76MD-90A_RF-78653.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 14
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 1974,
-      "description": "Watergate scandal: US President Gerald Ford signs the pardon of Richard Nixon for any crimes Nixon may have committed while in office.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Watergate_complex.jpg/330px-Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 26
-  },
-  "cinema-film": {
-    "top_event": {
-      "year": 1971,
-      "description": "In Washington, D.C., the John F. Kennedy Center for the Performing Arts is inaugurated, with the opening feature being the premiere of Leonard Bernstein's Mass.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kennedy_Center_for_the_Performing_Arts%2C_Washington%2C_D.C.%2C_LCCN2011632175_%28cropped%29.jpg/330px-Kennedy_Center_for_the_Performing_Arts%2C_Washington%2C_D.C.%2C_LCCN2011632175_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 50
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1962,
-      "description": "Last run of the famous Pines Express over the Somerset and Dorset Railway line (UK) fittingly using the last steam locomotive built by British Railways, BR Standard Class 9F 92220 Evening Star.",
-      "image_url": ""
-    },
-    "count": 211
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 1952,
-      "description": "The Canadian Broadcasting Corporation makes its first televised broadcast on the second escape of the Boyd Gang.",
-      "image_url": ""
-    },
-    "count": 22
-  },
-  "medicine-health": {
-    "top_event": {
-      "year": 70,
-      "description": "After the capture of Herod's Palace the previous day, a Roman army under Titus secures and plunders the city of Jerusalem.",
-      "image_url": ""
-    },
-    "count": 1
+    "count": 39
   },
   "music-history": {
     "top_event": {
-      "year": 2024,
-      "description": "Zoot Money, English musician (born 1942)",
-      "image_url": ""
+      "year": 2025,
+      "description": "Several Russian drones incur on Polish airspace and are subsequently shot down, marking the first time a NATO member has engaged Russian military assets.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/9-10_September_2025_Russian_drone_incursion_into_Poland.jpg/330px-9-10_September_2025_Russian_drone_incursion_into_Poland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 53
+    "count": 50
   },
-  "literature-writers": {
+  "empires-dynasties": {
     "top_event": {
-      "year": 2017,
-      "description": "Jerry Pournelle, American author and journalist (born 1933)",
+      "year": 2015,
+      "description": "Elizabeth II becomes the longest reigning monarch of the United Kingdom.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 24
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 2015,
+      "description": "Elizabeth II becomes the longest reigning monarch of the United Kingdom.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 5
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 2012,
+      "description": "The Indian space agency puts into orbit its heaviest foreign satellite yet, in a streak of 21 consecutive successful PSLV launches.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Indian_Space_Research_Organisation_Logo.svg/330px-Indian_Space_Research_Organisation_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 5
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 2009,
+      "description": "The Dubai Metro, the first urban train network in the Arabian Peninsula, is ceremonially inaugurated.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/5018_Dubai_Metro_in_Dubai_UAE.png/330px-5018_Dubai_Metro_in_Dubai_UAE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 17
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 2009,
+      "description": "The Dubai Metro, the first urban train network in the Arabian Peninsula, is ceremonially inaugurated.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/5018_Dubai_Metro_in_Dubai_UAE.png/330px-5018_Dubai_Metro_in_Dubai_UAE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 9
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 1991,
+      "description": "Tajikistan declares independence from the Soviet Union.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/330px-Flag_of_Tajikistan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 25
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1969,
+      "description": "Allegheny Airlines Flight 863 collides in mid-air with a Piper PA-28 Cherokee over Moral Township, Shelby County, Indiana, killing all 83 people on board both aircraft.",
       "image_url": ""
     },
-    "count": 69
+    "count": 147
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 1965,
+      "description": "Hurricane Betsy makes its second landfall near New Orleans, leaving 76 dead and $1.42 billion ($10–12 billion in 2005 dollars) in damages, becoming the first hurricane to cause over $1 billion in unadjusted damage.",
+      "image_url": ""
+    },
+    "count": 2
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 1926,
+      "description": "Yleisradio (YLE), the Finnish national public broadcasting company, begins its broadcasts.",
+      "image_url": ""
+    },
+    "count": 17
   },
   "archaeology-discoveries": {
     "top_event": {
-      "year": 1814,
-      "description": "Charles Étienne Brasseur de Bourbourg, French archaeologist, ethnographer, and historian (died 1874)",
+      "year": 1892,
+      "description": "Amalthea becomes the last moon to be discovered without the use of photography.",
       "image_url": ""
     },
     "count": 1
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 1796,
+      "description": "Grenelle camp affair, a failed uprising by supporters of Gracchus Babeuf against the French Directory",
+      "image_url": ""
+    },
+    "count": 52
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 2024,
+      "description": "John Cassaday, American comic book artist and writer (born 1971)",
+      "image_url": ""
+    },
+    "count": 64
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 2000,
+      "description": "Ricky Pearsall, American football player",
+      "image_url": ""
+    },
+    "count": 41
   }
 }
