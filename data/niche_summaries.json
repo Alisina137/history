@@ -1,138 +1,138 @@
 {
   "art-architecture": {
     "top_event": {
-      "year": 2025,
-      "description": "Six people are killed when Israel carries out an airstrike on Doha in a failed attempt to decapitate the Hamas leadership.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/330px-Flag_of_Israel.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2024,
+      "description": "Polaris Dawn, the first private crewed spaceflight to involve a spacewalk, is launched from the Kennedy Space Center in Florida.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Falcon_9_Polaris_Dawn_Launch_%288634899%29.jpg/330px-Falcon_9_Polaris_Dawn_Launch_%288634899%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 39
+    "count": 31
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 2024,
+      "description": "Polaris Dawn, the first private crewed spaceflight to involve a spacewalk, is launched from the Kennedy Space Center in Florida.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Falcon_9_Polaris_Dawn_Launch_%288634899%29.jpg/330px-Falcon_9_Polaris_Dawn_Launch_%288634899%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 3
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 2024,
+      "description": "Polaris Dawn, the first private crewed spaceflight to involve a spacewalk, is launched from the Kennedy Space Center in Florida.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Falcon_9_Polaris_Dawn_Launch_%288634899%29.jpg/330px-Falcon_9_Polaris_Dawn_Launch_%288634899%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 12
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 2017,
+      "description": "Hurricane Irma makes landfall on Cudjoe Key, Florida as a Category 4, after causing catastrophic damage throughout the Caribbean. Irma resulted in 134 deaths and $77.2 billion (2017 USD) in damage.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Irma_2017-09-06_1230Z.jpg/330px-Irma_2017-09-06_1230Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 2
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 2025,
+      "description": "American right-wing political activist Charlie Kirk is assassinated while onstage at Utah Valley University in Orem, Utah.",
+      "image_url": ""
+    },
+    "count": 31
   },
   "true-crime": {
     "top_event": {
       "year": 2025,
-      "description": "Six people are killed when Israel carries out an airstrike on Doha in a failed attempt to decapitate the Hamas leadership.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/330px-Flag_of_Israel.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "description": "American right-wing political activist Charlie Kirk is assassinated while onstage at Utah Valley University in Orem, Utah.",
+      "image_url": ""
     },
-    "count": 8
+    "count": 13
   },
   "wars-battles": {
     "top_event": {
-      "year": 2025,
-      "description": "Several Russian drones incur on Polish airspace and are subsequently shot down, marking the first time a NATO member has engaged Russian military assets.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/9-10_September_2025_Russian_drone_incursion_into_Poland.jpg/330px-9-10_September_2025_Russian_drone_incursion_into_Poland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2007,
+      "description": "Former Prime Minister of Pakistan Nawaz Sharif returns to Pakistan after seven years in exile, following a military coup in October 1999.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/PrimeMinisterNawazSharif.jpg/330px-PrimeMinisterNawazSharif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 39
-  },
-  "music-history": {
-    "top_event": {
-      "year": 2025,
-      "description": "Several Russian drones incur on Polish airspace and are subsequently shot down, marking the first time a NATO member has engaged Russian military assets.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/9-10_September_2025_Russian_drone_incursion_into_Poland.jpg/330px-9-10_September_2025_Russian_drone_incursion_into_Poland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 50
+    "count": 19
   },
   "empires-dynasties": {
     "top_event": {
-      "year": 2015,
-      "description": "Elizabeth II becomes the longest reigning monarch of the United Kingdom.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 24
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 2015,
-      "description": "Elizabeth II becomes the longest reigning monarch of the United Kingdom.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 5
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 2012,
-      "description": "The Indian space agency puts into orbit its heaviest foreign satellite yet, in a streak of 21 consecutive successful PSLV launches.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Indian_Space_Research_Organisation_Logo.svg/330px-Indian_Space_Research_Organisation_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 5
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 2009,
-      "description": "The Dubai Metro, the first urban train network in the Arabian Peninsula, is ceremonially inaugurated.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/5018_Dubai_Metro_in_Dubai_UAE.png/330px-5018_Dubai_Metro_in_Dubai_UAE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2001,
+      "description": "During his appearance on the British TV game show Who Wants to be a Millionaire?, contestant Charles Ingram reaches the £1 million top prize, but it was later revealed that he had cheated to the top prize by listening to coughs from his wife and another contestant.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Charles_Ingram_1_%28cropped_2%29.jpg/330px-Charles_Ingram_1_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 17
   },
-  "firsts-in-history": {
+  "music-history": {
     "top_event": {
-      "year": 2009,
-      "description": "The Dubai Metro, the first urban train network in the Arabian Peninsula, is ceremonially inaugurated.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/5018_Dubai_Metro_in_Dubai_UAE.png/330px-5018_Dubai_Metro_in_Dubai_UAE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2000,
+      "description": "Operation Barras successfully frees six British soldiers held captive for over two weeks and contributes to the end of the Sierra Leone Civil War.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/UNsierraleone.PNG/330px-UNsierraleone.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 9
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 1991,
-      "description": "Tajikistan declares independence from the Soviet Union.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/330px-Flag_of_Tajikistan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 25
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1969,
-      "description": "Allegheny Airlines Flight 863 collides in mid-air with a Piper PA-28 Cherokee over Moral Township, Shelby County, Indiana, killing all 83 people on board both aircraft.",
-      "image_url": ""
-    },
-    "count": 147
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 1965,
-      "description": "Hurricane Betsy makes its second landfall near New Orleans, leaving 76 dead and $1.42 billion ($10–12 billion in 2005 dollars) in damages, becoming the first hurricane to cause over $1 billion in unadjusted damage.",
-      "image_url": ""
-    },
-    "count": 2
+    "count": 41
   },
   "business-economics": {
     "top_event": {
-      "year": 1926,
-      "description": "Yleisradio (YLE), the Finnish national public broadcasting company, begins its broadcasts.",
-      "image_url": ""
+      "year": 1977,
+      "description": "Hamida Djandoubi, convicted of torture and murder, is the last person to be executed by guillotine in France.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/8/89/Hamida_Djandoubi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
-    "count": 17
+    "count": 16
   },
-  "archaeology-discoveries": {
+  "sports-history": {
     "top_event": {
-      "year": 1892,
-      "description": "Amalthea becomes the last moon to be discovered without the use of photography.",
-      "image_url": ""
+      "year": 1960,
+      "description": "At the Summer Olympics in Rome, Abebe Bikila becomes the first sub-Saharan African to win a gold medal, winning the marathon in bare feet.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Abebe_Bikila_1968_%28b_retouched%29.jpg/330px-Abebe_Bikila_1968_%28b_retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 1
+    "count": 26
   },
-  "cinema-film": {
+  "firsts-in-history": {
     "top_event": {
-      "year": 1796,
-      "description": "Grenelle camp affair, a failed uprising by supporters of Gracchus Babeuf against the French Directory",
+      "year": 1939,
+      "description": "World War II: The submarine HMS Oxley is mistakenly sunk by the submarine HMS Triton near Norway and becomes the Royal Navy's first loss of a submarine in the war.",
       "image_url": ""
     },
-    "count": 52
+    "count": 6
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1937,
+      "description": "Nine nations attend the Nyon Conference to address international piracy in the Mediterranean Sea.",
+      "image_url": ""
+    },
+    "count": 174
   },
   "literature-writers": {
     "top_event": {
       "year": 2024,
-      "description": "John Cassaday, American comic book artist and writer (born 1971)",
+      "description": "Frankie Beverly, American soul/funk singer-songwriter, musician, and producer (born 1946)",
       "image_url": ""
     },
-    "count": 64
+    "count": 58
   },
-  "sports-history": {
+  "cinema-film": {
     "top_event": {
-      "year": 2000,
-      "description": "Ricky Pearsall, American football player",
+      "year": 2020,
+      "description": "Diana Rigg, British actress (born 1938)",
       "image_url": ""
     },
-    "count": 41
+    "count": 43
+  },
+  "archaeology-discoveries": {
+    "top_event": {
+      "year": 1941,
+      "description": "Christopher Hogwood, English harpsichord player and conductor, founded the Academy of Ancient Music (died 2014)",
+      "image_url": ""
+    },
+    "count": 4
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1874,
+      "description": "Mamie Dillard, African American educator, clubwoman and suffragist (died 1954)",
+      "image_url": ""
+    },
+    "count": 4
   }
 }
