@@ -1,138 +1,130 @@
 {
-  "art-architecture": {
-    "top_event": {
-      "year": 2024,
-      "description": "Polaris Dawn, the first private crewed spaceflight to involve a spacewalk, is launched from the Kennedy Space Center in Florida.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Falcon_9_Polaris_Dawn_Launch_%288634899%29.jpg/330px-Falcon_9_Polaris_Dawn_Launch_%288634899%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 31
-  },
   "space-exploration": {
     "top_event": {
-      "year": 2024,
-      "description": "Polaris Dawn, the first private crewed spaceflight to involve a spacewalk, is launched from the Kennedy Space Center in Florida.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Falcon_9_Polaris_Dawn_Launch_%288634899%29.jpg/330px-Falcon_9_Polaris_Dawn_Launch_%288634899%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2025,
+      "description": "Progress MS-32 is launched to resupply the International Space Station. It is the 300th spacecraft launched to the ISS.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Progress_MS-32_approaches_ISS.jpg/330px-Progress_MS-32_approaches_ISS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 3
+    "count": 9
+  },
+  "art-architecture": {
+    "top_event": {
+      "year": 2025,
+      "description": "Progress MS-32 is launched to resupply the International Space Station. It is the 300th spacecraft launched to the ISS.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Progress_MS-32_approaches_ISS.jpg/330px-Progress_MS-32_approaches_ISS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 37
+  },
+  "music-history": {
+    "top_event": {
+      "year": 2025,
+      "description": "Progress MS-32 is launched to resupply the International Space Station. It is the 300th spacecraft launched to the ISS.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Progress_MS-32_approaches_ISS.jpg/330px-Progress_MS-32_approaches_ISS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 42
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 2024,
+      "description": "Hurricane Francine impacts the Gulf of Mexico, as a Category 2 hurricane.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Francine_2024-09-11_1908Z.jpg/330px-Francine_2024-09-11_1908Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 7
   },
   "inventions-technology": {
     "top_event": {
       "year": 2024,
-      "description": "Polaris Dawn, the first private crewed spaceflight to involve a spacewalk, is launched from the Kennedy Space Center in Florida.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Falcon_9_Polaris_Dawn_Launch_%288634899%29.jpg/330px-Falcon_9_Polaris_Dawn_Launch_%288634899%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "description": "Soyuz MS-26 is launched to the International Space Station, setting a record of 19 people in orbit at the same time.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Iss071e629830_%28Sept._11%2C_2024%29_---_The_Soyuz_MS-26_spacecraft.jpg/330px-Iss071e629830_%28Sept._11%2C_2024%29_---_The_Soyuz_MS-26_spacecraft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 12
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 2017,
-      "description": "Hurricane Irma makes landfall on Cudjoe Key, Florida as a Category 4, after causing catastrophic damage throughout the Caribbean. Irma resulted in 134 deaths and $77.2 billion (2017 USD) in damage.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Irma_2017-09-06_1230Z.jpg/330px-Irma_2017-09-06_1230Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 2
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 2025,
-      "description": "American right-wing political activist Charlie Kirk is assassinated while onstage at Utah Valley University in Orem, Utah.",
-      "image_url": ""
-    },
-    "count": 31
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 2025,
-      "description": "American right-wing political activist Charlie Kirk is assassinated while onstage at Utah Valley University in Orem, Utah.",
-      "image_url": ""
-    },
-    "count": 13
+    "count": 8
   },
   "wars-battles": {
     "top_event": {
-      "year": 2007,
-      "description": "Former Prime Minister of Pakistan Nawaz Sharif returns to Pakistan after seven years in exile, following a military coup in October 1999.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/PrimeMinisterNawazSharif.jpg/330px-PrimeMinisterNawazSharif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2023,
+      "description": "The Libyan city of Derna experiences catastrophic floods after Storm Daniel causes two dams to collapse, killing thousands of people.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Derna_Valley.jpg/330px-Derna_Valley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 19
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 2001,
-      "description": "During his appearance on the British TV game show Who Wants to be a Millionaire?, contestant Charles Ingram reaches the £1 million top prize, but it was later revealed that he had cheated to the top prize by listening to coughs from his wife and another contestant.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Charles_Ingram_1_%28cropped_2%29.jpg/330px-Charles_Ingram_1_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 17
-  },
-  "music-history": {
-    "top_event": {
-      "year": 2000,
-      "description": "Operation Barras successfully frees six British soldiers held captive for over two weeks and contributes to the end of the Sierra Leone Civil War.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/UNsierraleone.PNG/330px-UNsierraleone.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 41
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 1977,
-      "description": "Hamida Djandoubi, convicted of torture and murder, is the last person to be executed by guillotine in France.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/8/89/Hamida_Djandoubi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    "count": 16
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 1960,
-      "description": "At the Summer Olympics in Rome, Abebe Bikila becomes the first sub-Saharan African to win a gold medal, winning the marathon in bare feet.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Abebe_Bikila_1968_%28b_retouched%29.jpg/330px-Abebe_Bikila_1968_%28b_retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 26
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 1939,
-      "description": "World War II: The submarine HMS Oxley is mistakenly sunk by the submarine HMS Triton near Norway and becomes the Royal Navy's first loss of a submarine in the war.",
-      "image_url": ""
-    },
-    "count": 6
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1937,
-      "description": "Nine nations attend the Nyon Conference to address international piracy in the Mediterranean Sea.",
-      "image_url": ""
-    },
-    "count": 174
+    "count": 42
   },
   "literature-writers": {
     "top_event": {
-      "year": 2024,
-      "description": "Frankie Beverly, American soul/funk singer-songwriter, musician, and producer (born 1946)",
-      "image_url": ""
+      "year": 2011,
+      "description": "A dedication ceremony is held at the United States National September 11 Memorial on the 10th anniversary of the September 11 attacks in New York City, and the memorial opens to family members.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/9-11_Memorial_and_Museum_%2828815276064%29.jpg/330px-9-11_Memorial_and_Museum_%2828815276064%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 58
+    "count": 61
+  },
+  "true-crime": {
+    "top_event": {
+      "year": 2001,
+      "description": "Nineteen members of al-Qaeda execute the September 11 attacks, a series of coordinated terrorist attacks that killed 2,977 people using four hijacked aircraft. Two aircraft crash into the World Trade Center in New York City, a third crashes into The Pentagon in Arlington County, Virginia, and a fourth into a field near Shanksville, Pennsylvania.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Jihad.svg/330px-Flag_of_Jihad.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 4
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 1997,
+      "description": "After a nationwide referendum, Scotland votes to establish a devolved parliament within the United Kingdom.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Scottish_devolution_referendum%2C_1997_Question_1.svg/330px-Scottish_devolution_referendum%2C_1997_Question_1.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 29
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 1997,
+      "description": "After a nationwide referendum, Scotland votes to establish a devolved parliament within the United Kingdom.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Scottish_devolution_referendum%2C_1997_Question_1.svg/330px-Scottish_devolution_referendum%2C_1997_Question_1.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 22
   },
   "cinema-film": {
     "top_event": {
-      "year": 2020,
-      "description": "Diana Rigg, British actress (born 1938)",
+      "year": 2012,
+      "description": "A total of 315 people are killed in two garment factory fires in Pakistan.",
       "image_url": ""
     },
-    "count": 43
+    "count": 45
   },
-  "archaeology-discoveries": {
+  "sports-history": {
     "top_event": {
-      "year": 1941,
-      "description": "Christopher Hogwood, English harpsichord player and conductor, founded the Academy of Ancient Music (died 2014)",
+      "year": 1995,
+      "description": "The first game of the PCA World Chess Championship 1995, pitting incumbent champion Garry Kasparov against challenger Viswanathan Anand, takes place on the 107th floor of the World Trade Center's South Tower in New York City.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kasparov-26.jpg/330px-Kasparov-26.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 25
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1980,
+      "description": "A new constitution of Chile is established under the influence of then Chilean dictator Augusto Pinochet, which is subject to controversy in Chile today.",
       "image_url": ""
     },
-    "count": 4
+    "count": 164
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1903,
+      "description": "The first race at the Milwaukee Mile in West Allis, Wisconsin is held. It is the oldest major speedway in the world.",
+      "image_url": ""
+    },
+    "count": 2
   },
   "women-in-history": {
     "top_event": {
-      "year": 1874,
-      "description": "Mamie Dillard, African American educator, clubwoman and suffragist (died 1954)",
+      "year": 2024,
+      "description": "Chad McQueen, American actor and race car driver (born 1960)",
       "image_url": ""
     },
-    "count": 4
+    "count": 7
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 1967,
+      "description": "Sung Jae-gi, South Korean activist, founded Man of Korea (died 2013)",
+      "image_url": ""
+    },
+    "count": 12
   }
 }
