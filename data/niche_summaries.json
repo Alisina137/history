@@ -1,146 +1,138 @@
 {
   "art-architecture": {
     "top_event": {
-      "year": 2014,
-      "description": "Synagogue Church building collapse saw the deaths of 115 people and several injured, in the Church run by Nigeria's, T. B. Joshua.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Synagogue-Church_of_all_Nations.jpg/330px-Synagogue-Church_of_all_Nations.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2013,
+      "description": "Taliban insurgents attack the United States consulate in Herat, Afghanistan, with two members of the Afghan National Police reported dead and about 20 civilians injured.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Taliban_%28bordered%29.svg/330px-Flag_of_Taliban_%28bordered%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 42
+    "count": 39
   },
-  "literature-writers": {
-    "top_event": {
-      "year": 2014,
-      "description": "Synagogue Church building collapse saw the deaths of 115 people and several injured, in the Church run by Nigeria's, T. B. Joshua.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Synagogue-Church_of_all_Nations.jpg/330px-Synagogue-Church_of_all_Nations.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 65
-  },
-  "inventions-technology": {
+  "wars-battles": {
     "top_event": {
       "year": 2013,
-      "description": "NASA confirms that its Voyager 1 probe has become the first manmade object to enter interstellar space.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "description": "Taliban insurgents attack the United States consulate in Herat, Afghanistan, with two members of the Afghan National Police reported dead and about 20 civilians injured.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Taliban_%28bordered%29.svg/330px-Flag_of_Taliban_%28bordered%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 16
+    "count": 30
   },
-  "space-exploration": {
+  "empires-dynasties": {
     "top_event": {
-      "year": 2013,
-      "description": "NASA confirms that its Voyager 1 probe has become the first manmade object to enter interstellar space.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2008,
+      "description": "Delhi, India, is hit by a series of bomb blasts, resulting in 30 deaths and 130 injuries.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Jama_Masjid_2011.jpg/330px-Jama_Masjid_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 10
-  },
-  "cinema-film": {
-    "top_event": {
-      "year": 2007,
-      "description": "Former Philippine President Joseph Estrada is convicted of plunder.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Joseph_Estrada_and_Judge_Floro_2013jf_%28cropped%29.jpg/330px-Joseph_Estrada_and_Judge_Floro_2013jf_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 54
+    "count": 32
   },
   "politics-revolutions": {
     "top_event": {
       "year": 2007,
-      "description": "Former Philippine President Joseph Estrada is convicted of plunder.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Joseph_Estrada_and_Judge_Floro_2013jf_%28cropped%29.jpg/330px-Joseph_Estrada_and_Judge_Floro_2013jf_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "description": "The Declaration on the Rights of Indigenous Peoples is adopted by the United Nations General Assembly.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2007_Declaration_on_the_Rights_of_Indigenous_Peoples_voting_map.svg/330px-2007_Declaration_on_the_Rights_of_Indigenous_Peoples_voting_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 26
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 2007,
-      "description": "Two earthquakes measuring 8.4 and 7.9 on the Richter Scale hits the Indonesian island of Sumatra, killing 25 people and injuring 161.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Sumatra_2007_earthquakes_map.gif/330px-Sumatra_2007_earthquakes_map.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 3
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 2005,
-      "description": "Israeli–Palestinian conflict: the Israeli disengagement from Gaza is completed, leaving some 2,530 homes demolished.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Occupied_Palestinian_Territories.jpg/330px-Occupied_Palestinian_Territories.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 27
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 2003,
-      "description": "Typhoon Maemi, the strongest recorded typhoon to strike South Korea, made landfall near Busan.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Maemi_2003-09-10_0201Z.jpg/330px-Maemi_2003-09-10_0201Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 28
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 2001,
-      "description": "Ansett Australia, Australia's first commercial interstate airline, collapses due to increased strain on the international airline industry, leaving 10,000 people unemployed.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4b/Ansett_logo.svg/330px-Ansett_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 5
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 1994,
-      "description": "Frank Eugene Corder fatally crashes a single-engine Cessna 150 into the White House's south lawn, striking the West wing. There were no other casualties.",
-      "image_url": ""
-    },
-    "count": 23
-  },
-  "medicine-health": {
-    "top_event": {
-      "year": 1990,
-      "description": "The Red Cross organizations of mainland China and Taiwan sign Kinmen Agreement on repatriation of illegal immigrants and criminal suspects after two days of talks in Kinmen, Fujian Province in response to the two tragedies in repatriation in the previous two months. It is the first agreement reached by private organizations across the Taiwan Strait.",
-      "image_url": ""
-    },
-    "count": 1
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1983,
-      "description": "The USSR vetoes a United Nations Security Council Resolution deploring the Soviet destruction of Korean Air Lines Flight 007.",
-      "image_url": ""
-    },
-    "count": 146
+    "count": 32
   },
   "business-economics": {
     "top_event": {
-      "year": 1961,
-      "description": "The African and Malagasy Union is founded.",
-      "image_url": ""
+      "year": 2007,
+      "description": "The McLaren F1 team are found guilty of possessing confidential information from the Ferrari team, fined $100 million, and excluded from the constructors' championship standings.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/46/McLaren_Mastercard_F1_Team_logo.png/330px-McLaren_Mastercard_F1_Team_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 13
+    "count": 18
   },
-  "archaeology-discoveries": {
+  "sports-history": {
     "top_event": {
-      "year": 1940,
-      "description": "Cave paintings are discovered in Lascaux, France.",
-      "image_url": ""
+      "year": 2007,
+      "description": "The McLaren F1 team are found guilty of possessing confidential information from the Ferrari team, fined $100 million, and excluded from the constructors' championship standings.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/46/McLaren_Mastercard_F1_Team_logo.png/330px-McLaren_Mastercard_F1_Team_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 1
-  },
-  "music-history": {
-    "top_event": {
-      "year": 1910,
-      "description": "Premiere performance of Gustav Mahler's Symphony No. 8 in Munich (with a chorus of 852 singers and an orchestra of 171 players. Mahler's rehearsal assistant conductor was Bruno Walter).",
-      "image_url": ""
-    },
-    "count": 51
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 2019,
-      "description": "Elsie Vartanian, American politician and director of the United States Women's Bureau (born 1930)",
-      "image_url": ""
-    },
-    "count": 3
+    "count": 43
   },
   "true-crime": {
     "top_event": {
-      "year": 1905,
-      "description": "Linda Agostini, English-Australian murder victim (died 1934)",
-      "image_url": ""
+      "year": 2001,
+      "description": "Civilian aircraft traffic resumes in the United States after the September 11 attacks.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/330px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 4
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 1988,
+      "description": "Hurricane Gilbert is the strongest recorded hurricane in the Western Hemisphere, later replaced by Hurricane Wilma in 2005 (based on barometric pressure).",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Gilbert_1988-09-13_2200Z.png/330px-Gilbert_1988-09-13_2200Z.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 2
+  },
+  "medicine-health": {
+    "top_event": {
+      "year": 1987,
+      "description": "Goiânia accident: A radioactive object is stolen from an abandoned hospital in Goiânia, Brazil, contaminating many people in the following weeks and causing some to die from radiation poisoning.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg/330px-02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 1
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1987,
+      "description": "Goiânia accident: A radioactive object is stolen from an abandoned hospital in Goiânia, Brazil, contaminating many people in the following weeks and causing some to die from radiation poisoning.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg/330px-02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 9
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 1971,
+      "description": "State police and National Guardsmen storm New York's Attica Prison to quell a prison revolt, which claimed 43 lives.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Seal_of_the_United_States_National_Guard.svg/330px-Seal_of_the_United_States_National_Guard.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 58
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1962,
+      "description": "An appeals court orders the University of Mississippi to admit James Meredith, the first African-American student admitted to the segregated university.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/James_Meredith_in_2010_%28cropped%29.jpg/330px-James_Meredith_in_2010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 7
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1956,
+      "description": "The dike around the Dutch polder East Flevoland is closed.",
+      "image_url": ""
+    },
+    "count": 150
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1948,
+      "description": "Margaret Chase Smith is elected United States senator, and becomes the first woman to serve in both the U.S. House of Representatives and the United States Senate.",
+      "image_url": ""
+    },
+    "count": 5
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 1898,
+      "description": "Hannibal Goodwin patents celluloid photographic film.",
+      "image_url": ""
+    },
+    "count": 53
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1814,
+      "description": "In a turning point in the War of 1812, the British fail to capture Baltimore. During the battle, Francis Scott Key composes his poem \"Defence of Fort McHenry\", which is later set to music and becomes the United States' national anthem.",
+      "image_url": ""
+    },
+    "count": 52
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1982,
+      "description": "Colin Marston, American guitarist, bassist, and producer/engineer",
+      "image_url": ""
+    },
+    "count": 4
   }
 }
