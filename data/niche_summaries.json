@@ -1,138 +1,122 @@
 {
   "art-architecture": {
     "top_event": {
-      "year": 2013,
-      "description": "Taliban insurgents attack the United States consulate in Herat, Afghanistan, with two members of the Afghan National Police reported dead and about 20 civilians injured.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Taliban_%28bordered%29.svg/330px-Flag_of_Taliban_%28bordered%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 39
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 2013,
-      "description": "Taliban insurgents attack the United States consulate in Herat, Afghanistan, with two members of the Afghan National Police reported dead and about 20 civilians injured.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Taliban_%28bordered%29.svg/330px-Flag_of_Taliban_%28bordered%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 30
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 2008,
-      "description": "Delhi, India, is hit by a series of bomb blasts, resulting in 30 deaths and 130 injuries.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Jama_Masjid_2011.jpg/330px-Jama_Masjid_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 32
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 2007,
-      "description": "The Declaration on the Rights of Indigenous Peoples is adopted by the United Nations General Assembly.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2007_Declaration_on_the_Rights_of_Indigenous_Peoples_voting_map.svg/330px-2007_Declaration_on_the_Rights_of_Indigenous_Peoples_voting_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 32
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 2007,
-      "description": "The McLaren F1 team are found guilty of possessing confidential information from the Ferrari team, fined $100 million, and excluded from the constructors' championship standings.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/46/McLaren_Mastercard_F1_Team_logo.png/330px-McLaren_Mastercard_F1_Team_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 18
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 2007,
-      "description": "The McLaren F1 team are found guilty of possessing confidential information from the Ferrari team, fined $100 million, and excluded from the constructors' championship standings.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/46/McLaren_Mastercard_F1_Team_logo.png/330px-McLaren_Mastercard_F1_Team_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2022,
+      "description": "Death of Queen Elizabeth II: The Queen's coffin is taken from Buckingham Palace, placed on a gun carriage of The King's Troop Royal Horse Artillery and moved in a procession to Westminster Hall for her lying in state over the next four days with the queue of mourners stretching for miles along the River Thames.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg/330px-Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 43
   },
-  "true-crime": {
+  "empires-dynasties": {
     "top_event": {
-      "year": 2001,
-      "description": "Civilian aircraft traffic resumes in the United States after the September 11 attacks.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/330px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2022,
+      "description": "Death of Queen Elizabeth II: The Queen's coffin is taken from Buckingham Palace, placed on a gun carriage of The King's Troop Royal Horse Artillery and moved in a procession to Westminster Hall for her lying in state over the next four days with the queue of mourners stretching for miles along the River Thames.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg/330px-Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 4
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 1988,
-      "description": "Hurricane Gilbert is the strongest recorded hurricane in the Western Hemisphere, later replaced by Hurricane Wilma in 2005 (based on barometric pressure).",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Gilbert_1988-09-13_2200Z.png/330px-Gilbert_1988-09-13_2200Z.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 2
-  },
-  "medicine-health": {
-    "top_event": {
-      "year": 1987,
-      "description": "Goiânia accident: A radioactive object is stolen from an abandoned hospital in Goiânia, Brazil, contaminating many people in the following weeks and causing some to die from radiation poisoning.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg/330px-02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 1
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 1987,
-      "description": "Goiânia accident: A radioactive object is stolen from an abandoned hospital in Goiânia, Brazil, contaminating many people in the following weeks and causing some to die from radiation poisoning.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg/330px-02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 9
-  },
-  "literature-writers": {
-    "top_event": {
-      "year": 1971,
-      "description": "State police and National Guardsmen storm New York's Attica Prison to quell a prison revolt, which claimed 43 lives.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Seal_of_the_United_States_National_Guard.svg/330px-Seal_of_the_United_States_National_Guard.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 58
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 1962,
-      "description": "An appeals court orders the University of Mississippi to admit James Meredith, the first African-American student admitted to the segregated university.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/James_Meredith_in_2010_%28cropped%29.jpg/330px-James_Meredith_in_2010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 7
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1956,
-      "description": "The dike around the Dutch polder East Flevoland is closed.",
-      "image_url": ""
-    },
-    "count": 150
+    "count": 35
   },
   "women-in-history": {
     "top_event": {
-      "year": 1948,
-      "description": "Margaret Chase Smith is elected United States senator, and becomes the first woman to serve in both the U.S. House of Representatives and the United States Senate.",
-      "image_url": ""
+      "year": 2022,
+      "description": "Death of Queen Elizabeth II: The Queen's coffin is taken from Buckingham Palace, placed on a gun carriage of The King's Troop Royal Horse Artillery and moved in a procession to Westminster Hall for her lying in state over the next four days with the queue of mourners stretching for miles along the River Thames.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg/330px-Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 5
+    "count": 8
   },
-  "cinema-film": {
+  "wars-battles": {
     "top_event": {
-      "year": 1898,
-      "description": "Hannibal Goodwin patents celluloid photographic film.",
-      "image_url": ""
+      "year": 2019,
+      "description": "Yemen's Houthi rebels claim responsibility for an attack on Saudi Arabian oil facilities.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/330px-Flag_of_Yemen.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 53
-  },
-  "music-history": {
-    "top_event": {
-      "year": 1814,
-      "description": "In a turning point in the War of 1812, the British fail to capture Baltimore. During the battle, Francis Scott Key composes his poem \"Defence of Fort McHenry\", which is later set to music and becomes the United States' national anthem.",
-      "image_url": ""
-    },
-    "count": 52
+    "count": 32
   },
   "space-exploration": {
     "top_event": {
-      "year": 1982,
-      "description": "Colin Marston, American guitarist, bassist, and producer/engineer",
+      "year": 2015,
+      "description": "The first observation of gravitational waves is made, announced by the LIGO and Virgo collaborations on 11 February 2016.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/LIGO_measurement_of_gravitational_waves.svg/330px-LIGO_measurement_of_gravitational_waves.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 5
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 2015,
+      "description": "The first observation of gravitational waves is made, announced by the LIGO and Virgo collaborations on 11 February 2016.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/LIGO_measurement_of_gravitational_waves.svg/330px-LIGO_measurement_of_gravitational_waves.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 10
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 2003,
+      "description": "In a referendum, Estonia approves joining the European Union.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2003_Estonia_EU_Referendum_by_county.svg/330px-2003_Estonia_EU_Referendum_by_county.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 25
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 2000,
+      "description": "Microsoft releases Windows Me.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/330px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 22
+  },
+  "true-crime": {
+    "top_event": {
+      "year": 1997,
+      "description": "Eighty-one killed as five bogies of the Ahmedabad–Howrah Express plunge into a river in Bilaspur district of Madhya Pradesh, India.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ministry_of_Railways_India.svg/330px-Ministry_of_Railways_India.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 8
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1984,
+      "description": "Joe Kittinger becomes the first person to fly a gas balloon alone across the Atlantic Ocean.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Joseph_Kittinger%2C_Jr.jpg/330px-Joseph_Kittinger%2C_Jr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 6
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1948,
+      "description": "The Indian Army captures the city of Aurangabad as part of Operation Polo.",
       "image_url": ""
     },
-    "count": 4
+    "count": 71
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1846,
+      "description": "Jang Bahadur and his brothers massacre about 40 members of the Nepalese palace court.",
+      "image_url": ""
+    },
+    "count": 161
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 1814,
+      "description": "Battle of Baltimore: The poem Defence of Fort McHenry is written by Francis Scott Key. The poem is later used as the lyrics of The Star-Spangled Banner.",
+      "image_url": ""
+    },
+    "count": 72
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1226,
+      "description": "The first recorded instance of the Catholic practice of perpetual Eucharistic adoration formally begins in Avignon, France.",
+      "image_url": ""
+    },
+    "count": 41
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 2021,
+      "description": "Norm Macdonald, Canadian comedian and actor (born 1959)",
+      "image_url": ""
+    },
+    "count": 57
   }
 }
