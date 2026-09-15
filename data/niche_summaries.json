@@ -1,122 +1,130 @@
 {
   "art-architecture": {
     "top_event": {
-      "year": 2022,
-      "description": "Death of Queen Elizabeth II: The Queen's coffin is taken from Buckingham Palace, placed on a gun carriage of The King's Troop Royal Horse Artillery and moved in a procession to Westminster Hall for her lying in state over the next four days with the queue of mourners stretching for miles along the River Thames.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg/330px-Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2020,
+      "description": "Signing of the Bahrain–Israel normalization agreement occurs in Washington, D.C., normalizing relations between Israel and two Arab nations, the United Arab Emirates and Bahrain.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/President_Trump_and_The_First_Lady_Participate_in_an_Abraham_Accords_Signing_Ceremony_%2850346483977%29.jpg/330px-President_Trump_and_The_First_Lady_Participate_in_an_Abraham_Accords_Signing_Ceremony_%2850346483977%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 43
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 2022,
-      "description": "Death of Queen Elizabeth II: The Queen's coffin is taken from Buckingham Palace, placed on a gun carriage of The King's Troop Royal Horse Artillery and moved in a procession to Westminster Hall for her lying in state over the next four days with the queue of mourners stretching for miles along the River Thames.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg/330px-Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 35
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 2022,
-      "description": "Death of Queen Elizabeth II: The Queen's coffin is taken from Buckingham Palace, placed on a gun carriage of The King's Troop Royal Horse Artillery and moved in a procession to Westminster Hall for her lying in state over the next four days with the queue of mourners stretching for miles along the River Thames.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg/330px-Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 8
+    "count": 39
   },
   "wars-battles": {
     "top_event": {
-      "year": 2019,
-      "description": "Yemen's Houthi rebels claim responsibility for an attack on Saudi Arabian oil facilities.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/330px-Flag_of_Yemen.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2017,
+      "description": "The Parsons Green bombing takes place in London.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2017_Parsons_Green_bombing_20.jpg/330px-2017_Parsons_Green_bombing_20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 32
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 2015,
-      "description": "The first observation of gravitational waves is made, announced by the LIGO and Virgo collaborations on 11 February 2016.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/LIGO_measurement_of_gravitational_waves.svg/330px-LIGO_measurement_of_gravitational_waves.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 5
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 2015,
-      "description": "The first observation of gravitational waves is made, announced by the LIGO and Virgo collaborations on 11 February 2016.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/LIGO_measurement_of_gravitational_waves.svg/330px-LIGO_measurement_of_gravitational_waves.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 10
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 2003,
-      "description": "In a referendum, Estonia approves joining the European Union.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2003_Estonia_EU_Referendum_by_county.svg/330px-2003_Estonia_EU_Referendum_by_county.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 25
+    "count": 33
   },
   "business-economics": {
     "top_event": {
-      "year": 2000,
-      "description": "Microsoft releases Windows Me.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/330px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2008,
+      "description": "Lehman Brothers files for Chapter 11 bankruptcy, the largest bankruptcy filing in U.S. history.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Lehman_Brothers_Times_Square_by_David_Shankbone.jpg/330px-Lehman_Brothers_Times_Square_by_David_Shankbone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 22
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 1997,
-      "description": "Eighty-one killed as five bogies of the Ahmedabad–Howrah Express plunge into a river in Bilaspur district of Madhya Pradesh, India.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ministry_of_Railways_India.svg/330px-Ministry_of_Railways_India.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 8
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 1984,
-      "description": "Joe Kittinger becomes the first person to fly a gas balloon alone across the Atlantic Ocean.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Joseph_Kittinger%2C_Jr.jpg/330px-Joseph_Kittinger%2C_Jr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 6
+    "count": 10
   },
   "music-history": {
     "top_event": {
-      "year": 1948,
-      "description": "The Indian Army captures the city of Aurangabad as part of Operation Polo.",
-      "image_url": ""
+      "year": 2004,
+      "description": "National Hockey League commissioner Gary Bettman announces lockout of the players' union and cessation of operations by the NHL head office.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/330px-05_NHL_Shield.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 71
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1846,
-      "description": "Jang Bahadur and his brothers massacre about 40 members of the Nepalese palace court.",
-      "image_url": ""
-    },
-    "count": 161
+    "count": 52
   },
   "literature-writers": {
     "top_event": {
-      "year": 1814,
-      "description": "Battle of Baltimore: The poem Defence of Fort McHenry is written by Francis Scott Key. The poem is later used as the lyrics of The Star-Spangled Banner.",
-      "image_url": ""
+      "year": 2001,
+      "description": "During a CART race at the Lausitzring in Germany, former Formula One driver Alex Zanardi suffers a heavy accident resulting in him losing both his legs.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/CART_logo_%281997-2002%29.svg/330px-CART_logo_%281997-2002%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 72
+    "count": 75
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 1981,
+      "description": "The Senate Judiciary Committee unanimously approves Sandra Day O'Connor to become the first female justice of the Supreme Court of the United States.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/330px-Seal_of_the_United_States_Senate.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 24
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1981,
+      "description": "The Senate Judiciary Committee unanimously approves Sandra Day O'Connor to become the first female justice of the Supreme Court of the United States.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/330px-Seal_of_the_United_States_Senate.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 5
   },
   "sports-history": {
     "top_event": {
-      "year": 1226,
-      "description": "The first recorded instance of the Catholic practice of perpetual Eucharistic adoration formally begins in Avignon, France.",
-      "image_url": ""
+      "year": 1978,
+      "description": "At the Superdome in New Orleans, Muhammad Ali outpoints Leon Spinks in a rematch to become the first boxer to win the world heavyweight title three times.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/DHS_Agencies_Support_Super_Bowl_LIX_Security_February_2025_-_108.jpg/330px-DHS_Agencies_Support_Super_Bowl_LIX_Security_February_2025_-_108.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 41
+    "count": 25
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1978,
+      "description": "At the Superdome in New Orleans, Muhammad Ali outpoints Leon Spinks in a rematch to become the first boxer to win the world heavyweight title three times.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/DHS_Agencies_Support_Super_Bowl_LIX_Security_February_2025_-_108.jpg/330px-DHS_Agencies_Support_Super_Bowl_LIX_Security_February_2025_-_108.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 16
+  },
+  "true-crime": {
+    "top_event": {
+      "year": 1974,
+      "description": "Air Vietnam Flight 706 is hijacked, then crashes while attempting to land with 75 on board.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Air_Vietnam_Boeing_727-121C_XV-NJC_at_Don_Muang_International_Airport_on_February%2C_7_1974.jpg/330px-Air_Vietnam_Boeing_727-121C_XV-NJC_at_Don_Muang_International_Airport_on_February%2C_7_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 6
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1971,
+      "description": "The first Greenpeace ship departs from Vancouver to protest against the upcoming Cannikin nuclear weapon test in Alaska.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Greenpeace_offices_world_map.svg/330px-Greenpeace_offices_world_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 3
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1968,
+      "description": "The Soviet Zond 5 spaceship is launched, becoming the first spacecraft to fly around the Moon and re-enter the Earth's atmosphere.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/330px-Flag_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 5
   },
   "cinema-film": {
     "top_event": {
-      "year": 2021,
-      "description": "Norm Macdonald, Canadian comedian and actor (born 1959)",
+      "year": 1954,
+      "description": "Marilyn Monroe's iconic skirt scene is shot during filming for The Seven Year Itch.",
       "image_url": ""
     },
-    "count": 57
+    "count": 51
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1952,
+      "description": "The United Nations cedes Eritrea to Ethiopia.",
+      "image_url": ""
+    },
+    "count": 148
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 1945,
+      "description": "A hurricane strikes southern Florida and the Bahamas, destroying 366 airplanes and 25 blimps at Naval Air Station Richmond.",
+      "image_url": ""
+    },
+    "count": 1
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 1894,
+      "description": "First Sino-Japanese War: Japan defeats the Qing dynasty in the Battle of Pyongyang, causing the Qing army to withdraw to the Chinese border with Korea.",
+      "image_url": ""
+    },
+    "count": 19
   }
 }
