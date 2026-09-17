@@ -1,138 +1,138 @@
 {
   "art-architecture": {
     "top_event": {
-      "year": 2022,
-      "description": "The death of Mahsa Amini occurred in Tehran, Iran, sparking worldwide protests.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/7/71/Mahsa_Amini.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "year": 2025,
+      "description": "Saudi Arabia and Pakistan sign the Strategic Mutual Defence Agreement.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Pakistan_Saudi_Arabia_Locator.svg/330px-Pakistan_Saudi_Arabia_Locator.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 35
   },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 2022,
-      "description": "The death of Mahsa Amini occurred in Tehran, Iran, sparking worldwide protests.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/7/71/Mahsa_Amini.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    "count": 23
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 2021,
-      "description": "Inspiration4, the first private orbital crewed spaceflight, is launched from the Kennedy Space Center.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Inspiration4_Launch_%28210915-F-CG053-1004%29.jpg/330px-Inspiration4_Launch_%28210915-F-CG053-1004%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 6
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 2021,
-      "description": "Inspiration4, the first private orbital crewed spaceflight, is launched from the Kennedy Space Center.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Inspiration4_Launch_%28210915-F-CG053-1004%29.jpg/330px-Inspiration4_Launch_%28210915-F-CG053-1004%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 16
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 2015,
-      "description": "A 8.3 Mw earthquake strikes the Chilean city of Illapel, killing 15 people, injuring at least 34, leaving at least six missing, and causing extensive damage. One person also dies in Argentina.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Shakemap_us20003k7a.jpg/330px-Shakemap_us20003k7a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 6
-  },
   "wars-battles": {
     "top_event": {
-      "year": 2014,
-      "description": "The Islamic State of Iraq and the Levant launches its Kobani offensive against Syrian–Kurdish forces.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Siege_of_Kobani_frontline_progression%2C_from_October_2014_to_January_2015.jpg/330px-Siege_of_Kobani_frontline_progression%2C_from_October_2014_to_January_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2025,
+      "description": "Saudi Arabia and Pakistan sign the Strategic Mutual Defence Agreement.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Pakistan_Saudi_Arabia_Locator.svg/330px-Pakistan_Saudi_Arabia_Locator.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 24
-  },
-  "medicine-health": {
-    "top_event": {
-      "year": 2014,
-      "description": "The Islamic State of Iraq and the Levant launches its Kobani offensive against Syrian–Kurdish forces.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Siege_of_Kobani_frontline_progression%2C_from_October_2014_to_January_2015.jpg/330px-Siege_of_Kobani_frontline_progression%2C_from_October_2014_to_January_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 2
+    "count": 42
   },
   "true-crime": {
     "top_event": {
-      "year": 2013,
-      "description": "A gunman kills twelve people at the Washington Navy Yard in Washington, D.C.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv/330px--Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv.jpg"
+      "year": 2016,
+      "description": "Two bombs explode in Seaside Park, New Jersey, and Manhattan. Thirty-one people are injured in the Manhattan bombing.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b5/2016_Chelsea%2C_NY_explosion.jpg/330px-2016_Chelsea%2C_NY_explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 8
+    "count": 5
   },
-  "politics-revolutions": {
+  "inventions-technology": {
     "top_event": {
       "year": 2013,
-      "description": "A gunman kills twelve people at the Washington Navy Yard in Washington, D.C.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv/330px--Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv.jpg"
+      "description": "Grand Theft Auto V earns more than half a billion dollars on its first day of release.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
-    "count": 24
-  },
-  "music-history": {
-    "top_event": {
-      "year": 1979,
-      "description": "The Sugarhill Gang released their first single, Rapper's Delight.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/The_Sugarhill_Gang_%2852789914906%29.jpg/330px-The_Sugarhill_Gang_%2852789914906%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 73
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1976,
-      "description": "Armenian champion swimmer Shavarsh Karapetyan saves 20 people from a trolleybus that had fallen into a Yerevan reservoir.",
-      "image_url": ""
-    },
-    "count": 165
+    "count": 14
   },
   "firsts-in-history": {
     "top_event": {
-      "year": 1975,
-      "description": "The first prototype of the Mikoyan MiG-31 interceptor makes its maiden flight.",
-      "image_url": ""
+      "year": 2013,
+      "description": "Grand Theft Auto V earns more than half a billion dollars on its first day of release.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
-    "count": 6
+    "count": 8
   },
-  "cinema-film": {
+  "natural-disasters": {
     "top_event": {
-      "year": 1966,
-      "description": "The Metropolitan Opera House opens at Lincoln Center in New York City with the world premiere of Samuel Barber's opera Antony and Cleopatra.",
+      "year": 2006,
+      "description": "Fourpeaked Mountain in Alaska erupts, marking the first eruption for the volcano in at least 10,000 years.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Fourpeaked-fumaroles-cyrus-read1.JPG/330px-Fourpeaked-fumaroles-cyrus-read1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 3
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 2006,
+      "description": "Fourpeaked Mountain in Alaska erupts, marking the first eruption for the volcano in at least 10,000 years.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Fourpeaked-fumaroles-cyrus-read1.JPG/330px-Fourpeaked-fumaroles-cyrus-read1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 24
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 2006,
+      "description": "An audio tape of a private speech by Hungarian Prime Minister Ferenc Gyurcsány is leaked to the public, in which he confessed that his Hungarian Socialist Party had lied to win the 2006 election, sparking widespread protests across the country.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Gyurcsany_Ferenc-mszp-2_%28cropped%29.jpg/330px-Gyurcsany_Ferenc-mszp-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 38
+  },
+  "music-history": {
+    "top_event": {
+      "year": 2018,
+      "description": "A Russian reconnaissance aircraft carrying 15 people on board is brought down by a Syrian surface-to-air missile over the Mediterranean Sea.",
       "image_url": ""
     },
-    "count": 65
+    "count": 63
   },
   "business-economics": {
     "top_event": {
-      "year": 1908,
-      "description": "The General Motors Corporation is founded.",
-      "image_url": ""
+      "year": 2001,
+      "description": "The New York Stock Exchange reopens for trading after the September 11 attacks, the longest closure since the Great Depression.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 18
+    "count": 21
   },
   "literature-writers": {
     "top_event": {
-      "year": 2016,
-      "description": "W. P. Kinsella, Canadian novelist (born 1935)",
-      "image_url": ""
-    },
-    "count": 84
-  },
-  "sports-history": {
-    "top_event": {
       "year": 2001,
-      "description": "Avishag Semberg, Israeli Olympic taekwondo bronze medalist",
-      "image_url": ""
+      "description": "George W. Bush, president of the United States, delivers remarks at the Islamic Center of Washington praising Muslim Americans and condemning Islamophobia in the aftermath of the September 11 attacks.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/330px-George-W-Bush.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 27
+    "count": 65
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1991,
+      "description": "Estonia, North Korea, South Korea, Latvia, Lithuania, the Marshall Islands and Micronesia join the United Nations.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/330px-Flag_of_Estonia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 6
   },
   "women-in-history": {
     "top_event": {
-      "year": 1957,
-      "description": "Clara Furse, English businesswoman",
+      "year": 1983,
+      "description": "Vanessa Williams becomes the first black Miss America.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Vanessa_Williams_April_2019.png/330px-Vanessa_Williams_April_2019.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 3
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1961,
+      "description": "The world's first retractable roof stadium, the Civic Arena, opens in Pittsburgh, Pennsylvania.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Pittsburgh-pennsylvania-mellon-arena-2007.jpg/330px-Pittsburgh-pennsylvania-mellon-arena-2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 29
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1961,
+      "description": "Northwest Orient Airlines Flight 706 crashes during takeoff from O'Hare International Airport in Chicago, Illinois, killing all 37 people on board.",
       "image_url": ""
     },
-    "count": 6
+    "count": 164
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 2024,
+      "description": "JD Souther, American singer, songwriter, and actor (born 1945)",
+      "image_url": ""
+    },
+    "count": 51
+  },
+  "archaeology-discoveries": {
+    "top_event": {
+      "year": 1863,
+      "description": "Charles Robert Cockerell, English archaeologist and architect (born 1788)",
+      "image_url": ""
+    },
+    "count": 1
   }
 }
