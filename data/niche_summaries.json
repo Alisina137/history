@@ -1,136 +1,144 @@
 {
   "art-architecture": {
     "top_event": {
-      "year": 2025,
-      "description": "Saudi Arabia and Pakistan sign the Strategic Mutual Defence Agreement.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Pakistan_Saudi_Arabia_Locator.svg/330px-Pakistan_Saudi_Arabia_Locator.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 35
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 2025,
-      "description": "Saudi Arabia and Pakistan sign the Strategic Mutual Defence Agreement.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Pakistan_Saudi_Arabia_Locator.svg/330px-Pakistan_Saudi_Arabia_Locator.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 42
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 2016,
-      "description": "Two bombs explode in Seaside Park, New Jersey, and Manhattan. Thirty-one people are injured in the Manhattan bombing.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b5/2016_Chelsea%2C_NY_explosion.jpg/330px-2016_Chelsea%2C_NY_explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 5
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 2013,
-      "description": "Grand Theft Auto V earns more than half a billion dollars on its first day of release.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    "count": 14
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 2013,
-      "description": "Grand Theft Auto V earns more than half a billion dollars on its first day of release.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    "count": 8
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 2006,
-      "description": "Fourpeaked Mountain in Alaska erupts, marking the first eruption for the volcano in at least 10,000 years.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Fourpeaked-fumaroles-cyrus-read1.JPG/330px-Fourpeaked-fumaroles-cyrus-read1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 3
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 2006,
-      "description": "Fourpeaked Mountain in Alaska erupts, marking the first eruption for the volcano in at least 10,000 years.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Fourpeaked-fumaroles-cyrus-read1.JPG/330px-Fourpeaked-fumaroles-cyrus-read1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 24
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 2006,
-      "description": "An audio tape of a private speech by Hungarian Prime Minister Ferenc Gyurcsány is leaked to the public, in which he confessed that his Hungarian Socialist Party had lied to win the 2006 election, sparking widespread protests across the country.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Gyurcsany_Ferenc-mszp-2_%28cropped%29.jpg/330px-Gyurcsany_Ferenc-mszp-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 38
-  },
-  "music-history": {
-    "top_event": {
       "year": 2018,
-      "description": "A Russian reconnaissance aircraft carrying 15 people on board is brought down by a Syrian surface-to-air missile over the Mediterranean Sea.",
-      "image_url": ""
+      "description": "Cannabis is legalized in South Africa, through a ruling of the Constitutional Court.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Cannabis_sativa_Koehler_drawing.jpg/330px-Cannabis_sativa_Koehler_drawing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 63
+    "count": 37
   },
   "business-economics": {
     "top_event": {
-      "year": 2001,
-      "description": "The New York Stock Exchange reopens for trading after the September 11 attacks, the longest closure since the Great Depression.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2017,
+      "description": "Toy retail chain Toys \"R\" Us files for bankruptcy protection in the United States and Canada.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Toys_R_Us_department_in_Macy%27s_Center_City_Philadelphia.jpg/330px-Toys_R_Us_department_in_Macy%27s_Center_City_Philadelphia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 21
   },
-  "literature-writers": {
+  "wars-battles": {
     "top_event": {
-      "year": 2001,
-      "description": "George W. Bush, president of the United States, delivers remarks at the Islamic Center of Washington praising Muslim Americans and condemning Islamophobia in the aftermath of the September 11 attacks.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/330px-George-W-Bush.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2016,
+      "description": "The 2016 Uri attack in Jammu and Kashmir, India by terrorist group Jaish-e-Mohammed results in the deaths of nineteen Indian Army soldiers and all four attackers.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Kashmir_region_2004.jpg/330px-Kashmir_region_2004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 65
+    "count": 41
   },
-  "space-exploration": {
+  "politics-revolutions": {
     "top_event": {
-      "year": 1991,
-      "description": "Estonia, North Korea, South Korea, Latvia, Lithuania, the Marshall Islands and Micronesia join the United Nations.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/330px-Flag_of_Estonia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2014,
+      "description": "Scotland votes against independence from the United Kingdom, by 55% to 45%.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/330px-Flag_of_Scotland.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 6
+    "count": 30
   },
-  "women-in-history": {
+  "empires-dynasties": {
     "top_event": {
-      "year": 1983,
-      "description": "Vanessa Williams becomes the first black Miss America.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Vanessa_Williams_April_2019.png/330px-Vanessa_Williams_April_2019.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2014,
+      "description": "Scotland votes against independence from the United Kingdom, by 55% to 45%.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/330px-Flag_of_Scotland.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 3
+    "count": 28
   },
   "sports-history": {
     "top_event": {
-      "year": 1961,
-      "description": "The world's first retractable roof stadium, the Civic Arena, opens in Pittsburgh, Pennsylvania.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Pittsburgh-pennsylvania-mellon-arena-2007.jpg/330px-Pittsburgh-pennsylvania-mellon-arena-2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2010,
+      "description": "Philippe Croizon becomes the first quadruple amputee to swim across the English Channel.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Dakar_2016_-_Conf%C3%A9rence_de_presse_-_20151118_-_134.jpg/330px-Dakar_2016_-_Conf%C3%A9rence_de_presse_-_20151118_-_134.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 29
+    "count": 38
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 2010,
+      "description": "Philippe Croizon becomes the first quadruple amputee to swim across the English Channel.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Dakar_2016_-_Conf%C3%A9rence_de_presse_-_20151118_-_134.jpg/330px-Dakar_2016_-_Conf%C3%A9rence_de_presse_-_20151118_-_134.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 30
+  },
+  "true-crime": {
+    "top_event": {
+      "year": 2015,
+      "description": "Two security personnel, 17 worshippers in a mosque, and 13 militants are killed during a Tehrik-i-Taliban Pakistan attack on a Pakistan Air Force base on the outskirts of Peshawar.",
+      "image_url": ""
+    },
+    "count": 4
+  },
+  "natural-disasters": {
+    "top_event": {
+      "year": 2011,
+      "description": "The 2011 Sikkim earthquake is felt across northeastern India, Nepal, Bhutan, Bangladesh and southern Tibet.",
+      "image_url": ""
+    },
+    "count": 3
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1988,
+      "description": "The Magna Charta Universitatum, asserting key principles essential to the free operation of universities, is signed in Bologna by the rectors of 388 institutions of higher learning, to commemorate the 900th anniversary of the University of Bologna.",
+      "image_url": ""
+    },
+    "count": 45
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1984,
+      "description": "Joe Kittinger completes the first solo balloon crossing of the Atlantic.",
+      "image_url": ""
+    },
+    "count": 15
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1980,
+      "description": "Soyuz 38 carries two cosmonauts (including one Cuban) to the Salyut 6 space station.",
+      "image_url": ""
+    },
+    "count": 8
   },
   "general-history": {
     "top_event": {
-      "year": 1961,
-      "description": "Northwest Orient Airlines Flight 706 crashes during takeoff from O'Hare International Airport in Chicago, Illinois, killing all 37 people on board.",
+      "year": 1973,
+      "description": "The Bahamas, East Germany and West Germany are admitted to the United Nations.",
       "image_url": ""
     },
-    "count": 164
+    "count": 153
   },
   "cinema-film": {
     "top_event": {
-      "year": 2024,
-      "description": "JD Souther, American singer, songwriter, and actor (born 1945)",
+      "year": 1965,
+      "description": "Mel Brooks and Buck Henry's spy-comedy series Get Smart premieres on NBC Television.",
       "image_url": ""
     },
-    "count": 51
+    "count": 60
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1948,
+      "description": "Margaret Chase Smith of Maine becomes the first woman elected to the United States Senate without completing another senator's term.",
+      "image_url": ""
+    },
+    "count": 3
   },
   "archaeology-discoveries": {
     "top_event": {
-      "year": 1863,
-      "description": "Charles Robert Cockerell, English archaeologist and architect (born 1788)",
+      "year": 1932,
+      "description": "The body of actress Peg Entwistle is discovered by police, two days after her suicide by jumping off of the Hollywoodland sign.",
+      "image_url": ""
+    },
+    "count": 2
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 2024,
+      "description": "Nick Gravenites, American singer-songwriter (born 1938)",
+      "image_url": ""
+    },
+    "count": 48
+  },
+  "medicine-health": {
+    "top_event": {
+      "year": 1915,
+      "description": "Susan La Flesche Picotte, doctor, teacher, and social reformer, first Native American to earn a medical degree (born 1865)",
       "image_url": ""
     },
     "count": 1
