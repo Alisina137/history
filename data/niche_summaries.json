@@ -1,144 +1,136 @@
 {
   "art-architecture": {
     "top_event": {
-      "year": 2018,
-      "description": "Cannabis is legalized in South Africa, through a ruling of the Constitutional Court.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Cannabis_sativa_Koehler_drawing.jpg/330px-Cannabis_sativa_Koehler_drawing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2023,
+      "description": "Azerbaijan launches a military offensive against the Republic of Artsakh in the Nagorno-Karabakh region; this leads to the flight of the Armenian population.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/330px-Flag_of_Azerbaijan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 37
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 2017,
-      "description": "Toy retail chain Toys \"R\" Us files for bankruptcy protection in the United States and Canada.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Toys_R_Us_department_in_Macy%27s_Center_City_Philadelphia.jpg/330px-Toys_R_Us_department_in_Macy%27s_Center_City_Philadelphia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 21
+    "count": 32
   },
   "wars-battles": {
     "top_event": {
-      "year": 2016,
-      "description": "The 2016 Uri attack in Jammu and Kashmir, India by terrorist group Jaish-e-Mohammed results in the deaths of nineteen Indian Army soldiers and all four attackers.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Kashmir_region_2004.jpg/330px-Kashmir_region_2004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2023,
+      "description": "Azerbaijan launches a military offensive against the Republic of Artsakh in the Nagorno-Karabakh region; this leads to the flight of the Armenian population.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/330px-Flag_of_Azerbaijan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 41
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 2014,
-      "description": "Scotland votes against independence from the United Kingdom, by 55% to 45%.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/330px-Flag_of_Scotland.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 30
+    "count": 31
   },
   "empires-dynasties": {
     "top_event": {
-      "year": 2014,
-      "description": "Scotland votes against independence from the United Kingdom, by 55% to 45%.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/330px-Flag_of_Scotland.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2022,
+      "description": "The state funeral of Queen Elizabeth II of the United Kingdom is held at Westminster Abbey, London.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg/330px-Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 28
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 2010,
-      "description": "Philippe Croizon becomes the first quadruple amputee to swim across the English Channel.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Dakar_2016_-_Conf%C3%A9rence_de_presse_-_20151118_-_134.jpg/330px-Dakar_2016_-_Conf%C3%A9rence_de_presse_-_20151118_-_134.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 38
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 2010,
-      "description": "Philippe Croizon becomes the first quadruple amputee to swim across the English Channel.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Dakar_2016_-_Conf%C3%A9rence_de_presse_-_20151118_-_134.jpg/330px-Dakar_2016_-_Conf%C3%A9rence_de_presse_-_20151118_-_134.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 30
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 2015,
-      "description": "Two security personnel, 17 worshippers in a mosque, and 13 militants are killed during a Tehrik-i-Taliban Pakistan attack on a Pakistan Air Force base on the outskirts of Peshawar.",
-      "image_url": ""
-    },
-    "count": 4
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 2011,
-      "description": "The 2011 Sikkim earthquake is felt across northeastern India, Nepal, Bhutan, Bangladesh and southern Tibet.",
-      "image_url": ""
-    },
-    "count": 3
-  },
-  "music-history": {
-    "top_event": {
-      "year": 1988,
-      "description": "The Magna Charta Universitatum, asserting key principles essential to the free operation of universities, is signed in Bologna by the rectors of 388 institutions of higher learning, to commemorate the 900th anniversary of the University of Bologna.",
-      "image_url": ""
-    },
-    "count": 45
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 1984,
-      "description": "Joe Kittinger completes the first solo balloon crossing of the Atlantic.",
-      "image_url": ""
-    },
-    "count": 15
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 1980,
-      "description": "Soyuz 38 carries two cosmonauts (including one Cuban) to the Salyut 6 space station.",
-      "image_url": ""
-    },
-    "count": 8
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1973,
-      "description": "The Bahamas, East Germany and West Germany are admitted to the United Nations.",
-      "image_url": ""
-    },
-    "count": 153
-  },
-  "cinema-film": {
-    "top_event": {
-      "year": 1965,
-      "description": "Mel Brooks and Buck Henry's spy-comedy series Get Smart premieres on NBC Television.",
-      "image_url": ""
-    },
-    "count": 60
+    "count": 17
   },
   "women-in-history": {
     "top_event": {
-      "year": 1948,
-      "description": "Margaret Chase Smith of Maine becomes the first woman elected to the United States Senate without completing another senator's term.",
-      "image_url": ""
+      "year": 2022,
+      "description": "The state funeral of Queen Elizabeth II of the United Kingdom is held at Westminster Abbey, London.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg/330px-Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 3
+    "count": 6
   },
-  "archaeology-discoveries": {
+  "natural-disasters": {
     "top_event": {
-      "year": 1932,
-      "description": "The body of actress Peg Entwistle is discovered by police, two days after her suicide by jumping off of the Hollywoodland sign.",
-      "image_url": ""
+      "year": 2022,
+      "description": "A strong earthquake kills 2 and injures over 30 in Mexico's state of Michoacán.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/2022-09-19_Aquila%2C_Mexico_M7.6_earthquake_shakemap_%28USGS%29.jpg/330px-2022-09-19_Aquila%2C_Mexico_M7.6_earthquake_shakemap_%28USGS%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 2
+    "count": 4
   },
   "literature-writers": {
     "top_event": {
-      "year": 2024,
-      "description": "Nick Gravenites, American singer-songwriter (born 1938)",
+      "year": 2021,
+      "description": "The Cumbre Vieja volcano, on the island of La Palma in the Canary Islands, erupts. The eruption lasts for almost three months, ending on December 13.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%28Isla_de_la_Palma%29_La_Palma_%26_La_Gomera_Islands%2C_Canary_Islands_%28cropped%29.jpg/330px-%28Isla_de_la_Palma%29_La_Palma_%26_La_Gomera_Islands%2C_Canary_Islands_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 44
+  },
+  "true-crime": {
+    "top_event": {
+      "year": 2016,
+      "description": "In the wake of a manhunt, the suspect in a series of bombings in New York and New Jersey is apprehended after a shootout with police.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b5/2016_Chelsea%2C_NY_explosion.jpg/330px-2016_Chelsea%2C_NY_explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 6
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 2011,
+      "description": "Mariano Rivera of the New York Yankees surpasses Trevor Hoffman to become Major League Baseball's all-time career saves leader with 602.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Mariano_Rivera_allison_7_29_07.jpg/330px-Mariano_Rivera_allison_7_29_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 31
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 2008,
+      "description": "A Learjet 60 carrying musicians Travis Barker and Adam \"DJ AM\" Goldstein crashes during a rejected takeoff from Colombia Metropolitan Airport in West Columbia, South Carolina, killing four of the six people on board. Barker and Goldstein both survive.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bombardier.learjet60.oe-gtf.arp.jpg/330px-Bombardier.learjet60.oe-gtf.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 16
+  },
+  "music-history": {
+    "top_event": {
+      "year": 2008,
+      "description": "A Learjet 60 carrying musicians Travis Barker and Adam \"DJ AM\" Goldstein crashes during a rejected takeoff from Colombia Metropolitan Airport in West Columbia, South Carolina, killing four of the six people on board. Barker and Goldstein both survive.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bombardier.learjet60.oe-gtf.arp.jpg/330px-Bombardier.learjet60.oe-gtf.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 36
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 2006,
+      "description": "The Thai army stages a coup. The Constitution is revoked and martial law is declared.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/247783721_10e33ed8c9_o.jpg/330px-247783721_10e33ed8c9_o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 22
+  },
+  "archaeology-discoveries": {
+    "top_event": {
+      "year": 1991,
+      "description": "Ötzi the Iceman is discovered in the Alps on the border between Italy and Austria.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Otzi-Quinson.jpg/330px-Otzi-Quinson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 3
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1982,
+      "description": "Scott Fahlman posts the first documented emoticons :-) and :-( on the Carnegie Mellon University bulletin board system.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/SEF2007a.jpg/330px-SEF2007a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 7
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1982,
+      "description": "Scott Fahlman posts the first documented emoticons :-) and :-( on the Carnegie Mellon University bulletin board system.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/SEF2007a.jpg/330px-SEF2007a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 5
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1970,
+      "description": "Kostas Georgakis, a Greek student of geology, sets himself ablaze in Matteotti Square in Genoa, Italy, as a protest against the dictatorial regime of Georgios Papadopoulos.",
       "image_url": ""
     },
-    "count": 48
+    "count": 126
   },
-  "medicine-health": {
+  "cinema-film": {
     "top_event": {
-      "year": 1915,
-      "description": "Susan La Flesche Picotte, doctor, teacher, and social reformer, first Native American to earn a medical degree (born 1865)",
+      "year": 2021,
+      "description": "John Challis, English actor (born 1942)",
+      "image_url": ""
+    },
+    "count": 28
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 2004,
+      "description": "Ellis Marsalis Sr., American businessman and activist (born 1908)",
       "image_url": ""
     },
     "count": 1
