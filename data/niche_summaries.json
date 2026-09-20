@@ -1,138 +1,130 @@
 {
+  "general-history": {
+    "top_event": {
+      "year": 2019,
+      "description": "Roughly four million people, mostly students, demonstrate across the world to address climate change. Sixteen-year-old Greta Thunberg from Sweden leads the demonstration in New York City.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Sept_2019_Global_Climate_Strike_logo_en.svg/330px-Sept_2019_Global_Climate_Strike_logo_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 145
+  },
   "art-architecture": {
     "top_event": {
-      "year": 2023,
-      "description": "Azerbaijan launches a military offensive against the Republic of Artsakh in the Nagorno-Karabakh region; this leads to the flight of the Armenian population.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/330px-Flag_of_Azerbaijan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 32
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 2023,
-      "description": "Azerbaijan launches a military offensive against the Republic of Artsakh in the Nagorno-Karabakh region; this leads to the flight of the Armenian population.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/330px-Flag_of_Azerbaijan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 31
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 2022,
-      "description": "The state funeral of Queen Elizabeth II of the United Kingdom is held at Westminster Abbey, London.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg/330px-Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 17
-  },
-  "women-in-history": {
-    "top_event": {
-      "year": 2022,
-      "description": "The state funeral of Queen Elizabeth II of the United Kingdom is held at Westminster Abbey, London.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg/330px-Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 6
-  },
-  "natural-disasters": {
-    "top_event": {
-      "year": 2022,
-      "description": "A strong earthquake kills 2 and injures over 30 in Mexico's state of Michoacán.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/2022-09-19_Aquila%2C_Mexico_M7.6_earthquake_shakemap_%28USGS%29.jpg/330px-2022-09-19_Aquila%2C_Mexico_M7.6_earthquake_shakemap_%28USGS%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 4
-  },
-  "literature-writers": {
-    "top_event": {
-      "year": 2021,
-      "description": "The Cumbre Vieja volcano, on the island of La Palma in the Canary Islands, erupts. The eruption lasts for almost three months, ending on December 13.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%28Isla_de_la_Palma%29_La_Palma_%26_La_Gomera_Islands%2C_Canary_Islands_%28cropped%29.jpg/330px-%28Isla_de_la_Palma%29_La_Palma_%26_La_Gomera_Islands%2C_Canary_Islands_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 44
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 2016,
-      "description": "In the wake of a manhunt, the suspect in a series of bombings in New York and New Jersey is apprehended after a shootout with police.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b5/2016_Chelsea%2C_NY_explosion.jpg/330px-2016_Chelsea%2C_NY_explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 6
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 2011,
-      "description": "Mariano Rivera of the New York Yankees surpasses Trevor Hoffman to become Major League Baseball's all-time career saves leader with 602.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Mariano_Rivera_allison_7_29_07.jpg/330px-Mariano_Rivera_allison_7_29_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 31
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 2008,
-      "description": "A Learjet 60 carrying musicians Travis Barker and Adam \"DJ AM\" Goldstein crashes during a rejected takeoff from Colombia Metropolitan Airport in West Columbia, South Carolina, killing four of the six people on board. Barker and Goldstein both survive.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bombardier.learjet60.oe-gtf.arp.jpg/330px-Bombardier.learjet60.oe-gtf.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 16
-  },
-  "music-history": {
-    "top_event": {
-      "year": 2008,
-      "description": "A Learjet 60 carrying musicians Travis Barker and Adam \"DJ AM\" Goldstein crashes during a rejected takeoff from Colombia Metropolitan Airport in West Columbia, South Carolina, killing four of the six people on board. Barker and Goldstein both survive.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bombardier.learjet60.oe-gtf.arp.jpg/330px-Bombardier.learjet60.oe-gtf.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2018,
+      "description": "At least 161 people die after a ferry capsizes close to the pier on Ukara Island in Lake Victoria, Tanzania.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/MV_Nyerere.jpg/330px-MV_Nyerere.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 36
   },
-  "politics-revolutions": {
+  "natural-disasters": {
     "top_event": {
-      "year": 2006,
-      "description": "The Thai army stages a coup. The Constitution is revoked and martial law is declared.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/247783721_10e33ed8c9_o.jpg/330px-247783721_10e33ed8c9_o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 22
-  },
-  "archaeology-discoveries": {
-    "top_event": {
-      "year": 1991,
-      "description": "Ötzi the Iceman is discovered in the Alps on the border between Italy and Austria.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Otzi-Quinson.jpg/330px-Otzi-Quinson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2017,
+      "description": "Hurricane Maria makes landfall in Puerto Rico as a powerful Category 4 hurricane, resulting in 2,975 deaths, US$90 billion in damage, and a major humanitarian crisis.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Maria_2017-09-20_0238Z_%28Coastline-less%29.jpg/330px-Maria_2017-09-20_0238Z_%28Coastline-less%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 3
   },
-  "inventions-technology": {
+  "politics-revolutions": {
     "top_event": {
-      "year": 1982,
-      "description": "Scott Fahlman posts the first documented emoticons :-) and :-( on the Carnegie Mellon University bulletin board system.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/SEF2007a.jpg/330px-SEF2007a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2011,
+      "description": "The United States military ends its \"don't ask, don't tell\" policy, allowing gay men and women to serve openly for the first time.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Screenshot_of_Video_Recording_of_President_William_Jefferson_Clinton.png/330px-Screenshot_of_Video_Recording_of_President_William_Jefferson_Clinton.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 7
+    "count": 36
   },
-  "firsts-in-history": {
+  "wars-battles": {
     "top_event": {
-      "year": 1982,
-      "description": "Scott Fahlman posts the first documented emoticons :-) and :-( on the Carnegie Mellon University bulletin board system.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/SEF2007a.jpg/330px-SEF2007a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2011,
+      "description": "The United States military ends its \"don't ask, don't tell\" policy, allowing gay men and women to serve openly for the first time.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Screenshot_of_Video_Recording_of_President_William_Jefferson_Clinton.png/330px-Screenshot_of_Video_Recording_of_President_William_Jefferson_Clinton.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 27
+  },
+  "true-crime": {
+    "top_event": {
+      "year": 2008,
+      "description": "A dump truck full of explosives detonates in front of the Marriott hotel in Islamabad, Pakistan, killing 54 people and injuring 266 others.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Marriot_Hotel_Islamabad_Pakistan_bombing.jpg/330px-Marriot_Hotel_Islamabad_Pakistan_bombing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 5
   },
-  "general-history": {
+  "empires-dynasties": {
     "top_event": {
-      "year": 1970,
-      "description": "Kostas Georgakis, a Greek student of geology, sets himself ablaze in Matteotti Square in Genoa, Italy, as a protest against the dictatorial regime of Georgios Papadopoulos.",
+      "year": 1989,
+      "description": "USAir Flight 5050 crashes into Bowery Bay during a rejected takeoff from LaGuardia Airport, killing two people.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/USAir_Flight_5050_wreckage.jpg/330px-USAir_Flight_5050_wreckage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 19
+  },
+  "women-in-history": {
+    "top_event": {
+      "year": 1988,
+      "description": "Margaret Thatcher delivers the Bruges speech, in which she articulates her opposition to further European integration.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg/330px-Margaret_Thatcher_stock_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 3
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 1988,
+      "description": "Margaret Thatcher delivers the Bruges speech, in which she articulates her opposition to further European integration.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg/330px-Margaret_Thatcher_stock_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 59
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1973,
+      "description": "Billie Jean King beats Bobby Riggs in the Battle of the Sexes tennis match at the Houston Astrodome.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Billie_Jean_King_at_the_2026_Sundance_Film_Festival_02_%28crop_2%29.jpg/330px-Billie_Jean_King_at_the_2026_Sundance_Film_Festival_02_%28crop_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 35
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1973,
+      "description": "Singer Jim Croce, songwriter and musician Maury Muehleisen and four others die when their light aircraft crashes shortly after takeoff from Natchitoches Regional Airport in Louisiana.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Jim_Croce_publicity_portrait_ABC_Records_%28cropped%29.jpg/330px-Jim_Croce_publicity_portrait_ABC_Records_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 55
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1967,
+      "description": "The Cunard Liner Queen Elizabeth 2 is launched in Clydebank, Scotland.",
       "image_url": ""
     },
-    "count": 126
+    "count": 12
   },
   "cinema-film": {
     "top_event": {
-      "year": 2021,
-      "description": "John Challis, English actor (born 1942)",
+      "year": 1946,
+      "description": "The first Cannes Film Festival is held, having been delayed for seven years due to World War II.",
       "image_url": ""
     },
-    "count": 28
+    "count": 48
+  },
+  "firsts-in-history": {
+    "top_event": {
+      "year": 1893,
+      "description": "Charles Duryea and his brother road-test the first American-made gasoline-powered automobile.",
+      "image_url": ""
+    },
+    "count": 4
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 1857,
+      "description": "The Indian Rebellion of 1857 ends with the recapture of Delhi by troops loyal to the East India Company.",
+      "image_url": ""
+    },
+    "count": 7
   },
   "space-exploration": {
     "top_event": {
-      "year": 2004,
-      "description": "Ellis Marsalis Sr., American businessman and activist (born 1908)",
+      "year": 2014,
+      "description": "Anatoly Berezovoy, Russian colonel, pilot, and cosmonaut (born 1942)",
       "image_url": ""
     },
-    "count": 1
+    "count": 4
   }
 }
