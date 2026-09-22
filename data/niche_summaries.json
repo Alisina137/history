@@ -1,146 +1,138 @@
 {
   "art-architecture": {
     "top_event": {
-      "year": 2019,
-      "description": "A 5.6 Mw earthquake shakes the Albanian port of Durrës. Forty-nine people are injured in the capital, Tirana.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Terremoto_in_Albania_%2849137246301%29.jpg/330px-Terremoto_in_Albania_%2849137246301%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2024,
+      "description": "Anura Kumara Dissanayake is elected as the 9th President Of Sri Lanka.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Dissanayake_2026.jpg/330px-Dissanayake_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 37
+    "count": 35
   },
-  "natural-disasters": {
+  "politics-revolutions": {
     "top_event": {
-      "year": 2019,
-      "description": "A 5.6 Mw earthquake shakes the Albanian port of Durrës. Forty-nine people are injured in the capital, Tirana.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Terremoto_in_Albania_%2849137246301%29.jpg/330px-Terremoto_in_Albania_%2849137246301%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2024,
+      "description": "Anura Kumara Dissanayake is elected as the 9th President Of Sri Lanka.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Dissanayake_2026.jpg/330px-Dissanayake_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 4
+    "count": 21
   },
   "true-crime": {
     "top_event": {
-      "year": 2018,
-      "description": "LGBT rights activist Zak Kostopoulos is beaten to death on a busy street in Athens.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/20170620_Zak_Kostopoulos_Exarchia.jpg/330px-20170620_Zak_Kostopoulos_Exarchia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2006,
+      "description": "Twenty-three people were killed in a maglev train collision in Lathen, Germany.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/L0-950.jpg/330px-L0-950.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 7
-  },
-  "medicine-health": {
-    "top_event": {
-      "year": 2015,
-      "description": "Adventist Health System agreed to pay $118.7 million to settle allegations of fraud. It was the largest a hospital network has ever paid.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/AdventHealth_Headquarters.jpg/330px-AdventHealth_Headquarters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 1
-  },
-  "business-economics": {
-    "top_event": {
-      "year": 2015,
-      "description": "Adventist Health System agreed to pay $118.7 million to settle allegations of fraud. It was the largest a hospital network has ever paid.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/AdventHealth_Headquarters.jpg/330px-AdventHealth_Headquarters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 10
+    "count": 11
   },
   "wars-battles": {
     "top_event": {
       "year": 2013,
-      "description": "Al-Shabaab Islamic militants attack the Westgate shopping mall in Kenya, killing at least 67 people.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Islamic_State_flag.svg/330px-Islamic_State_flag.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "description": "At least 75 people are killed in a suicide bombing at a Christian church in Peshawar, Pakistan.",
+      "image_url": ""
     },
-    "count": 26
+    "count": 28
   },
   "empires-dynasties": {
     "top_event": {
-      "year": 2012,
-      "description": "Three Egyptian militants open fire on a group of Israeli soldiers in a southern Israel cross-border attack.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Map_of_the_Egyptian_Diaspora_in_the_World.svg/330px-Map_of_the_Egyptian_Diaspora_in_the_World.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1980,
+      "description": "Iraq invades Iran, sparking the nearly eight year Iran–Iraq War.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Battle_of_khorramshahr_4.jpg/330px-Battle_of_khorramshahr_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 24
+    "count": 20
   },
-  "space-exploration": {
+  "archaeology-discoveries": {
     "top_event": {
-      "year": 2003,
-      "description": "The Galileo spacecraft is terminated by sending it into Jupiter's atmosphere.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Artwork_Galileo-Io-Jupiter.JPG/330px-Artwork_Galileo-Io-Jupiter.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1976,
+      "description": "Red Dye No. 4 is banned by the US Food and Drug Administration after it is discovered that it causes tumors in the bladders of dogs.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Scarlet_GN.svg/330px-Scarlet_GN.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 3
-  },
-  "music-history": {
-    "top_event": {
-      "year": 2001,
-      "description": "America: A Tribute to Heroes is broadcast by over 35 network and cable channels, raising over $200 million for the victims of the September 11 attacks.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Various_Artists_-_America_A_Tribute_to_Heroes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    "count": 41
-  },
-  "politics-revolutions": {
-    "top_event": {
-      "year": 1996,
-      "description": "The Defense of Marriage Act is passed by the United States Congress.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/330px-Great_Seal_of_the_United_States_%28obverse%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 37
   },
   "women-in-history": {
     "top_event": {
-      "year": 1981,
-      "description": "Sandra Day O'Connor is unanimously approved by the U.S. Senate as the first female Supreme Court justice.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Sandra_Day_O%27Connor.jpg/330px-Sandra_Day_O%27Connor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1975,
+      "description": "Sara Jane Moore tries to assassinate U.S. President Gerald Ford, but is foiled by the Secret Service.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Mugshot_of_Sara_Jane_Moore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
-    "count": 4
+    "count": 8
   },
   "inventions-technology": {
     "top_event": {
-      "year": 1981,
-      "description": "Sandra Day O'Connor is unanimously approved by the U.S. Senate as the first female Supreme Court justice.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Sandra_Day_O%27Connor.jpg/330px-Sandra_Day_O%27Connor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1953,
+      "description": "The Four Level Interchange, first stack interchange in the world opened in Los Angeles.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Four_Level_Interchange.jpg/330px-Four_Level_Interchange.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 9
-  },
-  "general-history": {
-    "top_event": {
-      "year": 1976,
-      "description": "Seychelles joins the United Nations.",
-      "image_url": ""
-    },
-    "count": 161
-  },
-  "literature-writers": {
-    "top_event": {
-      "year": 1972,
-      "description": "Philippine president Ferdinand Marcos begins authoritarian rule by declaring martial law.",
-      "image_url": ""
-    },
-    "count": 78
+    "count": 8
   },
   "firsts-in-history": {
     "top_event": {
-      "year": 1937,
-      "description": "J.R.R. Tolkien's The Hobbit is published for the first time. (September 22 is celebrated by some fans as Hobbit Day, however.)",
-      "image_url": ""
+      "year": 1953,
+      "description": "The Four Level Interchange, first stack interchange in the world opened in Los Angeles.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Four_Level_Interchange.jpg/330px-Four_Level_Interchange.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 3
+    "count": 6
   },
-  "sports-history": {
+  "natural-disasters": {
     "top_event": {
-      "year": 2024,
-      "description": "Mercury Morris, American football player (born 1947)",
+      "year": 1934,
+      "description": "The Gresford disaster in Wales kills 266 miners and rescuers.",
       "image_url": ""
     },
-    "count": 42
+    "count": 2
+  },
+  "general-history": {
+    "top_event": {
+      "year": 1919,
+      "description": "The steel strike of 1919, led by the Amalgamated Association of Iron and Steel Workers, begins in Pennsylvania before spreading across the United States.",
+      "image_url": ""
+    },
+    "count": 160
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1910,
+      "description": "The Duke of York's Picture House opens in Brighton, now the oldest continually operating cinema in Britain.",
+      "image_url": ""
+    },
+    "count": 50
   },
   "cinema-film": {
     "top_event": {
-      "year": 2022,
-      "description": "Raju Srivastav, Indian comedian, actor and politician (born 1963)",
+      "year": 1910,
+      "description": "The Duke of York's Picture House opens in Brighton, now the oldest continually operating cinema in Britain.",
       "image_url": ""
     },
     "count": 60
   },
-  "strange-unexplained": {
+  "literature-writers": {
     "top_event": {
-      "year": 2007,
-      "description": "Alice Ghostley, American actress (born 1923)",
+      "year": 2022,
+      "description": "Hilary Mantel, British author (born 1952)",
       "image_url": ""
     },
-    "count": 1
+    "count": 61
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 2014,
+      "description": "Fernando Cabrita, Portuguese footballer and manager (born 1923)",
+      "image_url": ""
+    },
+    "count": 25
+  },
+  "business-economics": {
+    "top_event": {
+      "year": 2013,
+      "description": "Hans Erich Slany, German industrial designer, founded TEAMS Design (born 1926)",
+      "image_url": ""
+    },
+    "count": 10
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1965,
+      "description": "Robert Satcher, American physician, engineer, and astronaut",
+      "image_url": ""
+    },
+    "count": 3
   }
 }
