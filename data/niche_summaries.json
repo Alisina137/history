@@ -1,146 +1,138 @@
 {
-  "art-architecture": {
+  "cinema-film": {
     "top_event": {
-      "year": 2023,
-      "description": "NASA's OSIRIS-REx capsule containing samples from the asteroid 101955 Bennu successfully lands back on Earth.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2018,
+      "description": "Bill Cosby is sentenced to three to ten years in prison for aggravated sexual assault.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg/330px-The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 36
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 2023,
-      "description": "NASA's OSIRIS-REx capsule containing samples from the asteroid 101955 Bennu successfully lands back on Earth.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 15
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 2023,
-      "description": "NASA's OSIRIS-REx capsule containing samples from the asteroid 101955 Bennu successfully lands back on Earth.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 10
-  },
-  "empires-dynasties": {
-    "top_event": {
-      "year": 2015,
-      "description": "At least 1,100 people are killed and another 934 wounded after a stampede during the Hajj in Saudi Arabia.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_way_to_Jamarat_Bridge_3.JPG/330px-The_way_to_Jamarat_Bridge_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 17
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 2015,
-      "description": "At least 1,100 people are killed and another 934 wounded after a stampede during the Hajj in Saudi Arabia.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_way_to_Jamarat_Bridge_3.JPG/330px-The_way_to_Jamarat_Bridge_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 5
+    "count": 72
   },
   "literature-writers": {
     "top_event": {
-      "year": 2014,
-      "description": "The Mars Orbiter Mission makes India the first Asian nation to reach Mars orbit, and the first nation in the world to do so in its first attempt.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg/330px-Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2018,
+      "description": "Bill Cosby is sentenced to three to ten years in prison for aggravated sexual assault.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg/330px-The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 64
+    "count": 79
   },
-  "politics-revolutions": {
+  "true-crime": {
     "top_event": {
-      "year": 2008,
-      "description": "Thabo Mbeki resigns as president of South Africa.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Thabo_Mbeki%2C_August_2023.jpg/330px-Thabo_Mbeki%2C_August_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2018,
+      "description": "Bill Cosby is sentenced to three to ten years in prison for aggravated sexual assault.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg/330px-The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 22
+    "count": 5
   },
-  "wars-battles": {
+  "art-architecture": {
     "top_event": {
-      "year": 2007,
-      "description": "Between 30,000 and 100,000 people take part in anti-government protests in Yangon, Burma, the largest in 20 years.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/2007_Myanmar_protests_7.jpg/330px-2007_Myanmar_protests_7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2003,
+      "description": "The 8.3 Mw Hokkaidō earthquake strikes just offshore Hokkaidō, Japan.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg/330px-2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 11
+    "count": 35
   },
   "natural-disasters": {
     "top_event": {
-      "year": 2005,
-      "description": "Hurricane Rita makes landfall in the United States, devastating portions of southwestern Louisiana and extreme southeastern Texas.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Rita_2005-09-21_1915Z.jpg/330px-Rita_2005-09-21_1915Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2003,
+      "description": "The 8.3 Mw Hokkaidō earthquake strikes just offshore Hokkaidō, Japan.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg/330px-2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 2
+    "count": 1
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1998,
+      "description": "PauknAir Flight 4101, a British Aerospace 146, crashes near Melilla Airport in Melilla, Spain, killing 38 people.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/BAe_146-100_Paukn_Air_F386-6A.jpg/330px-BAe_146-100_Paukn_Air_F386-6A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 3
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1997,
+      "description": "NASA launches Space Shuttle Atlantis on STS-86 to the Mir space station.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 11
+  },
+  "politics-revolutions": {
+    "top_event": {
+      "year": 1987,
+      "description": "Fijian Governor-General Penaia Ganilau is overthrown in a coup d'état led by Lieutenant colonel Sitiveni Rabuka.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Penaia_Ganilau_1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "count": 32
   },
   "firsts-in-history": {
     "top_event": {
-      "year": 1975,
-      "description": "Southwest Face expedition members become the first persons to reach the summit of Mount Everest by any of its faces, instead of using a ridge route.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Mount_Everest_Southwest_Face%2C_November_2012.jpg/330px-Mount_Everest_Southwest_Face%2C_November_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 1977,
+      "description": "About 4,200 people take part in the first running of the Chicago Marathon.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6e/Chicago_Marathon_logo_%28gradient%29.svg/330px-Chicago_Marathon_logo_%28gradient%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 7
+    "count": 4
+  },
+  "medicine-health": {
+    "top_event": {
+      "year": 1974,
+      "description": "Dr. Frank Jobe performs first ulnar collateral ligament replacement surgery (better known as Tommy John surgery) on baseball player Tommy John.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Frank_Jobe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "count": 1
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1974,
+      "description": "Dr. Frank Jobe performs first ulnar collateral ligament replacement surgery (better known as Tommy John surgery) on baseball player Tommy John.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Frank_Jobe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "count": 42
+  },
+  "music-history": {
+    "top_event": {
+      "year": 1969,
+      "description": "The charter establishing the Organisation of Islamic Cooperation is signed.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/OIC_Logo_since_2011.svg/330px-OIC_Logo_since_2011.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 58
+  },
+  "wars-battles": {
+    "top_event": {
+      "year": 1964,
+      "description": "The Mozambican War of Independence against Portugal begins.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mozambican_War_of_Independence.jpg/330px-Mozambican_War_of_Independence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 18
   },
   "business-economics": {
     "top_event": {
-      "year": 1948,
-      "description": "The Honda Motor Company is founded.",
+      "year": 1955,
+      "description": "The Royal Jordanian Air Force is founded.",
       "image_url": ""
     },
     "count": 14
   },
   "general-history": {
     "top_event": {
-      "year": 1932,
-      "description": "Mahatma Gandhi and B. R. Ambedkar agree to the Poona Pact, which reserved seats in the Indian provincial legislatures for the \"Depressed Classes\" (Untouchables).",
+      "year": 1868,
+      "description": "The Imperial Russian steam frigate Alexander Nevsky is shipwrecked off Jutland while carrying Grand Duke Alexei Alexandrovich of Russia.",
       "image_url": ""
     },
-    "count": 137
+    "count": 158
   },
-  "cinema-film": {
+  "empires-dynasties": {
     "top_event": {
-      "year": 1875,
-      "description": "The 1864 play Heath Cobblers by Aleksis Kivi premieres in Oulu, Finland.",
+      "year": 1790,
+      "description": "Four Great Anhui Troupes introduce Anhui opera to Beijing in honor of the Qianlong Emperor's eightieth birthday.",
       "image_url": ""
     },
-    "count": 52
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 2016,
-      "description": "Mel Charles, Welsh footballer (born 1935)",
-      "image_url": ""
-    },
-    "count": 36
-  },
-  "music-history": {
-    "top_event": {
-      "year": 2016,
-      "description": "Buckwheat Zydeco, American accordionist and bandleader (born 1947)",
-      "image_url": ""
-    },
-    "count": 47
-  },
-  "archaeology-discoveries": {
-    "top_event": {
-      "year": 2015,
-      "description": "Wang Zhongshu, Chinese archaeologist and academic (born 1925)",
-      "image_url": ""
-    },
-    "count": 2
+    "count": 19
   },
   "women-in-history": {
     "top_event": {
-      "year": 1989,
-      "description": "Pia Wurtzbach, Filipina actress, model, and beauty queen, Miss Universe 2015",
+      "year": 2005,
+      "description": "Madeline-Ann Aksich, Canadian businesswoman and philanthropist (born 1956)",
       "image_url": ""
     },
-    "count": 3
-  },
-  "strange-unexplained": {
-    "top_event": {
-      "year": 1939,
-      "description": "Jacques Vallée, French ufologist",
-      "image_url": ""
-    },
-    "count": 1
+    "count": 2
   }
 }
