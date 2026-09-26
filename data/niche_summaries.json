@@ -1,136 +1,136 @@
 {
-  "cinema-film": {
+  "natural-disasters": {
     "top_event": {
-      "year": 2018,
-      "description": "Bill Cosby is sentenced to three to ten years in prison for aggravated sexual assault.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg/330px-The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2024,
+      "description": "Hurricane Helene makes landfall in Perry, Florida as a Category 4 hurricane, killing over 250 people, causing US$78.7 billion in damage and becoming the deadliest hurricane in the mainland United States since Katrina.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Helene_2024-09-27_0146Z.jpg/330px-Helene_2024-09-27_0146Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 72
-  },
-  "literature-writers": {
-    "top_event": {
-      "year": 2018,
-      "description": "Bill Cosby is sentenced to three to ten years in prison for aggravated sexual assault.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg/330px-The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 79
-  },
-  "true-crime": {
-    "top_event": {
-      "year": 2018,
-      "description": "Bill Cosby is sentenced to three to ten years in prison for aggravated sexual assault.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg/330px-The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 5
+    "count": 2
   },
   "art-architecture": {
     "top_event": {
-      "year": 2003,
-      "description": "The 8.3 Mw Hokkaidō earthquake strikes just offshore Hokkaidō, Japan.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg/330px-2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2022,
+      "description": "A mass shooting occurs at a school in Izhevsk, Udmurtia, Russia, resulting in the deaths of 18 people, including 11 children.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/%D0%A2%D1%80%D0%B0%D1%83%D1%80%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%BF%D0%BE%D0%B3%D0%B8%D0%B1%D1%88%D0%B8%D0%BC_%D0%B2_%D1%88%D0%BA%D0%BE%D0%BB%D0%B5_%D0%98%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%B0_%D0%B2_%D0%90%D0%BB%D1%83%D1%88%D1%82%D0%B5%2C_05.jpg/330px-%D0%A2%D1%80%D0%B0%D1%83%D1%80%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%BF%D0%BE%D0%B3%D0%B8%D0%B1%D1%88%D0%B8%D0%BC_%D0%B2_%D1%88%D0%BA%D0%BE%D0%BB%D0%B5_%D0%98%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%B0_%D0%B2_%D0%90%D0%BB%D1%83%D1%88%D1%82%D0%B5%2C_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 35
+    "count": 40
   },
-  "natural-disasters": {
+  "true-crime": {
     "top_event": {
-      "year": 2003,
-      "description": "The 8.3 Mw Hokkaidō earthquake strikes just offshore Hokkaidō, Japan.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg/330px-2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2022,
+      "description": "A mass shooting occurs at a school in Izhevsk, Udmurtia, Russia, resulting in the deaths of 18 people, including 11 children.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/%D0%A2%D1%80%D0%B0%D1%83%D1%80%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%BF%D0%BE%D0%B3%D0%B8%D0%B1%D1%88%D0%B8%D0%BC_%D0%B2_%D1%88%D0%BA%D0%BE%D0%BB%D0%B5_%D0%98%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%B0_%D0%B2_%D0%90%D0%BB%D1%83%D1%88%D1%82%D0%B5%2C_05.jpg/330px-%D0%A2%D1%80%D0%B0%D1%83%D1%80%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%BF%D0%BE%D0%B3%D0%B8%D0%B1%D1%88%D0%B8%D0%BC_%D0%B2_%D1%88%D0%BA%D0%BE%D0%BB%D0%B5_%D0%98%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%B0_%D0%B2_%D0%90%D0%BB%D1%83%D1%88%D1%82%D0%B5%2C_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 1
-  },
-  "space-exploration": {
-    "top_event": {
-      "year": 1998,
-      "description": "PauknAir Flight 4101, a British Aerospace 146, crashes near Melilla Airport in Melilla, Spain, killing 38 people.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/BAe_146-100_Paukn_Air_F386-6A.jpg/330px-BAe_146-100_Paukn_Air_F386-6A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 3
-  },
-  "inventions-technology": {
-    "top_event": {
-      "year": 1997,
-      "description": "NASA launches Space Shuttle Atlantis on STS-86 to the Mir space station.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 11
+    "count": 6
   },
   "politics-revolutions": {
     "top_event": {
-      "year": 1987,
-      "description": "Fijian Governor-General Penaia Ganilau is overthrown in a coup d'état led by Lieutenant colonel Sitiveni Rabuka.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Penaia_Ganilau_1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    "count": 32
-  },
-  "firsts-in-history": {
-    "top_event": {
-      "year": 1977,
-      "description": "About 4,200 people take part in the first running of the Chicago Marathon.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6e/Chicago_Marathon_logo_%28gradient%29.svg/330px-Chicago_Marathon_logo_%28gradient%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 4
-  },
-  "medicine-health": {
-    "top_event": {
-      "year": 1974,
-      "description": "Dr. Frank Jobe performs first ulnar collateral ligament replacement surgery (better known as Tommy John surgery) on baseball player Tommy John.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Frank_Jobe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    "count": 1
-  },
-  "sports-history": {
-    "top_event": {
-      "year": 1974,
-      "description": "Dr. Frank Jobe performs first ulnar collateral ligament replacement surgery (better known as Tommy John surgery) on baseball player Tommy John.",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Frank_Jobe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    "count": 42
-  },
-  "music-history": {
-    "top_event": {
-      "year": 1969,
-      "description": "The charter establishing the Organisation of Islamic Cooperation is signed.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/OIC_Logo_since_2011.svg/330px-OIC_Logo_since_2011.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    "count": 58
-  },
-  "wars-battles": {
-    "top_event": {
-      "year": 1964,
-      "description": "The Mozambican War of Independence against Portugal begins.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mozambican_War_of_Independence.jpg/330px-Mozambican_War_of_Independence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "year": 2010,
+      "description": "The Philippine Bar exam bombing occurs near the De La Salle University in Taft Avenue, Manila injuring 47 people.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Taft_Ave_blast.jpg/330px-Taft_Ave_blast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     "count": 18
   },
   "business-economics": {
     "top_event": {
-      "year": 1955,
-      "description": "The Royal Jordanian Air Force is founded.",
-      "image_url": ""
+      "year": 2000,
+      "description": "Anti-globalization protests in Prague (some 20,000 protesters) turn violent during the IMF and World Bank summits.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Kucera_Jaroslav_Praha%2C_Lum%C3%ADrova_ulice_2000_ANARCHISTI.jpg/330px-Kucera_Jaroslav_Praha%2C_Lum%C3%ADrova_ulice_2000_ANARCHISTI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
-    "count": 14
+    "count": 17
+  },
+  "wars-battles": {
+    "top_event": {
+      "year": 1992,
+      "description": "A Nigerian Air Force Lockheed C-130 Hercules crashes in Ejigbo, Lagos, killing 159.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Nigerian_Air_Force_emblem.svg/330px-Nigerian_Air_Force_emblem.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 28
+  },
+  "empires-dynasties": {
+    "top_event": {
+      "year": 1984,
+      "description": "The United Kingdom and China agree to a transfer of sovereignty over Hong Kong, to take place in 1997.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Image_shows_the_Union_and_Chinese_Flags_together._MOD_45157410.jpg/330px-Image_shows_the_Union_and_Chinese_Flags_together._MOD_45157410.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 13
+  },
+  "inventions-technology": {
+    "top_event": {
+      "year": 1983,
+      "description": "Soviet Air Force officer Stanislav Petrov identifies a report of an incoming nuclear missile as a computer error and not an American first strike, thus preventing nuclear war.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Stanislaw-jewgrafowitsch-petrow-2016.jpg/330px-Stanislaw-jewgrafowitsch-petrow-2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 11
+  },
+  "space-exploration": {
+    "top_event": {
+      "year": 1983,
+      "description": "Soyuz 7K-ST No. 16L, intended to launch a crew to the Salyut 7 space station, explodes on the launch pad. The launch escape system is activated before the Soyuz-U rocket explodes, saving the crew.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/d/dd/Soyuz_explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    "count": 4
+  },
+  "sports-history": {
+    "top_event": {
+      "year": 1959,
+      "description": "Typhoon Vera, the strongest typhoon to hit Japan in recorded history, makes landfall, killing 4,580 people and leaving nearly 1.6 million others homeless.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Typhoon_Vera_analysis_23_Sep_1959.png/330px-Typhoon_Vera_analysis_23_Sep_1959.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "count": 31
   },
   "general-history": {
     "top_event": {
-      "year": 1868,
-      "description": "The Imperial Russian steam frigate Alexander Nevsky is shipwrecked off Jutland while carrying Grand Duke Alexei Alexandrovich of Russia.",
+      "year": 1942,
+      "description": "Holocaust: Senior SS official August Frank issues a memorandum detailing how Jews should be \"evacuated\".",
       "image_url": ""
     },
     "count": 158
   },
-  "empires-dynasties": {
+  "firsts-in-history": {
     "top_event": {
-      "year": 1790,
-      "description": "Four Great Anhui Troupes introduce Anhui opera to Beijing in honor of the Qianlong Emperor's eightieth birthday.",
+      "year": 1789,
+      "description": "George Washington appoints Thomas Jefferson the first United States Secretary of State.",
       "image_url": ""
     },
-    "count": 19
+    "count": 3
+  },
+  "cinema-film": {
+    "top_event": {
+      "year": 2024,
+      "description": "John Ashton, American actor (born 1948)",
+      "image_url": ""
+    },
+    "count": 63
+  },
+  "music-history": {
+    "top_event": {
+      "year": 2003,
+      "description": "Jane Remover, American musician",
+      "image_url": ""
+    },
+    "count": 57
+  },
+  "literature-writers": {
+    "top_event": {
+      "year": 2015,
+      "description": "Sidney Phillips, American soldier, physician, and author (born 1924)",
+      "image_url": ""
+    },
+    "count": 68
   },
   "women-in-history": {
     "top_event": {
-      "year": 2005,
-      "description": "Madeline-Ann Aksich, Canadian businesswoman and philanthropist (born 1956)",
+      "year": 1329,
+      "description": "Anne of Bavaria, German queen consort (died 1353)",
+      "image_url": ""
+    },
+    "count": 3
+  },
+  "medicine-health": {
+    "top_event": {
+      "year": 1536,
+      "description": "Didier de Saint-Jaille, 46th Grandmaster of the Knights Hospitaller",
       "image_url": ""
     },
     "count": 2
